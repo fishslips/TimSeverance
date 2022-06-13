@@ -7,18 +7,12 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: LiquidForest
-      primary:
-      accent: 
-      toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: LiquidForest
-      primary: 
-      accent: 
-      toggle:
         icon: material/weather-night
         name: Switch to light mode
 
