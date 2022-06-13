@@ -6,20 +6,20 @@ theme:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      accent: red
+      scheme: LiquidForest
+      primary:
+      accent: 
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: "#8FBC8F"
-      accent: "#2F4F4F"
+      scheme: LiquidForest
+      primary: 
+      accent: 
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
 
 # Extensions
@@ -43,7 +43,7 @@ plugins:
   - roamlinks 
 
 extra_css:
-  - css/extra.css
+  - stylesheets/extra.css
 
 extra_javascript:
-  - js/extra.js
+  - javascripts/extra.js
