@@ -16,8 +16,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: darkseagreen
-      accent: darkslategrey
+      primary: '#8FBC8F'
+      accent: '#2F4F4F'
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
