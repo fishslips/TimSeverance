@@ -1,10 +1,10 @@
-[data-md-color-scheme="lightmode"]{    
+[data-md-color-scheme="lightish"]{    
     --md-primary-fg-color:        #7FFFD4;
     --md-primary-fg-color--light: #FFEBCD;
     --md-primary-fg-color--dark:  #66CDAA;
 }
 
-[data-md-color-scheme="darkmode"]{    
+[data-md-color-scheme="darkish"]{    
     --md-primary-fg-color:        #8FBC8F;
     --md-primary-fg-color--light: #3CB371;
     --md-primary-fg-color--dark:  #2F4F4F;
