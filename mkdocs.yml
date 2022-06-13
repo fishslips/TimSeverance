@@ -6,7 +6,7 @@ theme:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: liquidforest
+      scheme: thing
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
