@@ -13,7 +13,7 @@ theme:
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme: thing
       toggle:
         icon: material/weather-night
         name: Switch to light mode
