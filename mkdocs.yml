@@ -6,14 +6,14 @@ theme:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: thing
+      scheme: lightmode
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: thing
+      scheme: darkmode
       toggle:
         icon: material/weather-night
         name: Switch to light mode
