@@ -41,3 +41,9 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+
+extra_css:
+  - css/extra.css
+
+extra_javascript:
+  - js/extra.js
