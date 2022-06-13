@@ -10,7 +10,7 @@ Flying objects typically rotate on the x, y, and z axis, also known as roll, pit
 #### Rotate Pawn
 I tried several other movement methods, and couldn't get it.  As an alternative, I decided to experiment with a basic Pawn class.  In this class I used a function called Add Local Rotation
 
-![[Pasted image 20220613111953.png]]
+![[Pasted image 20220613114410.png]]
 
 This allows the Pawn to rotate in a standard way that you would expect from jets or helicopters.  I was still confused as to why it wasn't working for the Character class though.  I found this video
 
@@ -19,7 +19,7 @@ This allows the Pawn to rotate in a standard way that you would expect from jets
 
 It turns out that as far as the Character class goes, the controller is in charge of rotation (with certain settings enabled) which means that the rotation pin on the MoveUpdatedComponent will not actually rotate the character.  Instead, SetControlRotation should be used.
 
-![[Pasted image 20220613111451.png]]
+![[Pasted image 20220613114601.png]]
 
 This allows the Character to rotate in the same way. The only stipulation is that while we get the control rotation, we have to add the change in rotation (similar to the add local rotation function) and then set the control rotation.
 
