@@ -1,13 +1,23 @@
 [data-md-color-scheme="lightish"]{    
-    --md-default-fg-color:        #DEB887;
+    --md-default-bg-color:        #DEB887;
     --md-primary-fg-color:        #7FFFD4;
     --md-primary-fg-color--light: #FFEBCD;
     --md-primary-fg-color--dark:  #66CDAA;
 }
 
 [data-md-color-scheme="darkish"]{    
-    --md-default-fg-color:        #696969;
-    --md-primary-fg-color:        #8FBC8F;
+    --md-default-bg-color: #0c0d18db;
+    --md-primary-bg-color: blanchedalmond;
+    --md-primary-fg-color: darkslategray;
     --md-primary-fg-color--light: #3CB371;
-    --md-primary-fg-color--dark:  #2F4F4F;
+    --md-primary-fg-color--dark: #2F4F4F;
+    --md-typeset-color: blanchedalmond;
+    --md-typeset-a-color: darkseagreen;
+    --md-footer-bg-color: rgb(47 79 79 / 50%);
+}
+
+.md-typeset h1 {
+    color:blanchedalmond;
+    font-size: 2em;
+    line-height: 1.3;
 }
