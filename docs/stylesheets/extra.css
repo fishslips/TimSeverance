@@ -1,6 +1,5 @@
 [data-md-color-scheme="liquidforest"]{    
-    --md-primary-fg-color--light:   #FFEBCD;
-    --md-primary-fg-color--dark:    #8FBC8F;
-    --md-accent-fg-color--light:    #20B2AA;
-    --md-accent-fg-color--dark:     #FFEBCD;
+    --md-primary-fg-color:        #EE0F0F;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
 }
