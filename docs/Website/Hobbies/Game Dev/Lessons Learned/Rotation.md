@@ -25,7 +25,7 @@ This allows the Character to rotate in the same way. The only stipulation is tha
 
 I'm sure there are several other methods to rotate the object that the player controls, like Add Controller Input.  These were just two alternatives that I found interesting that can offer more control.
 
-## Summary:
+## Summary
 
 Three main ways to rotate a player
 
