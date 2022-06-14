@@ -1,11 +1,5 @@
-# Obsidian Notes
+# Home
 
-Publish your public notes with MkDocs
+## 💯🔥🤠Welcome to Tim's Big Website 🤠🔥💯
+Yeeeeehawwwww I'm from the eastern panhandle 🪕 of the 🌷Wild and Wonderful West Virginia ⛰  babyyyyyy. My name is Tim, and I'm a big boy computer scientist 🤓.  Come on in, the pepperoni rolls are almost done! 👨‍🍳
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
