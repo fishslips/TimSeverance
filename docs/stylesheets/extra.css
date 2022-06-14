@@ -1,9 +1,12 @@
 [data-md-color-scheme="lightish"]{    
-    --md-default-bg-color:        antiquewhite;
-    --md-primary-fg-color:        darkseagreen;
+    --md-default-bg-color: antiquewhite;
+    --md-primary-fg-color: darkseagreen;
     --md-primary-fg-color--light: #FFEBCD;
-    --md-primary-fg-color--dark:  #66CDAA;
+    --md-primary-fg-color--dark: #66CDAA;
+    --md-typeset-a-color: forestgreen;
+    --md-typeset-color: black;
 }
+
 
 [data-md-color-scheme="darkish"]{    
     --md-default-bg-color: #0c0d18db;
