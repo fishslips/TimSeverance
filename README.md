@@ -47,3 +47,10 @@ By default, the sections and pages will follow the folder structure within `/doc
 - [kmaasrud/oboe](https://github.com/kmaasrud/oboe): tool to convert an Obsidian vault into a static directory of HTML files.
 - [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template): template for Obsidian/Foam using mkdocs/mkdocs-material/mkdocs-roamlinks-plugin
 - [foambubble/foam-template](https://github.com/foambubble/foam-template): Foam workpace template
+
+
+
+
+## Extra Features
+[Material for MkDocs - Customization](https://squidfunk.github.io/mkdocs-material/customization/)
+[Scalable Videos](https://www.reddit.com/r/ObsidianMD/comments/oumqda/responsive_youtube_embed_video_in_obsidian/)
