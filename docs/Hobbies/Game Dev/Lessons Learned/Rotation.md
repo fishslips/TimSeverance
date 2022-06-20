@@ -15,8 +15,9 @@ I tried several other movement methods, and couldn't get it.  As an alternative,
 This allows the Pawn to rotate in a standard way that you would expect from jets or helicopters.  I was still confused as to why it wasn't working for the Character class though.  I found this video
 
 #### Rotate Character
+<div class=vidscale>
 <iframe width="700" height="400" src="https://www.youtube.com/embed/vszgkMwahDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 It turns out that as far as the Character class goes, the controller is in charge of rotation (with certain settings enabled) which means that the rotation pin on the MoveUpdatedComponent will not actually rotate the character.  Instead, SetControlRotation should be used.
 
 ![[Pasted image 20220613114601.png]]

@@ -19,3 +19,16 @@
     --md-footer-bg-color: rgb(47 79 79 / 50%);
 }
 
+.vidscale{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+    }
+.vidscale iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
