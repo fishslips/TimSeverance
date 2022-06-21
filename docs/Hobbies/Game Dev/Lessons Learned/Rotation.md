@@ -2,7 +2,7 @@
 
 While attempting to create a battlefield style helicopter I ran into an issue with rotation. I first wanted to use the Character class because it has a lot of built in functionality like conditions for flying. 
 
-In UE there are several methods that can be used to manipulate transformative properties ,like rotation and location, of game objects. I had previously used a function called MoveUpdatedComponent in a Quake based movement blueprint to move my character after calculating player velocity. 
+In UE there are several methods that can be used to manipulate transformative properties, like rotation and location, of game objects. I had previously used a function called MoveUpdatedComponent in a Quake based movement blueprint to move my character after calculating player velocity. 
 
 Flying objects typically rotate on the x, y, and z axis, also known as roll, pitch, and yaw. After getting input values and applying them on these axes and then passing them to the MoveUpdatedComponent, it wasn't moving.  
 
