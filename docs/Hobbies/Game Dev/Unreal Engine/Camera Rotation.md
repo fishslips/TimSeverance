@@ -1,7 +1,7 @@
 ## Problem
-While working on the helicopter I finally got it to rotate, but found I could only pitch and roll from -90 to 90 degrees.  For flight, we generally want the ability to rotate a full 360 degrees in any direction.
+While working on the helicopter I finally got it to [[Rotation | rotate]], but found I could only pitch and roll from -90 to 90 degrees.  For flight, we generally want the ability to rotate a full 360 degrees in any direction.
 
-## Solution (It's not [[Gimbal Lock | #GimbalLock]])
+## Solution (It's not [[Gimbal Lock]])
 By default, the player camera is managed by the camera manager, which is managed by the controller (as far as I understand anyways)
 
 So what you want to do is create a new camera manager. You may also need to create a new controller and set it as your default controller. Anyway, I chose the PlayerCameraManager class but I haven't experimented with its subclasses yet.
@@ -16,3 +16,4 @@ Finally, in your Controller class, set your Player Camera Manager Class to the n
 
 ![[Pasted image 20220621184731.png]]
 
+#UnrealEngine #Blueprints
