@@ -37,5 +37,36 @@
 ## Notes
 ### 08/22/22
 
+#### zyBook instructions for access through Canvas
 
+1. Click any zyBooks assignment link in your learning management system
+(Do not go to the zyBooks website and create a new account)
+2. Subscribe
+
+Can be refunded
+
+#### How to succeed in this class
+
+You've gotta get a C+ or higher to matriculate
+
+Midterm and Final is worth 30%
+- Between class and reading, you'll have everything you need to know. 
+- We'll do a review day before the tests.
+
+Programming Projects is 50%
+- Give yourself plenty of time and don't wait til the last minute
+- Ask the IA, ask me, ask your classmates.  
+
+zyBooks PA's is 20% 
+- These are basically free. Don't miss these points. They're literally so easy.
+
+Get lots of good sleep
+Take the fish and look at it
+Ask "why" a lot
+Ask others for help
+Come to class
+
+#### Contact Info
+Tim.Severance@uvu.edu
+Discord
 
