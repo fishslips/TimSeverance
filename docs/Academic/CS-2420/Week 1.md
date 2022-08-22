@@ -1,3 +1,4 @@
+## Notes for Module 1
 ### Intro to algorithms
 Algorithms describe steps to solve some problem. Baking a cake, getting to CS-400, or sorting lists can all use algorithms. Algorithms can be expressed in natural language, pseudocode, formal languages, whatever.
 

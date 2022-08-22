@@ -33,4 +33,9 @@
 | November 21 | Thanksgiving Break Begins |
 | November 26 | Thanksgiving Break Ends |
 
-### Todo
+
+## Notes
+### 08/22/22
+
+
+
