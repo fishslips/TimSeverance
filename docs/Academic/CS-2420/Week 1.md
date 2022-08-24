@@ -62,3 +62,16 @@ k represents some constant number
 
 
 
+
+### Topics to hit
+#### 08/24/22
+1. Memes / Pictures
+2. Make sure everyone has zybooks, discord, python + modules
+3. Questions
+4. Jupyter Notebooks
+5. Recursion / Compilation
+6. Fibonacci sequence
+7. BigOFib
+8. Space and Time Complexity
+9. Freestyle Coding
+10. Orders of Ignorance / Take this Fish
