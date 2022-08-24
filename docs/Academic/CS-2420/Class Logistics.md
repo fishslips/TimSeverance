@@ -34,10 +34,10 @@
 | November 26 | Thanksgiving Break Ends |
 
 
-## Notes
-### 08/22/22
+### Notes
+#### 08/22/22
 
-#### zyBook instructions for access through Canvas
+##### zyBook instructions for access through Canvas
 
 1. Click any zyBooks assignment link in your learning management system
 (Do not go to the zyBooks website and create a new account)
@@ -45,7 +45,7 @@
 
 Can be refunded
 
-#### How to succeed in this class
+##### How to succeed in this class
 
 You've gotta get a C+ or higher to matriculate
 
@@ -66,7 +66,19 @@ Ask "why" a lot
 Ask others for help
 Come to class
 
-#### Contact Info
+##### Contact Info
 Tim.Severance@uvu.edu
 Discord
+
+
+### Todo
+
+Discord server
+Fix zybooks
+Get memes going
+More about me stuff
+Hit pyhon confusions like "self"
+Why do we use binary?
+Show some compilery stuff?
+Big O 
 
