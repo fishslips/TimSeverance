@@ -12,4 +12,5 @@
 	- Linear search
 	- Analyze time and space complexity
 6. Show pytest / pylint
-7. Show compilation with compiler and VM?
+7. Search functions for project 1
+8. Show compilation with compiler and VM?
