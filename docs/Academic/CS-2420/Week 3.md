@@ -1,3 +1,5 @@
+# Week 3
+
 ## Sorting
 
 ### Selection Sort
@@ -46,3 +48,13 @@ Time Complexity: $(n-1) * \frac{n}{2}$ and O(N<sup>2</sup>)
 Space Complexity: O(1)
 
 Insertion sort has some benefits over selection sort. Insertion sort has a runtime of O(N) for sorted or nearly sorted inputs, as it will only have to do a comparison on each outer loop.
+
+## Topics to Hit
+
+### 09/07/22
+- Important Dates
+- Memes
+- Project 1 Q&A / Review
+- Sorting Algorithms
+	- One Note Examples
+	- Youtube video
