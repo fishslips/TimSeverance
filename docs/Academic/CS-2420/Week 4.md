@@ -30,6 +30,10 @@ The trick is that the values in the low and high partition aren't sorted, it's j
 
 Quicksort uses a helper function, called Partition. Partition gets all the elements less than the pivot point to the left, and all the elements greater than the pivot point on the right. This may include swapping the pivot value to some index other than middle, but that doesn't matter, because all that we care about is making sure values ltet are on the left, and values gtet are on the right.
 
+low and high, i and j move towards the middle swapping values if needed.
+
+Quicksort just calls Partition, where we move low values to the left partition, and high values to the right partition, and then recursively calls itself with low and high partitions until the partitions are only size 0 or 1.
+
 Time Complexity: $(n+1) * \frac{n}{2}$ and O(N<sup>2</sup>)
 
 with N-1 levels for partitioning.
