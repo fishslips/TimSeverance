@@ -11,6 +11,10 @@ insertion sort
 
 ### 09/14/22
 
+Arrays are just dedicated start and end points in memory. So it doesn't matter necessarily matter if we virtually "split" the array, or "split" the array in memory, because at the end of the day, they're both just different levels of abstraction.
+
+Quick and Merge sorts both use a main function, with a helper function that does most of the heavy lifting.
+
 #### Quick Sort
 Splits the sort space with a pivot point and recursively sorts.  
 
