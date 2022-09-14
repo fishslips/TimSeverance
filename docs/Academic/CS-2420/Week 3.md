@@ -31,9 +31,9 @@ Moves to first element in unsorted region, and backtracks through each index swa
 
 #### Implementation
 
-i marks the current index. 
+i marks the current index, which is the first element in the unsorted region. (starts at 1st not to be confused with 0th)
 j gets set to the current index so we can back track
-If the element at j-1 is greater than the element at j then
+If the value at j-1 is greater than the value at j then
 - we save element at j to temp
 - Move element from j-1 to index j
 - Move value from temp to j-1
