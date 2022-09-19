@@ -30,3 +30,11 @@ As we move elements into their correct partitions, eventually we get to a partit
 
 https://www.geeksforgeeks.org/merge-sort/
 
+Creates a list and splits it in half. Both halves are both recursively split until. We can handle this in a few ways, but zybooks does it where we keep track of which regions we're in, and reorder the regions so the order doesn't get messed up.
+
+Once the lists are ready to be merged, we walk one at a time in each list and insert the least item into the current index and then move forward.
+
+If we get to the end of a list, we just insert the rest of the elements from the remaining list into the temp.
+
+We then copy all of the items into the original in the region we're in.
+
