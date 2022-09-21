@@ -38,3 +38,15 @@ If we get to the end of a list, we just insert the rest of the elements from the
 
 We then copy all of the items into the original in the region we're in.
 
+### 09/21/22
+
+Merge Sort and Quicksort work very similar
+
+Merge sort Recursively splits, and then sorts on the way back up
+
+Quicksort splits and partially sorts on the way down
+
+Both Algorithms essentially partition their lists
+
+Recursive quicksort can be faster than recursive mergesort with the use of tail recursion, which can allow the compiler to optimize and minimize stack depth.
+
