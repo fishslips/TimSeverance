@@ -63,10 +63,10 @@ AVL trees don't always have a perfectly minimal height, but their height is neve
 
 - Rotation
 	- In order to actually make good use of insertion, we need to reorder the tree so that it's balanced. Rotation is a local rearrangement of a BST the keeps the proper order.
-		Left
-		Right
-		Left-Right
-		Right-Left
+		Left-Left (Left node to Left node) Factor (2, 1) -> Solved with Right Rotation
+		Right-Right (Right node to Right node) Factor (-2,-1) -> Solved with Left Rotation
+		Left-Right Factor(2,-1) (Left Node to Right Node) -> Solved with Left Right Rotation
+		Right-Left Factor (-2, 1) (Right Node to Left Node) -> Solved with Right Left Rotation
 - Insertion
 - Removal
 - 
