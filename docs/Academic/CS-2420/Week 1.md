@@ -1,6 +1,6 @@
 ## Notes for Module 1
 ### Intro to algorithms
-Algorithms describe steps to solve some problem. Baking a cake, directions to CS-1400, or sorting lists can all use algorithms. Algorithms can be expressed in natural language, pseudocode, formal languages, whatever.
+Algorithms describe steps to solve some problem. Baking a cake, directions to CS401, or sorting lists can all use algorithms. Algorithms can be expressed in natural language, pseudocode, formal languages, whatever.
 
 Computational problems are problems that can be solved with computers given some input. We use algorithms to help solve these. Some algorithms are more efficient than others, as in they take less time or space to solve a problem, or they might be enifficient but easy to implement. There are lots of different ways to solve problems, some are better than others, but most of the time they have different pros and cons.
 
@@ -76,4 +76,5 @@ k represents some constant number
 9. Freestyle Coding (What did I mean by this? Getting better at coding? Coding on the fly? The dangers of not having a set plan? The benefits of flying freely and just experimenting?)
 10. Orders of Ignorance / Take this Fish
 11. Nothing is real. It's all made up. Nothing is sacred. We create structures to make sense of the world around us. Different paradigms make sense in different contexts. Don't lock yourself into one way of thinking.
+12. Recursion, Classes, dunder/magic methods
 
