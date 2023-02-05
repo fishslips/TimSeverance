@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-2420/Week 2.md",
+                "file": "docs/Academic/CS-2420/Week 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-2420/Week 2.md",
+                "file": "docs/Academic/CS-2420/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-2420/Week 2.md",
+                "file": "docs/Academic/CS-2420/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-2420/Week 2.md"
+                "file": "docs/Academic/CS-2420/Week 3.md"
               }
             }
           }
@@ -173,10 +173,11 @@
   },
   "active": "200164b50e78e590",
   "lastOpenFiles": [
+    "docs/Academic/CS-2420/Week 2.md",
     "docs/Academic/CS-2420/Week 1.md",
     "docs/Academic/CS-2420/Week 3.md",
+    "docs/Academic/CS-1410/Week 4.md",
     "docs/Academic/CS-3450/Week 2.md",
-    "docs/Academic/CS-2420/Week 2.md",
     "docs/Academic/CS-3450/Week 1.md",
     "docs/Academic/CS-2420/Week 14.md",
     "docs/Academic/CS-2420/Class Logistics.md",
