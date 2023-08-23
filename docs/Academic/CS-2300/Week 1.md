@@ -1,3 +1,7 @@
+## Introduction
+
+Discrete Math is where you'll really start to get into the science aspects of computer science. It is a CS course after all.
+
 ## Notes for Module 1
 
 Logic is formal reasoning with an emphasis on making precise statements.

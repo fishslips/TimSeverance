@@ -27,6 +27,11 @@
 	- About You
 
 - Go over syllabus
+- Tips For Success
+	- Contact me early if troubles arise. Please. Like actually.
+	- Get enough sleep. I can't emphasize this enough. If anyone practices an instrument, you'll see this become abundantly clear. Your brain needs rest, and does a lot of disk cleanup and solidifying during this time.
+	- Take adequate rests and make sure you're fueling your brain and body with what it needs
+	- 
 - How should we redistribute the 10% from discussions (we can also keep discussions if it's preferred)
 - How do we prefer Exams? Proctorio, Testing Center, In Class?
 - Take this fish / Orders of Ignorance
