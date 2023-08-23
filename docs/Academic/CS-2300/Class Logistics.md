@@ -38,7 +38,7 @@
 		- Major
 		- Hobbies and tell us a little bit about it
 		- Favorite Food
-		- Maybe a favorite book, movie, show, game, whatever
+		- Maybe a favorite book, movie, show, game, band whatever
 
 - Go over syllabus
 - Tips For Success

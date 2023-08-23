@@ -45,3 +45,31 @@ Parenthesis, Negate, AND, OR
 
 ### Truth Tables
 
+## Conditional Operations
+
+A compound proposition that uses a conditional operation is called a **conditional proposition**, also known as a conditional statement.
+
+### If Then ( → )
+- p → q reads as if p then q
+- propositional statement
+- Evaluation of this proposition is true when p and q are both true, false if p is true but q is false.
+- | p | q | p → q
+  | --- | --- | --- | 
+  | T | T | T |
+  | T | F | T |
+  | F | T | T |
+  | F | F | T |
+- Represents a contract. 
+	- If p is true, then the contract breaks when q is false.
+	- Doesn't have to be fair, only indicates a contract
+
+### Converse 
+- if q then p
+
+### Contrapositive
+- if not q then not p
+
+### Inverse
+- if not p then not q
+
+
