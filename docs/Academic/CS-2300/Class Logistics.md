@@ -24,7 +24,21 @@
 
 - Introduction
 	- About Me
+		- From West Virginia
+		- Mission in Brazil
+		- Graduated in CS Spring 2022
+		- A mini career in law
+		- Game Dev 
+		- Guitar
+		- Favorite movies
+		- Favorite food
+		- Games
 	- About You
+		- Name
+		- Major
+		- Hobbies and tell us a little bit about it
+		- Favorite Food
+		- Maybe a favorite book, movie, show, game, whatever
 
 - Go over syllabus
 - Tips For Success
