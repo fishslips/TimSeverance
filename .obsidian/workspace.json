@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fe5889ab14025b37",
+        "id": "a90b1f57bf16b734",
         "type": "tabs",
         "children": [
           {
-            "id": "90fcd30d2369c1e3",
+            "id": "bf6427efa80ce262",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-3450/Week 1.md",
+                "file": "docs/Academic/CS-2420/Week 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "200164b50e78e590",
+            "id": "ef2b66d4cd02c38b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-2420/Week 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d32cb4bb9d7f9fa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Academic/CS-2420/Week 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2d8a3e95aed9c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Academic/CS-2420/Week 2.md",
+                "file": "docs/Academic/CS-2300/Class Logistics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-2420/Week 6.md",
+                "file": "docs/Academic/CS-2300/Class Logistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-2420/Week 6.md",
+                "file": "docs/Academic/CS-2300/Class Logistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-2420/Week 6.md"
+                "file": "docs/Academic/CS-2300/Class Logistics.md"
               }
             }
           }
@@ -183,17 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d32cb4bb9d7f9fa1",
+  "active": "ef2b66d4cd02c38b",
   "lastOpenFiles": [
+    "docs/Academic/CS-2300/Week 1.md",
+    "docs/Academic/CS-2300/Class Logistics.md",
+    "docs/Academic/CS-2420/Week 12.md",
+    "docs/Hobbies/Music/Demise - Aegaeon.md",
+    "docs/Hobbies/Music",
+    "docs/Hobbies/Game Dev/Unreal Engine/Custom Movement.md",
+    "docs/Academic/CS-2300",
+    "docs/Academic/CS-2420/Week 14.md",
+    "docs/Academic/CS-2420/Week 10.md",
+    "docs/Academic/CS-2420/Week 7.md",
+    "docs/Academic/CS-2420/Week 8.md",
+    "docs/Academic/CS-2420/Week 6.md",
+    "docs/Academic/CS-3450/Week 8.md",
+    "docs/Academic/CS-2420/Week 2.md",
     "docs/Academic/CS-2420/Week 5.md",
     "docs/Academic/CS-3450/Week 6.md",
-    "docs/Academic/CS-2420/Week 6.md",
     "docs/Academic/CS-2420/Week 4.md",
-    "docs/Academic/CS-2420/Week 3.md",
-    "docs/Academic/CS-2420/Week 2.md",
-    "docs/Academic/CS-2420/Week 1.md",
-    "docs/Academic/CS-1410/Week 4.md",
-    "docs/Academic/CS-3450/Week 2.md",
-    "docs/Academic/CS-3450/Week 1.md"
+    "docs/Academic/CS-2420/Week 3.md"
   ]
 }

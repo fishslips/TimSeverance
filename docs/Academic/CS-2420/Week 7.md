@@ -13,7 +13,7 @@
 
 ##### Sorts
 -Insertion Sort
-	swaps
+	swaps (how many, tricky question, how do we calculate the number of swaps -> (n-1) * n/2 or the sum of all possible swaps for a given iteration)
 	outer loop (how many times)
 	runtime
 
