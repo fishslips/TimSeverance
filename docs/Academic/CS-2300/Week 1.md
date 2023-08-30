@@ -1,3 +1,5 @@
+
+# Day 1
 ## Introduction
 
 Discrete Math is where you'll really start to get into the science aspects of computer science. It is a CS course after all.
@@ -112,3 +114,21 @@ Logical equivalences that show how to distribute negation operations inside a pa
 
 1. NOT (p OR q) ≡ NOT p AND NOT q
 2. NOT (p AND q) ≡ NOT p OR NOT q
+
+
+
+# Day 2
+
+## Topics
+Take This Fish/Orders of Ignorance
+- Logical Math
+	- https://www.youtube.com/watch?v=BrDyDQYRUxM
+		- [Law of Excluded Middle From Standford](https://web.stanford.edu/~bobonich/glances%20ahead/IV.excluded.middle.html#:~:text=That%27s%20why%20it%27s%20called%20the,be%20one%20or%20the%20other)
+		- [Law of Excluded Middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
+		- [Laws of Thought](https://www.britannica.com/topic/laws-of-thought)
+- Multi-state machines
+	- https://www.youtube.com/watch?v=fXwSFhUVFmE
+- Why use base 2?
+	- see above
+Go Over Exercises
+## Logical Math
