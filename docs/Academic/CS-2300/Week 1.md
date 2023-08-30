@@ -120,6 +120,7 @@ Logical equivalences that show how to distribute negation operations inside a pa
 # Day 2
 
 ## Topics
+Take This Fish/Orders of Ignorance
 - Logical Math
 	- https://www.youtube.com/watch?v=BrDyDQYRUxM
 		- [Law of Excluded Middle From Standford](https://web.stanford.edu/~bobonich/glances%20ahead/IV.excluded.middle.html#:~:text=That%27s%20why%20it%27s%20called%20the,be%20one%20or%20the%20other)
@@ -129,4 +130,5 @@ Logical equivalences that show how to distribute negation operations inside a pa
 	- https://www.youtube.com/watch?v=fXwSFhUVFmE
 - Why use base 2?
 	- see above
+Go Over Exercises
 ## Logical Math
