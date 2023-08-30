@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-2300/Class Logistics.md",
-                "mode": "source",
+                "file": "docs/Academic/CS-2300/Week 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-2300/Class Logistics.md",
+                "file": "docs/Academic/CS-2300/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-2300/Class Logistics.md",
+                "file": "docs/Academic/CS-2300/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-2300/Class Logistics.md"
+                "file": "docs/Academic/CS-2300/Week 1.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "ef2b66d4cd02c38b",
   "lastOpenFiles": [
-    "docs/Academic/CS-2300/Week 1.md",
     "docs/Academic/CS-2300/Class Logistics.md",
+    "docs/Academic/CS-2300/Week 1.md",
     "docs/Academic/CS-2420/Week 12.md",
     "docs/Hobbies/Music/Demise - Aegaeon.md",
     "docs/Hobbies/Music",
