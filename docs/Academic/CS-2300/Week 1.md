@@ -13,7 +13,7 @@ Discrete math is a branch of mathematics that employs unique tools and disciplin
 
 Logic is formal reasoning with an emphasis on making precise statements.
 
-Propositions are statements that are either true or false. They are the most basic element in logic.
+#Propositions are statements that are either true or false. They are the most basic element in logic.
 
 Questions are not propositions, but propositions can be an answer to a question.
 
@@ -24,7 +24,7 @@ Important variables:
 Zybooks refers to p, q, r for our variables as opposed to x, y, z. It doesn't really matter but each set of mathematics has its own unique set of symbols, even if they're somewhat analogous. Read the questions carefully, I mix up p and q all the time
 
 
-## [BASIC LOGIC SYMBOLS](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#:~:text=a%20category.-,Basic%20logic,-%5Bedit%5D)
+## [LOGIC SYMBOLS](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#:~:text=a%20category.-,Basic%20logic,-%5Bedit%5D)
 
 ### Conjunction ( ∧ )
 
