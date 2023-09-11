@@ -1,10 +1,10 @@
 
-# Day 1
+## Day 1
 
 Labor Day
-# Day 2
+## Day 2
 
-## Predicates
+### Predicates
 
 - A statement that is a function of one or more variables.
 - Because it is a function, it is not a proposition until the input has been specified. 
@@ -14,18 +14,18 @@ Labor Day
 - **A statement is only a proposition when its variables are bound**
 ### [LOGIC SYMBOLS](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols#:~:text=a%20category.-,Basic%20logic,-%5Bedit%5D)
 
-### Universal Quantifier ( ∀ )
+#### Universal Quantifier ( ∀ )
 - ∀x P(x) -> For all x, P(x) or For every x, P(x)
 - ∀x means that P(x) is true iff P(x) is true for every single value in the domain of x.
 - ∀x P(x) is equivalent to P(n1) ^ P(n2) ^ ... ^ P(nk)
 - Because P(a1) is well defined, and is therefore a proposition, we can see that this is a compound proposition, which can result in a single well defined truth value. 
 
-### Existential Quantifier ( ∃ )
+#### Existential Quantifier ( ∃ )
 - ∃xP(x) -> An x exists such that P(x) is true. There is at least one value in the domain of x that makes P(x) a true statement
 - ∃x means that P(x) is true iff P(x) is true for at least one value in the domain of x
 - ∃xP(x) is equivalent to P(n1) v P(n2) v ... v P(nk)
 
-## Quantifiers
+### Quantifiers
 - Highest precedence
 - Variable x becomes bound by quantifiers
 

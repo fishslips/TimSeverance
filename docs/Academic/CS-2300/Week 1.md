@@ -1,6 +1,6 @@
 
-# Day 1
-## Introduction
+## Day 1
+### Introduction
 
 Discrete Math is where you'll really start to get into the science aspects of computer science. It is a CS course after all.
 
@@ -9,7 +9,7 @@ Discrete Math is where you'll really start to get into the science aspects of co
 Discrete math is a branch of mathematics that employs unique tools and disciplines like logic, graph theory, and combinatorics to analyze objects with a finite nature. These tools have practical applications in computer science
 
 
-## Notes for Module 1
+### Notes for Module 1
 
 Logic is formal reasoning with an emphasis on making precise statements.
 
