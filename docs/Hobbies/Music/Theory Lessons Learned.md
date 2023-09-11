@@ -2,13 +2,13 @@
 ## Pentatonic Scales
 
 
-|Major Pentatonic|
+|Major Pentatonic| | | | | |
 | --- | --- | --- | --- | --- | --- |
 | Formula | 1 | 2 | 3 | 5 | 6 |
 | Interval | W | W | W+H | W | W+H |
 
 
-|Minor Pentatonic|
+|Minor Pentatonic| | | | | |
 | --- | --- | --- | --- | --- | --- |
 | Formula | 1 | \#2/b3 | 4 | 5 | \#6/b7 |
 | Interval | W+H | W | W | W+H | W |
