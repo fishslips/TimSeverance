@@ -19,6 +19,58 @@ Relative Minor is the 6th of the Major.
 ![[Pasted image 20230910150303.png]]
 
 ![[Pasted image 20230910150251.png]]
+
+#### Some general shapes you can rely on
+If you find yourself playing around a root note, there are some safe bets you can make. 
+
+Assume you're playing on the root note of a pentatonic scale.
+The term 3's indicates a whole step, 4's indicates a whole + half step.
+Backwards indicates playing notes behind a root note going towards the 0th fret
+Forwards indicates playing notes ahead of a root note going towards the 24th fret.
+
+##### Minor Pentatonic
+
+|     |     |      |
+| --- | --- | ---- |
+| x   |     | x    |
+| x   |     | ROOT |
+| x   |     | x    |
+In the minor pentatonic, if you play the root, you'll find yourself in the middle of a stack of 3's playing backwards.
+
+|  1   |   2  |   3  |   4  |
+| --- | --- | --- | --- |
+| x   |     | x   |     |
+| ROOT   |     |     | x   |
+| x    |     |     |  x   |
+In the minor pentatonic, if you play the root note, there's a 3 above, a 4 below, and a 4 on your root playing forwards.
+
+Adjust this shape for the 3's tuning divide on the b string.
+
+##### Major Pentatonic
+
+This one is even easier. 
+
+If you're playing forwards, you get a stack of 4's above, 3's below, and you play a 3 on the root.
+
+If you're playing backwards, you get a 4 below, and a stack of 3's above, and you play a 4 on the root.
+
+#### 2-3-2 or 3-2-3 or whatever
+
+### Stacks along the fretboard
+
+Pentatonically speaking, if you were to have perfect fourths tuning, and an infinite number of strings, you'd find a repeating pattern of a double stack of 4s, followed by a triple stack of 3's. The interesting part is that after every 4 stack, set of stacks shifts backwards by 1
+
+| 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9  | 10  | 11  |  12   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   f  |     |     |     |     |     |     |     |     |     |     |     |     |
+|   c  |     |     |     |     |     |     |     |     |     |     |     |     |
+|   g  |     |     |     |     |     |     |     |     |     |     |     |     |
+|   d  |     |     |     |     |     |     |     |     |     |     |     |     |
+|   a  |     |     |     |     |     |     |     |     |     |     |     |     |
+|   e  |     |     |     |     |     |     |     |     |     |     |     |     |
+|   b  |     |     |     |     |     |     |     |     |     |     |     |     |
+|   g  |     |     |     |     |     |     |     |     |     |     |     |     |
+|   d  |     |     |     |     |     |     |     |     |     |     |     |     |
 ## Octaves
 
 Octaves are nice and symmetrical
