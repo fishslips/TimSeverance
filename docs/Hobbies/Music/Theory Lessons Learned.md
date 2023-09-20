@@ -127,4 +127,8 @@ It should follow then that for any modes of the standard western heptatonic scal
 
 ![[Pasted image 20230908211202.png]]
 
+Ordering for the Circle of Fifths is cool. Pretty much pick your starting note, say C, cut the circle in half from the line on the left. So the line should cut straight down the middle in C's case. Include the note to the left of your root.
 
+Now, every other note (including wrapping around is the next note in scale). For C, your 2nd is D, 3rd is E, 4th is F, 5th is G, 6th is A, 7th is B. That's a given.
+
+For the relative minor, take two notes to the right, 4 notes to the left. Every other note is still the sequential item in the sequence. Relative minor (6th) is always 3 away from your Major.

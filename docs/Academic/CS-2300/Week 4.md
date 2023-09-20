@@ -46,6 +46,19 @@ Proof: logical steps that follow previous steps that arrive to a final true stat
 
 Axiom: a true statement. Used in proving
 
+**Thus / Therefore**
+We've used the word Therefore as the concluded statement in an argument up until now, but generally speaking, in the context of formal proofs, Therefore just follows from previous statements and does not necessarily indicate a conclusion. In formal proofs, the square can be used as the terminal character.
+
+**Let**
+For creating variable names
+
+**Suppose**
+Also for introducing variables. 
+
+**Since / because we know that...** 
+Invokes a previous statement
+
+
 ### Syntax
 
 ■ / T: Tautology
@@ -69,3 +82,37 @@ Proof:
 	Check the equality for every element in the set
 	...
 
+
+### Common Mistakes in Proofs
+
+Generalizing From Examples. This is not an exhaustive proof, and just because it works for one example, does not necessarily mean that it works for all examples.
+
+Skipping Steps
+
+Circular Reasoning
+
+Assuming facts that have not yet been proven
+
+### Direct Proofs
+
+Can be shown in the form of a conditional statement, p -> c where p is the set of hypotheses, and c is a conclusion.
+
+### Proof by Contrapositive
+
+Converse: If Q then P
+Contrapositive: If !Q then !P
+Inverse: If !P then Not Q
+
+Proof by Contrapositive proves a conditional theorem p -> c by showing the contrapositive !c -> !p is true.
+
+Work out truth table for each of these
+
+### Proof by Contradiction (Indirect Proof)
+
+Show that when the theorem is false it leads to a conclusion that is not true.
+
+### Proof by Cases
+
+Break the domain down into difference cases. All elements of the domain have to be assigned to a case. For Universal Quantifiers, proof by case can be used to show the validity of a statement.
+
+Without loss of generality (WLOG) means that the proofs for different cases are so similar that they can be merged into one case.

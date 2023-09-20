@@ -1,0 +1,1 @@
+The Midterm will have tables that have laws of propositional logic and rules of inference. There are no tables for Universal/Existential Instantiation/Generalization. 
