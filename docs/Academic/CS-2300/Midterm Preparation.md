@@ -4,7 +4,7 @@ The Midterm will have tables that have laws of propositional logic and rules of 
 
 ### Midterm Multiple Choice Hints:
 
-**A good chunk of the questions are genuinely easy if you even skimmed the reading for chapter 1. Genuinely, if watched the PA's, did the CA's, and read through chapter one, then like, the majority of questions are super easy**
+**A good chunk of the questions are genuinely easy if you even skimmed the reading for chapter 1. Genuinely, if you watched the PA's, did the CA's, and read through chapter one, then like, the majority of questions are super easy**
 
 One Question with the table from 1.9. Remember the rows are x, columns are y. Hint, it's not the OR statement.
 
