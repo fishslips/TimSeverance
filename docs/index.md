@@ -1,6 +1,6 @@
 # Home
 
-## 💯🔥🤠Welcome to Tim's Big Website 🤠🔥💯
+## Tim Severance
 
-I'm from the eastern panhandle 🪕 of the 🌷Wild and Wonderful West Virginia ⛰. My name is Tim, and I'm a big ole computer scientist 🤓.  Come on in, the pepperoni rolls are almost done! 👨‍🍳
+Welcome to my published Obsidian notes. I am a recent graduate and adjunct professor of the Computer Science department at Utah Valley University. I play music, develop video games, and love to spend my time learning. This site is currently under construction though, so mind your step.
 
