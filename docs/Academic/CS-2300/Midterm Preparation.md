@@ -1,10 +1,8 @@
-The Midterm will have tables that have laws of propositional logic and rules of inference. There are no tables for Universal/Existential Instantiation/Generalization. 
-
-
+The Midterm will have tables that have laws of propositional logic and rules of inference, quantifier instantiation and generalization, mathematical definitions, as well as language of proofs. 
 
 ### Midterm Multiple Choice Hints:
 
-**A good chunk of the questions are genuinely easy if you even skimmed the reading for chapter 1. Genuinely, if you watched the PA's, did the CA's, and read through chapter one, then like, the majority of questions are super easy**
+**A good number of questions come from chapter 1. Many require that you translate abstract language to symbolic form (a sentence to p->q for instance). Many are about logical equivalence.**
 
 One Question with the table from 1.9. Remember the rows are x, columns are y. Hint, it's not the OR statement.
 
@@ -24,11 +22,13 @@ One question asks about 1 of the 4 **common errors** in proofs outlined in 2.3
 
 Nested Quantifier question. Just be sure to read it out loud. For example, UxEy P(x, y) reads For every x, there is a y where ...
 
-Be familiar with, Inverse, Converse, Contrapositive.
+Be familiar with, Inverse, Converse, Contrapositive, specifically what form they take.
 
-There's one question with DeMorgan's Law that tries to be a curve ball. Don't overthink it, your first hunch is probably right. Just apply DeMorgan's to the expression, and remember to flip all the signs after distributing the negation into the expression.
+There's one question with DeMorgan's Law that feels like a curve ball. Don't overthink it, your first hunch is probably right. Just apply DeMorgan's to the expression, and remember to flip all the signs after distributing the negation into the expression (as per DeMorgan's).
 
-What is the difference between a predicate and proposition? How do we turn predicates into propositions?
+What is the difference between a predicate and proposition? How do we turn predicates into propositions? Or in other words, what are some ways that we turn P(x,y) into a proposition?
+
+A few questions will have answers that look the same unless you're careful and notice their logical operators. I have a tendency to skim over equations, so be sure to read the signs.
 
 ### Midterm Written Question Hints:
 
