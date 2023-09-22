@@ -14,7 +14,6 @@ Game design
 
 Software design
 
-
 ### Working out our own patterns
 
 Find something you've found a solution to, map it out
@@ -27,14 +26,6 @@ Find something you've found a solution to, map it out
 Define a family of algorithms, encapsulate them, and make them interchangeable. Strategy lets the algorithm vary independently from the client that uses it.
 
 DRY principle. Don't Repeat Yourself.
-
-
-
-
-
-
-
-
 
 ##### Design Principles
 Identify the parts of your project that vary and separate them from what stays the same
