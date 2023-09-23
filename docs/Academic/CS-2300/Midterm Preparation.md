@@ -8,7 +8,7 @@ One Question with the table from 1.9. Remember the rows are x, columns are y. Hi
 
 Direct Proof: Takes the form p -> c.
 
-Remember Contrapositive: !Q -> !P or !c -> !p. Also, be sure to remember to flip the logical symbol.
+Contrapositive: !Q -> !P or !c -> !p. There's a question that asks about the contrapositive of a statement. Be sure to remember that since we're negating, when we apply DeMorgan's law, we have to flip symbols. e.g. And becomes Or.
 
 Proof by exhaustion: Demonstrate with every element in the domain.
 
