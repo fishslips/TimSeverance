@@ -20,6 +20,11 @@ Relative Minor is the 6th of the Major.
 
 ![[Pasted image 20230910150251.png]]
 
+Diagonal Pentatonic
+
+![[Pasted image 20230924175432.png]]
+
+![[Pasted image 20230924175438.png]]
 #### Some general shapes you can rely on
 If you find yourself playing around a root note, there are some safe bets you can make. 
 
