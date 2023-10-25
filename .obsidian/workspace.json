@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-2300/Exam 2 Prep.md",
+                "file": "docs/Academic/CS-2300/Week 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-2300/Exam 2 Prep.md",
+                "file": "docs/Academic/CS-2300/Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-2300/Exam 2 Prep.md",
+                "file": "docs/Academic/CS-2300/Week 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-2300/Exam 2 Prep.md"
+                "file": "docs/Academic/CS-2300/Week 9.md"
               }
             }
           }
@@ -181,8 +181,10 @@
   },
   "active": "e725967df586ab5c",
   "lastOpenFiles": [
-    "docs/Academic/CS-2300/Week 7.md",
     "docs/Academic/CS-2300/Exam 2 Prep.md",
+    "docs/Academic/CS-2300/Week 7.md",
+    "docs/Academic/CS-2300/Week 8.md",
+    "docs/Academic/CS-2300/Week 9.md",
     "docs/Academic/CS-2300/Exam 1 Prep.md",
     "docs/Academic/Math/Logs And Exponents.md",
     "docs/Hobbies/Music/Favorite Musicians.md",
@@ -208,7 +210,6 @@
     "docs/Academic/CS-2420/Week 6.md",
     "docs/Academic/CS-3450/Week 8.md",
     "docs/Academic/CS-2420/Week 2.md",
-    "docs/Academic/CS-3450/Week 6.md",
-    "docs/Academic/CS-2420/Week 3.md"
+    "docs/Academic/CS-3450/Week 6.md"
   ]
 }
