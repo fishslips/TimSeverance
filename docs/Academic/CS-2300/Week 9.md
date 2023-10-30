@@ -38,6 +38,16 @@ closed form for arithmetic sequence is an + (d(n-1)n)/2
 
 closed form for geometric sequence is (a(r^n - 1))/(r-1)
 
+#### Pulling out final term
+
+Sum of a_k from m to n == sum of a_k from m to n-1 + a_n
+
+#### Change of Vars in Sums
+
+New Lower Limit:
+New Upper Limit
+New Expression
+
 ### Induction
 
 #### Formal Definitions
@@ -47,5 +57,14 @@ Inductive Step: Establishes that the theorem is true for k, which means it must 
 A function must call itself
 A function must have a base case, or a way of stopping calling itself
 A function must move towards the base case
+
+### Induction with Recurrence Relation
+We can look at recursion as either a current step and a next step, or a current step and previous step. In a recurrence relation that relies on information from a previous step, n and n-1, we can instead refer to these as k+1 and k.  We're just adding 1 to both n and n-1, but using k to represent this paradigm shift. 
+
+### Strong Induction
+
+Base Case shows that S(n) is true for n = a through b
+
+Inductive Step  shows that S(j) is true for all values of j in the range from a through some int >= b and then proves the theorem for k+1
 
 
