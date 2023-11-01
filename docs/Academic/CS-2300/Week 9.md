@@ -65,6 +65,8 @@ We can look at recursion as either a current step and a next step, or a current 
 
 Base Case shows that S(n) is true for n = a through b
 
-Inductive Step  shows that S(j) is true for all values of j in the range from a through some int >= b and then proves the theorem for k+1
+Inductive Step shows that S(j) is true for all values of j in the range from a through some int >= b and then proves the theorem for k+1
+
+
 
 
