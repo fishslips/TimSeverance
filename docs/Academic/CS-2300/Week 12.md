@@ -1,7 +1,5 @@
 ### Counting
 
-#### Sum Rule
-
 #### Product Rule
 
 If we're determining the number of ways that a sequence of choices can be made, we can use the product rule to figure it out.
@@ -60,3 +58,11 @@ Expanded further we can see this as (36x36x36x36x36x36) + (36x36x36x36x36x36x36)
 Remember that a function is a bijection if it is one-to-one and onto. We also know that a bijection has an inverse, and the inverse is obtained by mapping the targets to the elements of the domain.
 
 So the bijection rule is that if there are two sets, that are a bijection, they have the same cardinality. Duh.
+
+### Permutation and Combinations
+
+Permutation without parameter contains each element of a finite set exactly once. The number of permutations is n!
+
+r-permutation P(n, r) has closed form n!/(n-r)! and is used when we select a limited number of items from the set.
+
+Combination C(n,r), n choose r, closed form !n/r(n-r)! is used when order doesn't matter
