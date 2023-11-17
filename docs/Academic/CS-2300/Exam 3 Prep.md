@@ -10,6 +10,13 @@
 Questions 1-6 from the Test 3 sample are very close to questions that will be on the test.
 
 Be aware of the Extended Euclid's Algorithm. You will be asked to find s and t.
+
+Modding negative numbers
+Congruency (6.2 definition: m divides (x-y))
+Prime Factorization (gcd, lcd)
+Decimal to Binary
+Base conversions (octal, hex, etc.)
+Modding LARGE values (remember the way exponents work to simplify the problem, and use 6.2.(2/4) for the equation for modular arithmetic)
 ### Chapter 7 Topics
 
 Remember that in a sequence, the next value can be determined by multiplying the previous value by the common ratio. What this also means is that we can express all values in a sequence as being the initial value times the common ratio raised to an index. Additionally, the sum of all values can be expressed as common ratio raise to the power of n+1, minus 1.
