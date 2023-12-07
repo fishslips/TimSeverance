@@ -61,21 +61,22 @@ If you're playing backwards, you get a 4 below, and a stack of 3's above, and yo
 
 #### 2-3-2 or 3-2-3 or whatever
 
+
 ### Stacks along the fretboard
 
 Pentatonically speaking, if you were to have perfect fourths tuning, and an infinite number of strings, you'd find a repeating pattern of a double stack of 4s, followed by a triple stack of 3's. The interesting part is that after every 4 stack, set of stacks shifts backwards by 1
 
-| 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9  | 10  | 11  |  12   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   f  |     |     |     |     |     |     |     |     |     |     |     |     |
-|   c  |     |     |     |     |     |     |     |     |     |     |     |     |
-|   g  |     |     |     |     |     |     |     |     |     |     |     |     |
-|   d  |     |     |     |     |     |     |     |     |     |     |     |     |
-|   a  |     |     |     |     |     |     |     |     |     |     |     |     |
-|   e  |     |     |     |     |     |     |     |     |     |     |     |     |
-|   b  |     |     |     |     |     |     |     |     |     |     |     |     |
-|   g  |     |     |     |     |     |     |     |     |     |     |     |     |
-|   d  |     |     |     |     |     |     |     |     |     |     |     |     |
+| 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  |   23  | 24    | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| f   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| c   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| g   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| D   |     |     |   x  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| A   | x    |     |     |x     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| E   |x     |     |  x   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| b   | x    |     |x     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| g   |x     |     |    x |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| d   |  x   |     |     |  x   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 ## Octaves
 
 Octaves are nice and symmetrical

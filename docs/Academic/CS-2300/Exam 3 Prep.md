@@ -32,6 +32,8 @@ Exercise 8.4.4 is featured on the exam.
 
 Binary Strings, and sequence of characters where there are no repeated neighbors.
 
+Exercise 8.12.20.b Is similar to a question on the exam.
+
 8.8 is useful.
 
 ### Written Response Questions
