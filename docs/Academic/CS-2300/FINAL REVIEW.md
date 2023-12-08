@@ -1,5 +1,5 @@
 
-
+### Multiple Choice Topics
 
 Lexicographic subset
 Lexicographic Order
@@ -23,7 +23,7 @@ Graph Degree
 - C_ graph
 - Q_ graph
 
-Written Question
+### Written Questions
 
 There are 121.4 million people in the United States who earn an annual income that is at least $10,000 and less than $1,000,000. Annual income is rounded to the nearest dollar. Show that there are 123 people who earn the same annual income in dollars.
 
