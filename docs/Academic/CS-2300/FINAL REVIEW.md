@@ -1,7 +1,7 @@
 
 ### Multiple Choice Topics
 
-Lexicographic subset
+Lexicographic n-subset
 Lexicographic Order
 Combination Equality
 Solve A Sum with a Combination
