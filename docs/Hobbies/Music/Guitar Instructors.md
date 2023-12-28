@@ -19,6 +19,17 @@ E-mail: [info@qjamtracks.com](mailto:info@qjamtracks.com "mailto:info@qjamtrack
 
 https://rustycooley.com/guitar-lessons-with-rusty-cooley/
 
+#### Level Concerns
+##### Beginner
+- Amp Settings
+- Chord Progressions + Rhythm Guitar 
+- Right+Left Coordination
+- Metronome
+- Pulloffs
+- Licks
+- String Crossing 
+##### Intermediate
+- I think this is mostly where I should be
 ### Christian Muenzner 
 
 https://www.facebook.com/ChristianMuenznerOfficialSite
