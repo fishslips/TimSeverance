@@ -22,3 +22,7 @@ https://rustycooley.com/guitar-lessons-with-rusty-cooley/
 ### Christian Muenzner 
 
 https://www.facebook.com/ChristianMuenznerOfficialSite
+
+### John Browne
+
+[Modern Metal Academy](https://www.modernmetalacademy.com)
