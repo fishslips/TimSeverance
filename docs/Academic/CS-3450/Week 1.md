@@ -1,8 +1,6 @@
 ### Syllabus
 
-### What does success in this class look like, or how to win.
-
-### Lies in computer science
+### Lies in Academia 
 
 ### What is computer science
 
@@ -27,7 +25,7 @@
 
 A pattern language is a gate to the quality without a name
 9. The quality in buildings cannot be made, only generated indirectly by the actions of ordinary people, in the same way a flower can't be made (this was written in the 70s)
-10. People can shape buildings by using a pattern language. A pattern language can give gives each person the ability to create an infinite variety of new and unique buildings, in the same way regular language gives the power to create infinite and unique sentences
+10. People can shape buildings by using a pattern language. A pattern language can give each person the ability to create an infinite variety of new and unique buildings, in the same way regular language gives the power to create infinite and unique sentences
 11. The patterns aren't confined to village and farm society. All acts of building are governed by a  pattern language. 
 
 Everything is expressed through communication. Math is language to represent phenomena. Programming is language to instruct an automoton. Natural language is how we express ourselves and convey ideas. Language is our natural interface for communication. Everything emits, and part of what makes sentience, is the ability to receive what is emitted. Language ultimately has nothing to do with this agelessness, but instead just releases what is native to us. Language helps us learn the same lessons that nature speaks to us over and over again.
@@ -36,10 +34,10 @@ Heat death is the hypothetical end of the universe where there will be no thermo
 
 Patterns can be alive or dead, and a pattern language can be shared. Since language expresses those patterns that are native to us, this means that not all patterns are good, but rather we can use the positive patterns to invite a timelessness. Alternatively, anti-patterns exist, which will ultimately result in the death of a thing. 
 
-
-
 ### Places that speak to your humanity
 
 ### Software that speaks to your humanity
-
-### 
+### State Mandated Urban/Suburban Planning
+https://www.newgeography.com/content/004830-looking-back-the-ideal-communist-city
+http://architecture-history.org/schools/SOVIET%20ARCHITECTURE.html
+https://courses.lumenlearning.com/suny-ushistory2ay/chapter/the-rise-of-suburbs-2/#:~:text=As%20historian%20Lizabeth%20Cohen%20notes,growth%20occurring%20in%20suburban%20places.
