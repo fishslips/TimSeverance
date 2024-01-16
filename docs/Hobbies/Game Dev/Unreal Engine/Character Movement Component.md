@@ -5,7 +5,11 @@ CMC = CharacterMovementComponent
 MC = MovementComponent
 SC = SceneComponent
 
-CMC.PhysWalking() -> CMC.MoveAlongFloor() -> CMC.SlideAlongSurface() -> MC.SafeMoveUpdatedComponent() -> MC.MoveUpdatedComponent() -> MC.MoveUpdatedComponent() -> MC.MoveUpdatedComponentImpl() -> SC.MoveComponent() -> SC.MoveComponentImpl -> SC.InternalSetWorldLocationAndRotation() -> Sidesteps and sets the location with SC.SetRelativeLocation_Direct() -> SC.UpdateComponentToWorldWithParent() -> SC.PropagateTransformUpdate() -> UpdateChildTransforms
+CMC.PhysWalking() -> CMC.MoveAlongFloor() -> CMC.SlideAlongSurface() -> 
+
+MC.SafeMoveUpdatedComponent() -> MC.MoveUpdatedComponent() -> MC.MoveUpdatedComponent() -> MC.MoveUpdatedComponentImpl() -> 
+
+SC.MoveComponent() -> SC.MoveComponentImpl -> SC.InternalSetWorldLocationAndRotation() -> Sidesteps and sets the location with SC.SetRelativeLocation_Direct() -> SC.UpdateComponentToWorldWithParent() -> SC.PropagateTransformUpdate() -> UpdateChildTransforms
 
 Note that slidealongsurface may or may not get called, but safemoveupdatedcomponent always does.
 
