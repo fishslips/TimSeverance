@@ -3,6 +3,7 @@
 #### C++ Standard Copy Algos
 
 copy
+
 - Copies the elements in the range `[first,last)` into the range beginning at result.
 - Used for copying data from one container to another. Things like arrays, strings, etc.
 - Can be used on custom types.
@@ -10,10 +11,12 @@ copy
 - just use this one
 
 copy_backward
+
 - Copies the elements in the range `[first,last)` starting from the end into the range terminating at result
 - Does what copy does, but backwards.
 
 copy_n
+
 - Similar to copy but specifies first, and then n elements to copy from first.
 
 #### C Standard Copy Algos
