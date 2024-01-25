@@ -32,5 +32,3 @@ Identify the parts of your project that vary and separate them from what stays t
 
 Program to an interface, not an implementation
 
-
-

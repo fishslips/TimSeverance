@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-2300/Week 11.md",
+                "file": "docs/Academic/CS-3450/Week 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-2300/Week 11.md",
+                "file": "docs/Academic/CS-3450/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-2300/Week 11.md",
+                "file": "docs/Academic/CS-3450/Week 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-2300/Week 11.md"
+                "file": "docs/Academic/CS-3450/Week 2.md"
               }
             }
           }
@@ -191,8 +191,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe3316df50d08315",
+  "active": "fd27391732e1a635",
   "lastOpenFiles": [
+    "docs/Hobbies/Music/Theory Junk.md",
+    "docs/Academic/CS-3370/Week 3.md",
+    "docs/Academic/CS-3370/Week 2.md",
+    "docs/Academic/CS-3370",
+    "docs/Academic/CS-3450/Week 1.md",
+    "docs/Academic/CS-2420/Week 7.md",
     "docs/Academic/CS-2300/Week 12.md",
     "docs/Academic/CS-2300/Week 10.md",
     "docs/Hobbies/Game Dev/Unreal Engine/Extended CMC.md",
@@ -217,12 +223,7 @@
     "docs/Academic/CS-2300/Logical Symbols.md",
     "docs/Academic/CS-2300/Class Logistics.md",
     "docs/Academic/CS-2300/Week 1.md",
-    "docs/Academic/CS-2420/Week 12.md",
-    "docs/Hobbies/Music/Demise - Aegaeon.md",
     "docs/Hobbies/Music",
-    "docs/Hobbies/Game Dev/Unreal Engine/Custom Movement.md",
-    "docs/Academic/CS-2300",
-    "docs/Academic/CS-2420/Week 14.md",
-    "docs/Academic/CS-2420/Week 10.md"
+    "docs/Academic/CS-2300"
   ]
 }
