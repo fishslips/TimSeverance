@@ -42,6 +42,18 @@ strlcpy
 
 
 
+
+### Vals, Refs, and Ptrs (Parameters)
+When writing functions, there are a few ways that we can handle the data we work with.
+
+Pass-by-value copies the data from whatever was passed to the function into the parameter name. There's a small amount of overhead with this. Any changes to the parameter are not reflected outside. If you want those changes, you've gotta return it.
+
+Pass-by-reference is almost always what you want. It creates an alias which is essentially just a name binding to data. This allows us to make changes to the object or data outside of the function, and has no overhead. 
+
+Const Reference is the better alternative to passing by value. It makes the data readonly (so we get similar behavior as values since updates don't apply), we we get the aliasing that requires no overhead/copying that pass-by-value does.
+
+Pass-by-pointer is when you're working with pointers specifically and need to pass them into a function. You don't always need pointers, think about their life-time (how long they'll be around for, and how long you need them for). Sometimes it's worth it to create objects on the stack, and a lot of times we really just need references.
+
 ### Project 1 Help
 
 #### First Attempt Mistakes
