@@ -29,6 +29,7 @@ In main.cpp, we'll have an array of MyObjects. That array doesn't care about whe
 	- this function will call expand if necessary
 	- move the linked list head to the next free spot 
 	- return the address for storing the new object.
+	- not responsible for object creation, only space allocation
 - deallocate
 	- stores the current head's address at the location of the object we're deallocating (essentially linking)
 	- assigns the head to that object's address so that we can allocate an object at this location
@@ -60,6 +61,8 @@ MyObject the following public functions
 	- invokes pool.deallocate
 - create
 	- invokes the new keyword for MyObject. More on this below.
+	- new invokes pool.allocate. This provides us with an address only. 
+	- The address is given to the compiler, which invokes the constructor and stores object there
 - profile
 	- pool.profile
 - operator <<
