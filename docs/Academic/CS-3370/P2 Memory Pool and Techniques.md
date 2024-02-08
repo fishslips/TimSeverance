@@ -46,9 +46,10 @@ In main.cpp, we'll have an array of MyObjects. That array doesn't care about whe
 - link
 	- Invoked when we call expand
 	- After a new block is available, we have free space, as well as a tail pointer.
-	- We link our "tail" pointer to the first index of the new array.
+	- We link our "tail" pointer to the first index of the new array, and then move it along with our next pointer until we reach the end.
 	- Each index will contain a pointer to the next free slot (at first, it'll just be the address for the next free index)
 	- The last one we do will be a nullptr.
+	- Set our head at the beginning of the new block of the pool
 
 #### MyObject
 
