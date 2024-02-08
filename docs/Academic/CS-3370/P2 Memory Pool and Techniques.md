@@ -13,13 +13,13 @@ The purpose of this project is to learn and understand more advanced techniques 
 
 MyObject will have an inline static member, Pool, that accepts MyObject types. This allows us to share the pool between MyObjects
 
-Pool is an expanded version of what you did for project 1. Only this time, we're adding one more layer of memory management, and so our pool is double pointer array. In other words, our pool will have elements that point to pointers that point to arrays. 
+Pool is an expanded version of what you did for project 1. Only this time, we're adding one more layer of memory management, and so our pool is a double pointer array. In other words, our pool will have elements that point to pointers that point to arrays. 
+
+When we first start our main, we'll invoke allocate which will then check to see if we have space to store an element. If we don't, we create a new block in our pool, and then link all of the spaces in our block (array) by having pointers that point to the next free space available. We can remove objects in any order we like, which is why we have to keep track of which spots are free. At first, each next just points to the next space, but as we remove objects at random, that sequential ordering can and will change.
 
 We will use an implicit/logical linked list to manage where we can store everything. Keep in mind that we're managing a Heap with our pool. So what this means, is that we're going to have spaces in memory, that are reserved by our arrays (blocks). Each space in our blocks can be a living space for our MyObjects, but until those spots our occupied, we will treat each space as a pointer to the next free space. This is why we will use Unions as a cleaner option for type punning.
 
 Our blocks will be of type element, which is a union. We will be able to treat each space in our blocks as either a "next" (think back to "next" in your linked list project in 2420, only it's not in an object, it's just a pointer to some other free space), or as a MyObject. 
-
-When we first start our main, we'll invoke allocate which will then check to see if we have space to store an element. If we don't, we create a new block in our pool, and then link all of the spaces in our block (array) by having pointers that point to the next free space available. We do this because we're not treating the spaces as a stack. We can remove objects in any order we like, which is why we have to keep track of which spots are free. 
 
 In main.cpp, we'll have an array of MyObjects. That array doesn't care about where they are on the heap, it just has pointers to objects that live on the heap.
 
