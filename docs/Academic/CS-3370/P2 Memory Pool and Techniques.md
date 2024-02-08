@@ -27,8 +27,9 @@ In main.cpp, we'll have an array of MyObjects. That array doesn't care about whe
 
 - allocate
 	- this function will call expand if necessary
+	- save the address pointed to by the head for storing the new object
 	- move the linked list head to the next free spot 
-	- return the address for storing the new object.
+	- return the saved address
 	- not responsible for object creation, only space allocation
 - deallocate
 	- stores the current head's address at the location of the object we're deallocating (essentially linking)
