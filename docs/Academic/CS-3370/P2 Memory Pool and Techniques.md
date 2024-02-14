@@ -32,8 +32,8 @@ In main.cpp, we'll have an array of MyObjects. That array doesn't care about whe
 	- return the saved address
 	- not responsible for object creation, only space allocation
 - deallocate
-	- stores the current head's address at the location of the object we're deallocating (essentially linking)
-	- assigns the head to that object's address so that we can allocate an object at this location
+	- store the address of what the head is pointing to, at the location of the object we're deallocating (this links things)
+	- points the head itself to that object's address so that we can allocate an object at this location
 - profile
 	- prints address of free spots 
 
