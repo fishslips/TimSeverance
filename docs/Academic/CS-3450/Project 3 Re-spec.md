@@ -49,7 +49,11 @@ Member:
 
 This sublcass will likely be the easiest and a good starting point for trying out your decorators.
 
-For both Write and WriteString you'll be doing something similar to the dungeons&patterns demo. Simply invoke the Write/Writestring methods of your object_to_decorate, and pass strings for your brackets, and then invoke the write/writestring method of your object_to_decorate while passing in the t parameter that was fed into BracketOutput's write method.
+For both Write and WriteString you'll be doing something similar to the dungeons&patterns demo. 
+
+write("[")
+write(t)
+write("]\\n")
 
 ##### LineOutput
 **From Original Spec: this precedes each write with the current line number (1-based) right-justified in a field of width 5, followed by a colon and a space.(Don’t add a newline.)**
