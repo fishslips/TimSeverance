@@ -58,7 +58,7 @@ write("]\\n")
 ##### LineOutput
 **From Original Spec: this precedes each write with the current line number (1-based) right-justified in a field of width 5, followed by a colon and a space.(Don’t add a newline.)**
 
-Keep track of line number in this class, add the line number and spacing and stuff to the t parameter you passed in. 
+Keep track of line number in this class, add the line number and spacing and stuff directly to the t parameter you passed in. 
 
 Invoke your object_to_decorate.write/writestring method and pass the modified t string/stream object as the parameter.
 
@@ -66,13 +66,13 @@ Invoke your object_to_decorate.write/writestring method and pass the modified t 
 
 **From Original Spec: writes to two streams at a time; the one it wraps, plus one it receives as a constructor argument**
 
-This one is mildly confusing but fear not. You'll just be passing your parameter t along to the object_to_decorate.write/writeline.
+This one is mildly confusing but fear not. You'll just be passing your parameter t along to the object_to_decorate.write/writeline as normal.
 
-In this class, you'll want a member that is a reference to an ostream, call it tee_stream. You'll feed your paremter t to this tee_stream object as well.
+For the extra stream, you'll want a member that is a reference to an ostream, call it tee_stream. You'll assign your paremter t to this tee_stream object as well.
 
 This tee_stream reference will be used to write to a file. 
 
-In short, your TeeOutput will have members object_to_decorate which is type Output which through method chaining will reaching an ostream object sink, and then it will have this other ostream object tee_stream which exists only in TeeOutput. 
+In short, your TeeOutput will have members object_to_decorate which is type Output which through method chaining will reach the ostream object "sink", and then it will have this other ostream object tee_stream which exists only in TeeOutput. 
 
 In main, you can pass an ostream to a file output as your constructor parameter for teestream.
 
