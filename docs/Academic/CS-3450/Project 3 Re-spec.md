@@ -10,6 +10,7 @@ You are given 4 files in the project. If you are using C++, you can use the .h f
 #### Output
 This is your decorate-able interface/abstract class.
 Specifies the following methods:
+
 - Write(t : Any)
 - WriteString(s : String)
 
@@ -17,9 +18,11 @@ Specifies the following methods:
 This is your concrete decorate-able. In this project, we're only using one concrete. This is analogous to the Coffee types in the chapter on decorators. Only, we're just using one class rather than multiple subclasses.
 
 Members:
+
 - sink
 	- This is a reference to an ostream object that can be written to. (will be standard out) 
 Defines the following methods:
+
 - Write(t : Any)
 	- writes an object to the sink
 	- the java example invokes the writestring method and passes t.toString() to get the string representation. In C++ 
@@ -37,6 +40,7 @@ If your Decorator Base is an abstract class, go ahead and make the abstract clas
 #### Decorator Subclasses
 
 Member:
+
 - object_to_decorate -> Reference to the thing you're wrapping/decorating
 	- For typed languages, make sure it's of type Output.
 
