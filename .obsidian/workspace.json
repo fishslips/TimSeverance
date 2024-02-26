@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-3450/Week 2.md",
+                "file": "docs/Academic/CS-3450/Project 3 Re-spec.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-3450/Week 2.md",
+                "file": "docs/Academic/CS-3450/Project 3 Re-spec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-3450/Week 2.md",
+                "file": "docs/Academic/CS-3450/Project 3 Re-spec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-3450/Week 2.md"
+                "file": "docs/Academic/CS-3450/Project 3 Re-spec.md"
               }
             }
           }
@@ -193,9 +193,14 @@
   },
   "active": "fd27391732e1a635",
   "lastOpenFiles": [
+    "docs/Academic/CS-2300/Week 2.md",
+    "docs/Academic/CS-3450/Project 3 Re-spec.md",
+    "docs/Academic/CS-3450/Decorator.md",
+    "docs/Academic/CS-3370/Streams and Exceptions.md",
+    "docs/Academic/CS-3370/P2 Memory Pool and Techniques.md",
+    "docs/Academic/CS-3450/Week 2.md",
     "docs/Academic/CS-3450/Week 4.md",
     "docs/Academic/CS-3370/Week 3.md",
-    "docs/Academic/CS-3450/Week 2.md",
     "docs/Hobbies/Music/Theory Junk.md",
     "docs/Academic/CS-3370/Week 2.md",
     "docs/Academic/CS-3370",
@@ -216,13 +221,8 @@
     "docs/Academic/Math/Logs And Exponents.md",
     "docs/Hobbies/Music/Favorite Musicians.md",
     "docs/Academic/CS-2300/Week 6.md",
-    "docs/Academic/CS-2420/Week 4.md",
-    "docs/Academic/CS-2420/Week 5.md",
-    "docs/Academic/CS-2300/Week 3.md",
     "docs/Images/Pasted image 20230908211202.png",
     "docs/Images/Pasted image 20230909184049.png",
-    "docs/Academic/CS-2300/Week 2.md",
-    "docs/Academic/CS-2300/Logical Symbols.md",
     "docs/Hobbies/Music",
     "docs/Academic/CS-2300"
   ]
