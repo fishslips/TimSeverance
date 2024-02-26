@@ -31,13 +31,13 @@ I have provided several XML files to process. All but one of them have errors th
 
 Your Employee class must contain at least the following:
 
-void display(std::ostream&) const;  // Write a readable Employee representation to a stream
-void write(std::ostream&) const;    // Write a fixed-length record to current file position
-void store(std::iostream&) const;   // Overwrite (or append) record in (to) file
-void toXML(std::ostream&) const;    // Write XML record for Employee
-static Employee* read(std::istream&);   // Read record from current file position
-static Employee* retrieve(std::istream&,int); // Search file for record by id
-static Employee* fromXML(std::istream&);      // Read the XML record from a stream
+- void display(std::ostream&) const;  // Write a readable Employee representation to a stream
+- void write(std::ostream&) const;    // Write a fixed-length record to current file position
+- void store(std::iostream&) const;   // Overwrite (or append) record in (to) file
+- void toXML(std::ostream&) const;    // Write XML record for Employee
+- static Employee* read(std::istream&);   // Read record from current file position
+- static Employee* retrieve(std::istream&,int); // Search file for record by id
+- static Employee* fromXML(std::istream&);      // Read the XML record from a stream
 
 Do not change any signatures or return types. Define any constructors you feel needful. You do not need a destructor, as Employee objects only contain string objects and numbers. read, retrieve, and fromXML return a nullptr if they read end of file. retrieve also returns a nullptr if the requested id is not found in the file. Throw exceptions for data errors.
 
