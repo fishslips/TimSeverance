@@ -1,1 +1,1 @@
-Here you'll find 
+This is where I try to keep up with my hobbies. I like guitar, indie game dev, programming, art, and makin' stuff. 
