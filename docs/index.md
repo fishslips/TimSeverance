@@ -1,4 +1,4 @@
-[Home](Home.md) | 
+[index](index.md) | 
 
 # Tim Severance
 
