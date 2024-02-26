@@ -30,6 +30,7 @@ A single XML text file may have multiple Employee records. Internal Employee fie
 I have provided several XML files to process. All but one of them have errors that you must catch. Throw exceptions of runtime_error(defined in <stdexcept>)for these cases. You will catch these exceptions in your main function.
 
 Your Employee class must contain at least the following:
+
 void display(std::ostream&) const;  // Write a readable Employee representation to a stream
 void write(std::ostream&) const;    // Write a fixed-length record to current file position
 void store(std::iostream&) const;   // Overwrite (or append) record in (to) file
