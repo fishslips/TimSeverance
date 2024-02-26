@@ -44,9 +44,9 @@ Do not change any signatures or return types. Define any constructors you feel n
 The following is an overview of what your main function should do to test your functions using the file employee.xml(provided in this Zip file):
 
 1. Obtain the name of an XML file to read from the command line (argv[1]). Print an error message and halt the program if there is no command-line argument provided, or if the file does not exist.
-2. Read each XML recordin the file by repeatedly calling Employee::fromXML, which createsan Employee object on-the-fly, and store it in a vector (I recommend using unique_ptrs in the vector).
-3. Loop through your vector and print to coutthe Employee data for each object (using the displaymember function).
-4. The next step is to create a new file of fixed-length Employee records. This is explained below. Write the records for each employee to your new file (call it “employee.bin”) in the order they appear in your vector. Open this file as an fstreamobject with both read and write capability, and in binary format.
+2. Read each XML record in the file by repeatedly calling Employee::fromXML, which creates an Employee object on-the-fly, and stores it in a vector (I recommend using unique_ptrs in the vector).
+3. Loop through your vector and print to cout the Employee data for each object (using the display member function).
+4. The next step is to create a new file of fixed-length Employee records. This is explained below. Write the records for each employee to your new file (call it “employee.bin”) in the order they appear in your vector. Open this file as an fstream object with both read and write capability, and in binary format.
 5. Clear your vector in preparation for the next step.
 6. Traverse the file by repeated calls to Employee::read, filling your newly emptied vector with Employee pointers for each record read.
 7. Loop through your vector and print to coutan XML representation of each Employee using Employee::toXML.
@@ -133,7 +133,7 @@ Note that store and retrieve search the file for the correct record by looking a
 Throw runtime_error exceptions with a suitable message if any required XML tags are missing, or if any end tags for existing start tags are missing, or for any other abnormalities.
 
 Notes 
-Your XML input function should not depend on the line orientation of the input stream, so don’t read text a line at a time(i.e., don’t use getline()with the newline character as its delimiter [other delimiters are okay]—the input should be “free form”, like source code is to a compiler). Do not use any third-party XML libraries. I want you to do your own basic, custom parsing by using simple string operations. An important part of this assignment is also the proper use of exceptions.
+Your XML input function should not depend on the line orientation of the input stream, so don’t read text a line at a time(i.e., don’t use getline() with the newline character as its delimiter [other delimiters are okay]—the input should be “free form”, like source code is to a compiler). Do not use any third-party XML libraries. I want you to do your own basic, custom parsing by using simple string operations. An important part of this assignment is also the proper use of exceptions.
 
 To process fixed-length records in a file requires special processing. Our Employee objects use std::string objects, which are allowed to have strings of any length, but we need to write fixed-length, byte-records to files using ostream::write(and we read them back into memory with istream::read). Some strings may therefore get truncated. Here is the record structure I used for transferring Employee data to and from files.
 
