@@ -13,3 +13,7 @@
 - CS 3260 - C# .Net Software Development -- **Spring 2020**
 - CS 3450 - Principles and Patterns of Software Design -- **Spring 2021**
 - CS 3310 - Analysis of Algorithms -- **Spring 2020**
+
+## About This Section
+
+Using the navigation bar on the left, you can find class notes for a few of the classes that I've taught or am actively teaching. Additionally there are a few off-topic pages that are just links and things that I find interesting.
