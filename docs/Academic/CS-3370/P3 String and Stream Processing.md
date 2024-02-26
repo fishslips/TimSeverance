@@ -60,6 +60,8 @@ The following is an overview of what your main function should do to test your f
 
 Make sure you don’t leak any memory.
 
+### Output
+
 Here is sampleoutputfrom employee.xml (except for steps 12–14):
 
 ```
@@ -132,7 +134,8 @@ Note that store and retrieve search the file for the correct record by looking a
 
 Throw runtime_error exceptions with a suitable message if any required XML tags are missing, or if any end tags for existing start tags are missing, or for any other abnormalities.
 
-Notes 
+### Notes 
+
 Your XML input function should not depend on the line orientation of the input stream, so don’t read text a line at a time(i.e., don’t use getline() with the newline character as its delimiter [other delimiters are okay]—the input should be “free form”, like source code is to a compiler). Do not use any third-party XML libraries. I want you to do your own basic, custom parsing by using simple string operations. An important part of this assignment is also the proper use of exceptions.
 
 To process fixed-length records in a file requires special processing. Our Employee objects use std::string objects, which are allowed to have strings of any length, but we need to write fixed-length, byte-records to files using ostream::write(and we read them back into memory with istream::read). Some strings may therefore get truncated. Here is the record structure I used for transferring Employee data to and from files.
