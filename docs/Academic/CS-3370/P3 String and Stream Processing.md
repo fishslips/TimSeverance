@@ -30,7 +30,7 @@ A single XML text file may have multiple Employee records. Internal Employee fie
 I have provided several XML files to process. All but one of them have errors that you must catch. Throw exceptions of runtime_error(defined in <stdexcept>)for these cases. You will catch these exceptions in your main function.
 
 Your Employee class must contain at least the following:
-void display(std::ostream&) const;  // Write a readableEmployee representation to a stream
+void display(std::ostream&) const;  // Write a readable Employee representation to a stream
 void write(std::ostream&) const;    // Write a fixed-length record to current file position
 void store(std::iostream&) const;   // Overwrite (or append) record in (to) file
 void toXML(std::ostream&) const;    // Write XML record for Employee
@@ -41,20 +41,21 @@ static Employee* fromXML(std::istream&);      // Read the XML record from a stre
 Do not change any signatures or return types. Define any constructors you feel needful. You do not need a destructor, as Employee objects only contain string objects and numbers. read, retrieve, and fromXML return a nullptr if they read end of file. retrieve also returns a nullptr if the requested id is not found in the file. Throw exceptions for data errors.
 
 The following is an overview of what your main function should do to test your functions using the file employee.xml(provided in this Zip file):
-1)Obtain the name of an XML file to read from the command line (argv[1]). Print an error message and halt the program if there is no command-line argument provided, or if the file does not exist.
-2)Read each XML recordin the file by repeatedly calling Employee::fromXML, which createsan Employee object on-the-fly, and store it in a vector (I recommend using unique_ptrs in the vector).
-3)Loop through your vector and print to coutthe Employee data for each object (using the displaymember function).
-4)The next step is to create a new file of fixed-length Employee records. This is explained below. Write the records for each employee to your new file (call it “employee.bin”) in the order they appear in your vector. Open this file as an fstreamobject with both read and write capability, and in binary format.
-5)Clear your vector in preparation for the next step.
-6)Traverse the file by repeated calls to Employee::read, filling your newly emptied vector with Employee pointers for each record read.
-7)Loop through your vector and print to coutan XML representation of each Employee using Employee::toXML.
-8)Search the file for the Employee with id 12345 using Employee::retrieve.
-9)Change the salary for the retrieved object to 150000.00
-10)Write the modified Employee object back to file using Employee::store
-11)Retrieve the object again by id (12345) and print its salary to verify that thefile now has the updated salary.
-12)Create a new Employee object of your own with a new, unique id, along with other information.
-13)Store it in the file using Employee::store.
-14)Retrieve the recordwith Employee::retrieve and display it to cout.
+
+1. Obtain the name of an XML file to read from the command line (argv[1]). Print an error message and halt the program if there is no command-line argument provided, or if the file does not exist.
+2. Read each XML recordin the file by repeatedly calling Employee::fromXML, which createsan Employee object on-the-fly, and store it in a vector (I recommend using unique_ptrs in the vector).
+3. Loop through your vector and print to coutthe Employee data for each object (using the displaymember function).
+4. The next step is to create a new file of fixed-length Employee records. This is explained below. Write the records for each employee to your new file (call it “employee.bin”) in the order they appear in your vector. Open this file as an fstreamobject with both read and write capability, and in binary format.
+5. Clear your vector in preparation for the next step.
+6. Traverse the file by repeated calls to Employee::read, filling your newly emptied vector with Employee pointers for each record read.
+7. Loop through your vector and print to coutan XML representation of each Employee using Employee::toXML.
+8. Search the file for the Employee with id 12345 using Employee::retrieve.
+9. Change the salary for the retrieved object to 150000.00
+10. Write the modified Employee object back to file using Employee::store
+11. Retrieve the object again by id (12345) and print its salary to verify that thefile now has the updated salary.
+12. Create a new Employee object of your own with a new, unique id, along with other information.
+13. Store it in the file using Employee::store.
+14. Retrieve the recordwith Employee::retrieve and display it to cout.
 
 Make sure you don’t leak any memory.
 
