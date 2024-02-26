@@ -1,0 +1,15 @@
+## Instructor of Record
+
+- CS 1410 - Object Oriented Programming -- **Spring 2023**
+- CS 2300 - Discrete Mathematics 1 -- **Fall 2023**
+- CS 2420 - Introduction to Algorithms and Data Structures -- **Fall 2022, Spring 2023**
+- CS 2810 - Computer Organization and Architecture -- **Fall 2023**
+- CS 3450 - Principles and Patterns of Software Design -- **Spring 2023, Spring 2024**
+- CS 3370 - Advanced C++ -- **Spring 2024**
+
+## Teaching Assistant
+
+- CS 305G - Global Social and Ethical Issues in Computing -- **Fall 2020 - Fall 2021**
+- CS 3260 - C# .Net Software Development -- **Spring 2020**
+- CS 3450 - Principles and Patterns of Software Design -- **Spring 2021**
+- CS 3310 - Analysis of Algorithms -- **Spring 2020**

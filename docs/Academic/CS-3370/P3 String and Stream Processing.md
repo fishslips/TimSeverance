@@ -1,7 +1,5 @@
-
-CS 3370Program 3–String and Stream Processing
-
 Write a program that handles I/O of Employee objects containing the following data attributes:
+
 name(string)
 id(int)
 address(string)
