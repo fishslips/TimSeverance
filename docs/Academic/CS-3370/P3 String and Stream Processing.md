@@ -1,13 +1,15 @@
+### Assignment
+
 Write a program that handles I/O of Employee objects containing the following data attributes:
 
-name(string)
-id(int)
-address(string)
-city(string)
-state(string)
-country(string)
-phone(string)
-salary(double)
+- name(string)
+- id(int)
+- address(string)
+- city(string)
+- state(string)
+- country(string)
+- phone(string)
+- salary(double)
 
 You will read XML representations of Employee objects from a file, and then will create a file of fixed-length records of Employee data. Do not use an XML software library or regular expressions for this assignment; just use operations from the std::string class for parsing input (see the Notes section below).The input files have no XML header tag.
 
