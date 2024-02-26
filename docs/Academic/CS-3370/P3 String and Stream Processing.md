@@ -51,14 +51,14 @@ The following is an overview of what your main function should do to test your f
 4. The next step is to create a new file of fixed-length Employee records. This is explained below. Write the records for each employee to your new file (call it “employee.bin”) in the order they appear in your vector. Open this file as an fstream object with both read and write capability, and in binary format.
 5. Clear your vector in preparation for the next step.
 6. Traverse the file by repeated calls to Employee::read, filling your newly emptied vector with Employee pointers for each record read.
-7. Loop through your vector and print to coutan XML representation of each Employee using Employee::toXML.
+7. Loop through your vector and print to cout an XML representation of each Employee using Employee::toXML.
 8. Search the file for the Employee with id 12345 using Employee::retrieve.
 9. Change the salary for the retrieved object to 150000.00
 10. Write the modified Employee object back to file using Employee::store
 11. Retrieve the object again by id (12345) and print its salary to verify that thefile now has the updated salary.
 12. Create a new Employee object of your own with a new, unique id, along with other information.
 13. Store it in the file using Employee::store.
-14. Retrieve the recordwith Employee::retrieve and display it to cout.
+14. Retrieve the record with Employee::retrieve and display it to cout.
 
 Make sure you don’t leak any memory.
 

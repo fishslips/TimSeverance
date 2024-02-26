@@ -1,3 +1,5 @@
+### Decorator Pattern
+
 We have a family of classes that we want to be able to decorate, this would be some kind of abstract base class, and then concrete subclasses.
 
 We then create a separate family of decorators, that have their own hierarchy as decorators. They have some abstract base class, and then concrete subclasses. The key is that the abstract base class, is also a subclass of the decorate-ables. In other words, our decorator abstract base class / interface, inherits from the decorate-able base class.
