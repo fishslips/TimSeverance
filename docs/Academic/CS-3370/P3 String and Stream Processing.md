@@ -11,7 +11,7 @@ Write a program that handles I/O of Employee objects containing the following da
 - phone(string)
 - salary(double)
 
-You will read XML representations of Employee objects from a file, and then will create a file of fixed-length records of Employee data. Do not use an XML software library or regular expressions for this assignment; just use operations from the std::string class for parsing input (see the Notes section below).The input files have no XML header tag.
+You will read XML representations of Employee objects from a file, and then will create a file of fixed-length records of Employee data. Do not use an XML software library or regular expressions for this assignment; just use operations from the std::string class for parsing input (see the Notes section below).The input files have no XML header tag. a
 
 The XML tags are named the same as the attributes (ignoring case, of course). For those that know XML, don’t worry about top-level, system XML tags; we just want sequences of same-level Employee tag groups with attributes tags nested to one level only, like the following (indented to show the nesting, but they may appear free-form in the file; don’t assume that there will be any newlines or formatting):
 
