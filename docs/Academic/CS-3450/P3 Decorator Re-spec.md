@@ -25,7 +25,7 @@ Defines the following methods:
 
 - Write(t : Any)
 	- writes an object to the sink
-	- the java example invokes the writestring method and passes t.toString() to get the string representation. In C++ 
+	- the java example invokes the writestring method and passes t.toString() to get the string representation.
 - WriteString(s : String)
 	- writes a string to the sink
 
@@ -98,7 +98,7 @@ In your main, you should create / do the following:
 - decorator menu
 	- while loop
 	- list out which decorators
-	- when a number is selected, make a new decorator instance, and pass the older decorate-able as a parameter, as well as whatever other constructor parameters are need, and then reassign the old variable to the new value. At the start, your StreamOutput instance will be fed to a new decorator, and the name of the variable will be reassigned from the StreamOutput, to whatever the new decorator is
+	- when a number is selected, make a new decorator instance, and pass the older decorate-able as a parameter, as well as whatever other constructor parameters are needed, and then reassign the old variable to the new value. At the start, your StreamOutput instance will be fed to a new decorator, and the name of the variable will be reassigned from the StreamOutput, to whatever the new decorator is
 - Write with decorator
 	- For this part, just do a while loop using your inputstream, and feed lines from it into your decorator.write method.
 
