@@ -1,6 +1,6 @@
 ### Decorators
 
-We went over decorators in class and I've shared the Dungeons&Patterns folder with you all that contains some light examples. The examples are light so that you can understand the core features of the decorator. If you want a recap go to [[Decorator]].
+We went over decorators in class and I've shared the Dungeons&Patterns folder with you all that contains some light examples. The examples are light so that you can understand the core features of the decorator. If you want a recap go to [[Mind Palace/TimSeverance/docs/Academic/CS-3450/Week 7|Decorator]]
 
 This re-spec is longer than the original, but I go into more detail on how the features can/should be implemented.
 ### Project Spec
