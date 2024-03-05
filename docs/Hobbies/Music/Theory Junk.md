@@ -138,3 +138,7 @@ Ordering for the Circle of Fifths is cool. Pretty much pick your starting note, 
 Now, every other note (including wrapping around is the next note in scale). For C, your 2nd is D, 3rd is E, 4th is F, 5th is G, 6th is A, 7th is B. That's a given.
 
 For the relative minor, take two notes to the right, 4 notes to the left. Every other note is still the sequential item in the sequence. Relative minor (6th) is always 3 away from your Major.
+
+W W H W W W H
+
+W H W W H W W 
