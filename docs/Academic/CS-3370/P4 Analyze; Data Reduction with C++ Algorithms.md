@@ -55,7 +55,7 @@ Invalid file: test.dat
 The second .dat file has pulses of interest at (zero-based) positions 1019 and 1030, with respective areas 3540 and 22916. The order of appearance of the .dat files is not important.
 
 ### <u>Implementation Notes </u>
-First get the program working, and then consider using lambda expressions and algorithms such as copy, transform, and accumulate, along with istream_iterators to avoid some loops and make the code shorter and more readable. How are you going to discover all the .dat files in the current directory? Use the std::filesystem. Also, verify that the .ini file is present and valid. Here are some sample runs for the invalid .ini files:
+First get the program working, and then consider using [lambda expressions](https://en.cppreference.com/w/cpp/language/lambda) and [algorithms](https://en.cppreference.com/w/cpp/algorithm) such as copy, transform, and accumulate, along with istream_iterators to avoid some loops and make the code shorter and more readable. How are you going to discover all the .dat files in the current directory? Use the std::filesystem. Also, verify that the .ini file is present and valid. Here are some sample runs for the invalid .ini files:
 
 ```
 Charless-MacBook-Pro:prog-analyze chuck$ ./a.out error1.ini 

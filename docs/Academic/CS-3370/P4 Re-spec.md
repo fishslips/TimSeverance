@@ -40,7 +40,7 @@ Iterate through your vector and for every point starting from [3] and ending at 
 **Pulse Detection**
 Here is where you'll use the parameters you read from your .ini file. 
 
-Iterate through your new values again. For every point, check if the rise (y<sub>(i + 2)</sub> - yi) exceeds vt. If it does, then a pulse begins at i. After finding a pulse, move forward starting at y<sub>(i + 2)</sub> until the values start to decrease before looking for a new pulse. To do so, you can probably keep track and determine 
+Iterate through your new values again. For every point, check if the rise (y<sub>(i + 2)</sub> - yi) exceeds vt. If it does, then a pulse begins at i. After finding a pulse, move forward starting at y<sub>(i + 2)</sub> until the values start to decrease before looking for a new pulse. To do so, you can probably keep track and determine (to be continued)
 
 ### Notes
 
