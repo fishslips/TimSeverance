@@ -38,9 +38,21 @@ Iterate through your vector and for every point starting from [3] and ending at 
 (iter[-3] + 2\*iter[-2] + 3\*iter[-1] + 3\*iter[0] + 3\*iter[1] + 2\*iter[2] + iter[3]) / 15
 
 **Pulse Detection**
-Here is where you'll use the parameters you read from your .ini file. 
+Here is where you'll use the vt and width parameters you read from your .ini file. 
 
-Iterate through your new values again. For every point, check if the rise (y<sub>(i + 2)</sub> - yi) exceeds vt. If it does, then a pulse begins at i. After finding a pulse, move forward starting at y<sub>(i + 2)</sub> until the values start to decrease before looking for a new pulse. To do so, you can probably keep track and determine (to be continued)
+Iterate through your new values again. For every point, check if the rise (y<sub>(i + 2)</sub> - yi) exceeds vt. If it does, then a pulse begins at i. After finding a pulse, move forward starting at y<sub>(i + 2)</sub> until the values start to decrease before looking for a new pulse. 
 
+**Piggy Backs**
+You're given these values in your ini file
+
+pulse_delta=15
+drop_ratio=0.75
+below_drop_ratio=4
+
+You'll want to keep track of where your pulses are. 
+
+If you have one pulse that starts at 0, and another that starts 10, we have two pulses that are within the pulse delta (15 in this case). 
+
+Then you check all the points between the two pulses, and keep track of how many points are less than (drop_ratio * first_pulse_peak_height). If there are more than below_drop_ratio (4 in this case), then we can drop the first pulse from consideration.
 ### Notes
 
