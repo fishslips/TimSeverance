@@ -33,14 +33,14 @@ Store parameters from ini file here (vt, width, pulse_delta, drop_ratio, below_d
 | pulse_delta      | The gap between pulses to look for piggyback |
 
 **Smoothing**
-Iterate through your vector and for every point starting from [3] and ending at 4th from the last, swap out the values in each index with a weighted average using the following formula:
+Iterate through your vector (for loop) and for every point starting from [3] and ending at 4th from the last, swap out the values in each index with a weighted average using the following formula:
 
 (iter[-3] + 2\*iter[-2] + 3\*iter[-1] + 3\*iter[0] + 3\*iter[1] + 2\*iter[2] + iter[3]) / 15
 
 **Pulse Detection**
 Here is where you'll use the vt and width parameters you read from your .ini file. 
 
-Iterate through your new values again. For every point, check if the rise (y<sub>(i + 2)</sub> - yi) exceeds vt. If it does, then a pulse begins at i. After finding a pulse, move forward starting at y<sub>(i + 2)</sub> until the values start to decrease before looking for a new pulse. 
+Iterate through your array of smooth values. For every point, check if the rise (array\[i+2] - array\[i]) exceeds vt. If it does, then a pulse begins at i. After finding a pulse, move forward starting at y<sub>(i + 2)</sub> until the values start to decrease before looking for a new pulse. 
 
 **Piggy Backs**
 You're given these values in your ini file
