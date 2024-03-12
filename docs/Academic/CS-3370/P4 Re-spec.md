@@ -42,6 +42,8 @@ Here is where you'll use the vt and width parameters you read from your .ini fil
 
 Iterate through your array of smooth values. For every point, check if the rise (array\[i+2] - array\[i]) exceeds vt. If it does, then a pulse begins at i. After finding a pulse, move forward starting at y<sub>(i + 2)</sub> until the values start to decrease before looking for a new pulse. 
 
+Calculate the area by 
+
 **Piggy Backs**
 You're given these values in your ini file
 
@@ -53,6 +55,6 @@ You'll want to keep track of where your pulses are.
 
 If you have one pulse that starts at 0, and another that starts 10, we have two pulses that are within the pulse delta (15 in this case). 
 
-Then you check all the points between the two pulses, and keep track of how many points are less than (drop_ratio * first_pulse_peak_height). If there are more than below_drop_ratio (4 in this case), then we can drop the first pulse from consideration.
+Then you check all the points between the peak of the first pulse, and the start of the second pulse, and keep track of how many points are less than (drop_ratio * first_pulse_peak_height). If there are more than below_drop_ratio (4 in this case), then we can drop the first pulse from consideration.
 ### Notes
 
