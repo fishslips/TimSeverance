@@ -15,6 +15,10 @@ Creates a class with a create(string s) method that receives a string for input,
 **From the book:** 
 The Simple Factory isn’t actually a Design Pattern; it’s more of a programming idiom. But it is commonly used, so we’ll give it a Head First Pattern Honorable Mention. Some developers do mistake this idiom for the Factory Pattern, but the next time that happens you can subtly show you know your stuff; just don’t strut as you educate them on the distinction.
 
+### Factory Method
+
+Rather than creating a class dedicated to creation, subclasses instead implement an abstract method, where they handle the creation of their own objects. We're leveraging the same techniques, but rather than 
+
 ### Singleton
 #### What the singleton is
 Singleton pattern allows us to create only one instance of an object. The common approach is the add conditional logic to a constructor or initializer, or to create a private constructor that is invoked through a helper method.

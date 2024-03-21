@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-2300/Week 2.md",
+                "file": "docs/Hobbies/Programming/Jake's Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-2300/Week 2.md",
+                "file": "docs/Hobbies/Programming/Jake's Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-2300/Week 2.md",
+                "file": "docs/Hobbies/Programming/Jake's Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-2300/Week 2.md"
+                "file": "docs/Hobbies/Programming/Jake's Resume.md"
               }
             }
           }
@@ -188,39 +188,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "fd27391732e1a635",
   "lastOpenFiles": [
-    "docs/Academic/CS-3450/Project 3 Re-spec.md",
-    "docs/Hobbies/Hobbies.md",
     "docs/Academic/Teaching.md",
-    "docs/Academic/Random Learning Stuff/Logs And Exponents.md",
+    "docs/Hobbies/Programming/Jake's Resume.md",
+    "docs/index.md",
+    "docs/Academic/CS-3370/Module 5.md",
+    "docs/Hobbies/Programming/MSYS 2.md",
+    "docs/Academic/CS-2300/Week 2.md",
+    "Excalidraw/Drawing 2024-03-18 18.30.02.excalidraw.md",
+    "docs/Hobbies/Game Dev/Excalidraw.md",
+    "Excalidraw",
+    "docs/Hobbies/Hobbies.md",
+    "docs/Hobbies/Programming/Rust.md",
+    "docs/Academic/CS-3450/Week 11.md",
+    "docs/Hobbies/Programming",
+    "docs/Academic/CS-3370/P4 Analyze; Data Reduction with C++ Algorithms.md",
+    "docs/Academic/CS-3370/P4 Re-spec.md",
+    "docs/Academic/CS-3370/Module 4.md",
+    "docs/Academic/CS-3370/P3 String and Stream Processing.md",
+    "docs/Academic/CS-3450/Week 8.md",
     "docs/Academic/CS-3450/Week 9.md",
+    "docs/Academic/CS-3450/Project 3 Re-spec.md",
+    "docs/Academic/Random Learning Stuff/Logs And Exponents.md",
     "docs/Academic/CS-3450/Week 7.md",
     "docs/Academic/CS-3450/P3 Decorator Re-spec.md",
-    "docs/Academic/CS-3370/P3 String and Stream Processing.md",
     "docs/1. Positions.md",
-    "docs/Academic/CS-2300/Week 2.md",
     "docs/Academic/CS-3450/Decorator.md",
     "docs/Academic/CS-3370/Streams and Exceptions.md",
     "docs/Academic/CS-3370/P2 Memory Pool and Techniques.md",
     "docs/Academic/CS-3450/Week 2.md",
-    "docs/Academic/CS-3450/Week 4.md",
-    "docs/Academic/CS-3370/Week 3.md",
-    "docs/Hobbies/Music/Theory Junk.md",
-    "docs/Academic/CS-3370/Week 2.md",
     "docs/Academic/CS-3370",
-    "docs/Academic/CS-3450/Week 1.md",
-    "docs/Academic/CS-2420/Week 7.md",
-    "docs/Academic/CS-2300/Week 12.md",
-    "docs/Academic/CS-2300/Week 10.md",
-    "docs/Hobbies/Game Dev/Unreal Engine/Extended CMC.md",
-    "docs/Academic/CS-2300/Week 11.md",
-    "docs/Academic/Random Learning Stuff/Universal Expansion, Fractals, etc.md",
     "docs/Academic/Random Learning Stuff",
-    "docs/Academic/CS-2300/Extra Resources.md",
     "docs/Images/Pasted image 20230908211202.png",
     "docs/Images/Pasted image 20230909184049.png",
     "docs/Hobbies/Music",
