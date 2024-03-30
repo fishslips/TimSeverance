@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ba3f0ede168d4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Academic/CS-3370/P4 Re-spec.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Hobbies/Programming/Jake's Resume.md",
+                "file": "docs/Academic/CS-3370/P4 Re-spec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Hobbies/Programming/Jake's Resume.md",
+                "file": "docs/Academic/CS-3370/P4 Re-spec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Hobbies/Programming/Jake's Resume.md"
+                "file": "docs/Academic/CS-3370/P4 Re-spec.md"
               }
             }
           }
@@ -193,10 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd27391732e1a635",
+  "active": "4ba3f0ede168d4d5",
   "lastOpenFiles": [
-    "docs/Academic/Teaching.md",
+    "docs/Academic/CS-3370/P4 Analyze; Data Reduction with C++ Algorithms.md",
+    "docs/Academic/CS-3370/P3 String and Stream Processing.md",
+    "docs/Hobbies/Game Dev/Unreal Engine/Character Movement Component.md",
     "docs/Hobbies/Programming/Jake's Resume.md",
+    "docs/Academic/Teaching.md",
     "docs/index.md",
     "docs/Academic/CS-3370/Module 5.md",
     "docs/Hobbies/Programming/MSYS 2.md",
@@ -208,10 +223,8 @@
     "docs/Hobbies/Programming/Rust.md",
     "docs/Academic/CS-3450/Week 11.md",
     "docs/Hobbies/Programming",
-    "docs/Academic/CS-3370/P4 Analyze; Data Reduction with C++ Algorithms.md",
     "docs/Academic/CS-3370/P4 Re-spec.md",
     "docs/Academic/CS-3370/Module 4.md",
-    "docs/Academic/CS-3370/P3 String and Stream Processing.md",
     "docs/Academic/CS-3450/Week 8.md",
     "docs/Academic/CS-3450/Week 9.md",
     "docs/Academic/CS-3450/Project 3 Re-spec.md",
@@ -222,7 +235,6 @@
     "docs/Academic/CS-3450/Decorator.md",
     "docs/Academic/CS-3370/Streams and Exceptions.md",
     "docs/Academic/CS-3370/P2 Memory Pool and Techniques.md",
-    "docs/Academic/CS-3450/Week 2.md",
     "docs/Academic/CS-3370",
     "docs/Academic/Random Learning Stuff",
     "docs/Images/Pasted image 20230908211202.png",
