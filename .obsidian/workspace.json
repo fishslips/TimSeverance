@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44d87f44a4420e4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Academic/CS-3450/Visitor Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-3370/P4 Re-spec.md",
+                "file": "docs/Academic/CS-3450/Visitor Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-3370/P4 Re-spec.md",
+                "file": "docs/Academic/CS-3450/Visitor Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-3370/P4 Re-spec.md"
+                "file": "docs/Academic/CS-3450/Visitor Pattern.md"
               }
             }
           }
@@ -205,8 +217,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ba3f0ede168d4d5",
+  "active": "44d87f44a4420e4d",
   "lastOpenFiles": [
+    "docs/Academic/Inner Kernal/Meeting 1.md",
+    "docs/Academic/CS-3450/Visitor Pattern.md",
+    "docs/Academic/Inner Kernal",
+    "docs/Hobbies/Music/Tim's Song Lists.md",
+    "docs/Academic/CS-3370/P6 Bit Array.md",
     "docs/Academic/CS-3370/P4 Analyze; Data Reduction with C++ Algorithms.md",
     "docs/Academic/CS-3370/P3 String and Stream Processing.md",
     "docs/Hobbies/Game Dev/Unreal Engine/Character Movement Component.md",
@@ -231,10 +248,6 @@
     "docs/Academic/Random Learning Stuff/Logs And Exponents.md",
     "docs/Academic/CS-3450/Week 7.md",
     "docs/Academic/CS-3450/P3 Decorator Re-spec.md",
-    "docs/1. Positions.md",
-    "docs/Academic/CS-3450/Decorator.md",
-    "docs/Academic/CS-3370/Streams and Exceptions.md",
-    "docs/Academic/CS-3370/P2 Memory Pool and Techniques.md",
     "docs/Academic/CS-3370",
     "docs/Academic/Random Learning Stuff",
     "docs/Images/Pasted image 20230908211202.png",
