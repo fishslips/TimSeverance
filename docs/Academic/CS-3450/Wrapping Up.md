@@ -13,3 +13,8 @@ Traffic light optical illusion
 https://nerdist.com/article/optical-illusion-makes-you-see-red-stoplight-but-its-actually-grey/
 
 my.uvu.edu and its terrible new layout
+
+### Orders of Ignorance
+
+### Squeaky Doors and Shiny Objects
+
