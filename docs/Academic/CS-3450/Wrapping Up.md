@@ -26,6 +26,8 @@ https://www.nature.com/articles/nrn1825
 https://www.sciencedirect.com/topics/neuroscience/emotional-memory
 ### Leadership
 
+https://www.youtube.com/watch?v=uAwSVOlOgH8&t=1s
+
 https://www.google.com/search?client=opera&sca_esv=ffa6a5b912f672b6&sca_upv=1&sxsrf=ACQVn0-V6rdCoBYD40JuVT5Qlpozhe1gcA:1713814447029&q=jim+mccarthy+dynamics+of+software+development&tbm=vid&source=lnms&prmd=sivnbmtz&sa=X&ved=2ahUKEwiCxc2qyNaFAxWmEkQIHX6LC1IQ0pQJegQICxAB&biw=1595&bih=795&dpr=1.56#fpstate=ive&vld=cid:00726d49,vid:U9TJbOJ-r0A,st:0
 
 Jim McCarthy Quotes
