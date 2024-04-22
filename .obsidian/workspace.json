@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf6427efa80ce262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Academic/CS-2420/Week 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef2b66d4cd02c38b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Academic/CS-2300/Week 1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e725967df586ab5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Academic/CS-2300/Week 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd27391732e1a635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Hobbies/Programming/Jake's Resume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ba3f0ede168d4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Academic/CS-3370/P4 Re-spec.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "44d87f44a4420e4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-3450/Visitor Pattern.md",
+                "file": "docs/Academic/CS-3450/Wrapping Up.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-3450/Visitor Pattern.md",
+                "file": "docs/Academic/CS-3450/Wrapping Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-3450/Visitor Pattern.md",
+                "file": "docs/Academic/CS-3450/Wrapping Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-3450/Visitor Pattern.md"
+                "file": "docs/Academic/CS-3450/Wrapping Up.md"
               }
             }
           }
@@ -219,8 +158,12 @@
   },
   "active": "44d87f44a4420e4d",
   "lastOpenFiles": [
-    "docs/Academic/Inner Kernal/Meeting 1.md",
+    "docs/Hobbies/Game Dev/Unreal Engine/UE5 Bug Fixes.md",
+    "docs/Hobbies/Game Dev/Unreal Engine/Blueprint Properties.md",
+    "docs/Academic/CS-3370/P7 Pipeline.md",
+    "docs/Academic/CS-3450/Wrapping Up.md",
     "docs/Academic/CS-3450/Visitor Pattern.md",
+    "docs/Academic/Inner Kernal/Meeting 1.md",
     "docs/Academic/Inner Kernal",
     "docs/Hobbies/Music/Tim's Song Lists.md",
     "docs/Academic/CS-3370/P6 Bit Array.md",
@@ -244,10 +187,6 @@
     "docs/Academic/CS-3370/Module 4.md",
     "docs/Academic/CS-3450/Week 8.md",
     "docs/Academic/CS-3450/Week 9.md",
-    "docs/Academic/CS-3450/Project 3 Re-spec.md",
-    "docs/Academic/Random Learning Stuff/Logs And Exponents.md",
-    "docs/Academic/CS-3450/Week 7.md",
-    "docs/Academic/CS-3450/P3 Decorator Re-spec.md",
     "docs/Academic/CS-3370",
     "docs/Academic/Random Learning Stuff",
     "docs/Images/Pasted image 20230908211202.png",
