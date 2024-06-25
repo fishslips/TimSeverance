@@ -5,7 +5,7 @@ Algorithms describe steps to solve some problem. Baking a cake, directions to CS
 
 Computational problems are problems that can be solved with computers given some input. We use algorithms to help solve these. Some algorithms are more efficient than others, as in they take less time or space to solve a problem, or they might be inefficient but easy to implement. There are lots of different ways to solve problems, some are better than others, but most of the time they have different pros and cons.
 
-### NP - Complete problem
+### NP - Complete problem (Nondeterministic Polynomial time)
 1. No efficient [[#algorithm]] has been found to solve it
 2. No one has proven that an efficient algorithm is impossible to find
 3. If it exists for one problem, then all NP-complete problems can be solved efficiently

@@ -3,6 +3,14 @@ Project 1 is just a simple introduction to implementing, testing, and submitting
 ### Project 2 overview
 Project 2 is the real start. We have 8 projects, but really it's 7. Every week, we'll start by going over the project requirements, loading up the idea in our minds, and then hitting the material with the project in mind.
 
+### About me
+- I'm 30
+- Background, WV, SP-BR, BYU-I, UVU, etc.
+- I play guitar, enjoyer of death metal. Fallujah, rivers of nihil, ulcerate, aegaeon, cynic, death
+- I love sushi, but really any dishes with rice I usually go crazy for
+- Slight anime nerd. Eva, HxH, Trigun, .hack, Akira, Ghost in the Shell, CSM, JJK, etc
+- R6 Siege, Elden Ring
+- Reading, movies, hobby collection
 ### Class Structure
 - Each week, on the first day, we'll go over the project spec together, and start to think about the problems we'll need to solve. We might look at the test cases, potential pain points, function names, etc.
 - After reviewing the projects, we'll move on to the course material with the project details in mind. 
