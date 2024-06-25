@@ -1,8 +1,9 @@
 ## Notes for Module 1
+
 ### Intro to algorithms
 Algorithms describe steps to solve some problem. Baking a cake, directions to CS401, or sorting lists can all use algorithms. Algorithms can be expressed in natural language, pseudocode, formal languages, whatever.
 
-Computational problems are problems that can be solved with computers given some input. We use algorithms to help solve these. Some algorithms are more efficient than others, as in they take less time or space to solve a problem, or they might be enifficient but easy to implement. There are lots of different ways to solve problems, some are better than others, but most of the time they have different pros and cons.
+Computational problems are problems that can be solved with computers given some input. We use algorithms to help solve these. Some algorithms are more efficient than others, as in they take less time or space to solve a problem, or they might be inefficient but easy to implement. There are lots of different ways to solve problems, some are better than others, but most of the time they have different pros and cons.
 
 ### NP - Complete problem
 1. No efficient [[#algorithm]] has been found to solve it
@@ -14,6 +15,8 @@ If it's NP-Complete, don't focus on the perfect solution, just a good inefficien
 ### How Data Structures and Algorithms relate to eachother
 
 #### Algorithms for data structures
+
+Data structures are a way to organize, store, and perform operations on data.
 
 Data structures require specific operation to be performed on their data. This means that there are algorithms specific to different data structures. 
 
@@ -43,9 +46,9 @@ ADTs focus more on the what rather than the how.
 
 Stacks, Heaps, Lists etc are examples of ADTs. When we talk about using a stack, an idea comes to mind of how data will be stored and handled without worrying about the concrete implementation. Stacks are FILO and so we understand that data coming in will be pushed to the bottom of a stack, and new data will pile on top of it. In order to reach information at the bottom, we have to remove stuff on top to get there.
 
-What we're not thinking about is the actual programatic implementation of how a particular stack might work. A stack can be implemented with lots of different data types.
+What we're not thinking about is the actual programmatic implementation of how a particular stack might work. A stack can be implemented with lots of different data types.
 
-
+https://cplusplus.com/reference/stack/stack/
 ### Efficiency
 
 Computational Complexity can consist of time T(N) and space S(N) complexity (how fast it goes, and how much space it takes up) where N is the input. 
@@ -56,8 +59,6 @@ Space complexity include input data and additional memory allocation. Auxillary 
 
 N represents input
 k represents some constant number
-
-
 
 
 
