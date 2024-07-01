@@ -14,6 +14,7 @@
 `Linear search from start point to end point`
 
 Jump Size = int(sqrt(len(lyst))) = 3
+
 Target = 8
 
 | Index     | 0   | 1   | 2   | 3   | 4   | 5   | 6    | 7      | 8   | 9       |
