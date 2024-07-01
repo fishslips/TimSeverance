@@ -49,5 +49,4 @@ Jim McCarthy Quotes
 “In addition to calling for an understanding of the dynamics of the technology, leadership in software development requires a high degree of sensitivity to the human nature of the enterprise, an awareness of the underlying drives and emotions that determine the team’s behavior.”
 
 **Burn-out**
-“The basic issue in developer burn-out is that the individual’s passion, essential to producing great software, has been consumed or has become misdirected or is otherwise unavailable. The role of passion in software development can’t be overstated... When the passion burns out, theb compulsive interest in pouring oneself into an invisible yet coherent and dynamic stream of bits  
-goes with it.”
+“The basic issue in developer burn-out is that the individual’s passion, essential to producing great software, has been consumed or has become misdirected or is otherwise unavailable. The role of passion in software development can’t be overstated... When the passion burns out, the compulsive interest in pouring oneself into an invisible yet coherent and dynamic stream of bits goes with it.”
