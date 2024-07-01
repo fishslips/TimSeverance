@@ -21,6 +21,7 @@ Target = 8
 | Value     | 1   | 2   | 3   | 4   | 5   | 6   | 7    | 8      | 9   | 10      |
 | Jump      | 1st |     |     | 2nd |     |     | 3rd  | Target |     | 4th     |
 | Iteration |     |     |     |     |     |     | prev |        |     | current |
+
 If we use a for loop
 for i in range (0, len(lyst), jump_size)
 
