@@ -35,11 +35,11 @@ So, we know that we'll want to search between our previous jump index, and our c
 We have problems to look out for. Making sure we don't go out of bounds when jumping, and keeping track of the previous jump point.
 
 ##### Out of Bounds
-How we do bound checking may change depending on if you're doing a while loop or for loop. To check for OoB with a for loop approach, ideally, this check should be done toward the end of the iteration after we've already decided that our current index value isn't greater than our target. 
+How we check OoB may vary if you're doing a while loop or for loop. To check for OoB with a for loop approach, the check should be done towards the end of the iteration after we've already decided that our current index value isn't greater than our target. 
 
-If we know that the next jump will put us out of bounds, we know we're close to the end of the list. So, we can go ahead and linear search here. We'll likely need to do it this way since the step size is only evaluated once at the beginning of a for loop statement (we'll see why exactly when we implement our linked lists), since we can't change the step size.
+If we know that the next jump will put us out of bounds, we know we're close to the end of the list. So, we can go ahead and linear search here. We'll likely need to do it this way since the step size is only evaluated once at the beginning of a for loop statement (we'll see why exactly when we implement our linked lists), so we can't change the step size of our for loop.
 
-If we do it with a while loop, we can go ahead and modify the step size to be equal to the remaining space, jump to the very last index of the array, and perform a check. Is our index value equal to the target? Is our index value greater than the target? 
+If we do it with a while loop, we can go ahead and modify the step size to be equal to the remaining space, jump to the very last index of the array, and perform a check. Is our index value equal to the target? Is our index value greater than the target? etc.
 
 ##### Previous Interval
 In a for loop implementation, I simply keep track of the previous index by setting previous equal to the current index at the very end of the loop
