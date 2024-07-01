@@ -45,10 +45,11 @@ If we do it with a while loop, we can go ahead and modify the step size to be eq
 In a for loop implementation, I simply keep track of the previous index by setting previous equal to the current index at the very end of the loop
 
 prev = 0
+
 for i in ...:
-    check stuff
-	do stuff
-	prev = i
+- check stuff
+- do stuff
+- prev = i
 
 This way, in the second iteration, i = 3, prev = 0. 
 
