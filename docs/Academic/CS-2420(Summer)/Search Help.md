@@ -23,7 +23,7 @@ Target = 8
 | Iteration |     |     |     |     |     |     | prev |        |     | current |
 
 If we use a for loop
-for i in range (0, len(lyst), jump_size)
+`for i in range (0, len(lyst), jump_size)`
 
 We'll start at index 0, jump ahead to index 3, jump ahead to 6, and jump ahead to 9
 
