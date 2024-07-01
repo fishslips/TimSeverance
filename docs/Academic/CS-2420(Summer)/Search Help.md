@@ -1,3 +1,6 @@
+
+Firstly, here's a geeksforgeeks article on the jump search.
+https://www.geeksforgeeks.org/jump-search/#
 ### Jump Search
 
 **Jump search works a lot like linear search. Where linear search walks through an array one item at a time, jump search walks through an array one block at a time. There are several ways you can handle back tracking, but here's the general approach to the jump search.**
