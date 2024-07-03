@@ -29,7 +29,7 @@ Quick Sort works by creating partitions and depositing smaller numbers to a left
 
 I remember that this one is different from Merge sort in that Quick sort is Quick, or Eager, and can be said to sort on the way down the recursive tree. Merge sort sorts on the way back up.
 
-The partition point that's selected doesn't have anything to do with the index, just the value at the index. So the partition point can be any index really, we usually just select the middle for convenience.
+The pivot point that's selected doesn't have anything to do with the index, just the value at the index. We're using some value in the array to determine the numerical dividing point so numbers can be organized into the left and right partition. So the partition point can be any index really, we usually just select the middle for convenience.
 
 The example given in zybooks in 3.8 is an example of how to do quick sort in place. You can either swap the values in place (providing a low index and a high index and operating on the same list structure throughout), or you can create sublists, and then concatenate them on the way back up.
 
@@ -39,6 +39,9 @@ Advance: Call Partition Algorithm to get partitions
 Recurse: Call Quicksort for Left partition, then call Quicksort for Right partition
 
 #### Partition Algorithm
+Select a pivot point (pivot number). 
+Move lowindex and highindex toward eachother. 
+Check if the value pointed to by either is on the correct side.
 
 
 ### Links
