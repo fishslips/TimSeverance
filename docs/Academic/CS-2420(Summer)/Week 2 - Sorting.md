@@ -22,6 +22,28 @@ These two sorts are fairly similar. Both of them have O(n<sup>2</sup>) time comp
 
 Now, here's where things get interesting. We talked about how generally in algorithmic analysis we want to analyze the worst case scenario. We want to see, given the worst set of conditions, how long will this thing take to complete. If both algorithms perform about the same, how do we choose one over the other? As the text mentions in 3.4, insertion sort has a runtime of O(n) for nearly sorted lists. This is where insertion sort might be a better option to implement over 
 
+***
+### Quick Sort
+
+Quick Sort works by creating partitions and depositing smaller numbers to a left partition, and larger numbers to a right partition. After partitioning, the left and right partitions are then recursively quick sorted, which obviously involves partitioning and so on.
+
+I remember that this one is different from Merge sort in that Quick sort is Quick, or Eager, and can be said to sort on the way down the recursive tree. Merge sort sorts on the way back up.
+
+The pivot point that's selected doesn't have anything to do with the index, just the value at the index. We're using some value in the array to determine the numerical dividing point so numbers can be organized into the left and right partition. So the partition point can be any index really, we usually just select the middle for convenience.
+
+The example given in zybooks in 3.8 is an example of how to do quick sort in place. You can either swap the values in place (providing a low index and a high index and operating on the same list structure throughout), or you can create sublists, and then concatenate them on the way back up.
+
+#### Quick Sort Algorithm
+BaseCase: 0 or 1 items in partition
+Advance: Call Partition Algorithm to get partitions
+Recurse: Call Quicksort for Left partition, then call Quicksort for Right partition
+
+#### Partition Algorithm
+Select a pivot point (pivot number). 
+Move lowindex and highindex toward eachother. 
+Check if the value pointed to by either is on the correct side.
+
+
 ### Links
 
 [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
