@@ -43,6 +43,8 @@ Select a pivot point (pivot number).
 Move lowindex and highindex toward eachother. 
 Check if the value pointed to by either is on the correct side.
 
+[Complexity](https://www.geeksforgeeks.org/time-and-space-complexity-analysis-of-quick-sort/)
+
 
 ### Links
 
