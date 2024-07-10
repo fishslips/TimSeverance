@@ -10,9 +10,9 @@ The intuition for this sort is the left side increments one at a time, while the
 
 This one is also easy. Conceptually, it works similarly to selection sort. The left side is "sorted," while the right side is not. However, the area that we repeatedly work on is different.
 
-With insertion sort, we once again have trackers, most easily implemented with i and j variables in a double loop scenario (never be afraid to use more robust naming conventions though). Unlike selection sort, we start our i and j at index  rather than zero, and automatically count the left side "sorted." We're effectively partitioning the regions again, and obviously, an array with only one element is sorted in relation to itself. 
+With insertion sort, we once again have trackers, most easily implemented with i and j variables in a double loop scenario (never be afraid to use more robust naming conventions though). Unlike selection sort, we start our i and j at index 1 rather than zero, and automatically count the left side "sorted." We're effectively partitioning the regions again, and obviously, an array with only one element is sorted in relation to itself. 
 
-Where insertion differs from selection is that the tracker variable, j, doesn't walk through finding the smallest item, rather, it starts at the bounds, and walks through the sorted region trying to put the current number in the right spot.
+Where insertion differs from selection is that the tracker variable, j, doesn't walk through finding the smallest item, rather, it starts at the boundary, and walks through the sorted region trying to put the current number in the right spot.
 
 This is accomplished by checking the current item marked by j, and the item to its left at j-1, seeing if j is smaller, and if so, swapping the two items. J is then decremented, and the same check is performed again, gradually pushing the "current" item down the sorted region until it's in the right spot. Finally, once the item is in place (j is greater than or equal to the item to its left), we increment i, and reset j to be equal to i. 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-3450/Wrapping Up.md",
+                "file": "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-3450/Wrapping Up.md",
+                "file": "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-3450/Wrapping Up.md",
+                "file": "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-3450/Wrapping Up.md"
+                "file": "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md"
               }
             }
           }
@@ -158,8 +158,11 @@
   },
   "active": "44d87f44a4420e4d",
   "lastOpenFiles": [
-    "docs/Academic/CS-3450/Week 11.md",
+    "docs/Academic/CS-2420(Summer)/Week 1.md",
+    "docs/Academic/CS-2420(Summer)/Search Help.md",
+    "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
     "docs/Academic/CS-3450/Wrapping Up.md",
+    "docs/Academic/CS-3450/Week 11.md",
     "docs/Hobbies/Game Dev/Unreal Engine/UE5 Bug Fixes.md",
     "docs/Hobbies/Game Dev/Unreal Engine/Blueprint Properties.md",
     "docs/Academic/CS-3370/P7 Pipeline.md",
@@ -184,9 +187,6 @@
     "docs/Hobbies/Programming/Rust.md",
     "docs/Hobbies/Programming",
     "docs/Academic/CS-3370/P4 Re-spec.md",
-    "docs/Academic/CS-3370/Module 4.md",
-    "docs/Academic/CS-3450/Week 8.md",
-    "docs/Academic/CS-3450/Week 9.md",
     "docs/Academic/CS-3370",
     "docs/Academic/Random Learning Stuff",
     "docs/Images/Pasted image 20230908211202.png",
