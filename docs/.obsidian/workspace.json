@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68dabd8624ad514a",
+        "id": "2b9a6ffb4ad34ba5",
         "type": "tabs",
         "children": [
           {
-            "id": "f1174d4147986810",
+            "id": "dcc08abc685d4ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/CS-2420(Summer)/Week 3 - Linked Lists.md",
+                "file": "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/CS-2420(Summer)/Week 3 - Linked Lists.md",
+                "file": "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/CS-2420(Summer)/Week 3 - Linked Lists.md",
+                "file": "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/CS-2420(Summer)/Week 3 - Linked Lists.md"
+                "file": "Academic/CS-2420(Summer)/Mid Term Study Guide.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,15 +145,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1174d4147986810",
+  "active": "dcc08abc685d4ff0",
   "lastOpenFiles": [
-    "Academic/CS-2420(Summer)/Week 1 - Intro and Searching.md",
-    "Academic/CS-2420(Summer)/Week 3 - Linked Lists.md",
-    "Hobbies/Linux/Gnome Settings Daemon.md",
+    "Academic/CS-2420(Summer)/Search Help.md",
+    "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
+    "Academic/CS-2420(Summer)/Week 4 - Stacks, Queues, Postfix.md",
+    "Academic/CS-2420/Week 7.md",
+    "Academic/CS-2420/Week 6.md",
+    "Academic/CS-2420/Week 5.md",
+    "Hobbies/Linux/Linux Packages.md",
+    "Hobbies/Music/Demise - Aegaeon.md",
     "Hobbies/Linux/Linux pain.md",
+    "Untitled.canvas",
+    "Academic/CS-2420(Summer)/Week 3 - Linked Lists.md",
+    "Academic/CS-2420(Summer)/Week 1 - Intro and Searching.md",
+    "Academic/CS-2420(Summer)/Week 2 - Sorting.md",
+    "Hobbies/Linux/Gnome Settings Daemon.md",
     "Hobbies/Linux",
     "Hobbies/Linux.md",
-    "Academic/CS-2420(Summer)/Week 2 - Sorting.md",
     "Hobbies/Programming/CLI TUI App Projects.md",
     "Hobbies/Programming/Rust.md",
     "Academic/CS-2420/Week 2.md",
