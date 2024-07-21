@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b9a6ffb4ad34ba5",
+        "id": "52d0f37e9acfdc28",
         "type": "tabs",
         "children": [
           {
-            "id": "dcc08abc685d4ff0",
+            "id": "ec1ce8e143a67483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
+                "file": "Hobbies/Linux/Gnome Settings Daemon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
+                "file": "Hobbies/Linux/Gnome Settings Daemon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
+                "file": "Hobbies/Linux/Gnome Settings Daemon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/CS-2420(Summer)/Mid Term Study Guide.md"
+                "file": "Hobbies/Linux/Gnome Settings Daemon.md"
               }
             }
           }
@@ -145,22 +145,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcc08abc685d4ff0",
+  "active": "ec1ce8e143a67483",
   "lastOpenFiles": [
-    "Academic/CS-2420(Summer)/Search Help.md",
+    "Hobbies/Linux/Linux Packages.md",
+    "Hobbies/Linux/Linux pain.md",
+    "Hobbies/Linux/Setting dpi for i3.md",
+    "Hobbies/Linux/Gnome Settings Daemon.md",
+    "Hobbies/Linux/Desktop Launching for non packaged softare.md",
     "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
+    "Academic/CS-2420(Summer)/Search Help.md",
     "Academic/CS-2420(Summer)/Week 4 - Stacks, Queues, Postfix.md",
     "Academic/CS-2420/Week 7.md",
     "Academic/CS-2420/Week 6.md",
     "Academic/CS-2420/Week 5.md",
-    "Hobbies/Linux/Linux Packages.md",
     "Hobbies/Music/Demise - Aegaeon.md",
-    "Hobbies/Linux/Linux pain.md",
     "Untitled.canvas",
     "Academic/CS-2420(Summer)/Week 3 - Linked Lists.md",
     "Academic/CS-2420(Summer)/Week 1 - Intro and Searching.md",
     "Academic/CS-2420(Summer)/Week 2 - Sorting.md",
-    "Hobbies/Linux/Gnome Settings Daemon.md",
     "Hobbies/Linux",
     "Hobbies/Linux.md",
     "Hobbies/Programming/CLI TUI App Projects.md",
