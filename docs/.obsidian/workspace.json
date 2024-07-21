@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Linux/Gnome Settings Daemon.md",
+                "file": "Hobbies/Linux/Desktop Launching for non packaged softare.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Linux/Gnome Settings Daemon.md",
+                "file": "Hobbies/Linux/Desktop Launching for non packaged softare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Linux/Gnome Settings Daemon.md",
+                "file": "Hobbies/Linux/Desktop Launching for non packaged softare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Linux/Gnome Settings Daemon.md"
+                "file": "Hobbies/Linux/Desktop Launching for non packaged softare.md"
               }
             }
           }
@@ -147,11 +147,12 @@
   },
   "active": "ec1ce8e143a67483",
   "lastOpenFiles": [
+    "Hobbies/Linux/Gnome Settings Daemon.md",
+    "Hobbies/Linux/FetchxUpdater for non packaged software.md",
+    "Hobbies/Linux/Desktop Launching for non packaged softare.md",
     "Hobbies/Linux/Linux Packages.md",
     "Hobbies/Linux/Linux pain.md",
     "Hobbies/Linux/Setting dpi for i3.md",
-    "Hobbies/Linux/Gnome Settings Daemon.md",
-    "Hobbies/Linux/Desktop Launching for non packaged softare.md",
     "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
     "Academic/CS-2420(Summer)/Search Help.md",
     "Academic/CS-2420(Summer)/Week 4 - Stacks, Queues, Postfix.md",
