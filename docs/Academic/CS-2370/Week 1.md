@@ -64,6 +64,15 @@ A cout object is going to pipe information to standard output (like your termina
 
 Likewise, cin receives input from a terminal or some source, and STORES that input, into ANOTHER object. So it's "piping" information from itself, to a program object. Thus `cin >> my_string;`
 
+
+### Day 2
+
+Ints
+[Floats](https://en.wikipedia.org/wiki/IEEE_754)
+Const
+Auto
+
+
 ###  Compiling C++
 
 https://code.visualstudio.com/docs/cpp/config-mingw
