@@ -63,3 +63,4 @@ We get
 This is why the statement is false when someone doesn't also send a message to their self.
 
 If we want to express this more naturally then we can create a more complex statement as demonstrated in zybooks where for every person and every recipient, if someone is not theirself, they sent an email to everyone UxUy((x != y) -> M(x,y)).
+
