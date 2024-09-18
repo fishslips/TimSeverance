@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a90b1f57bf16b734",
+        "id": "81f3331d6dd35095",
         "type": "tabs",
         "children": [
           {
-            "id": "44d87f44a4420e4d",
+            "id": "a87ef76d72f61d74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
-                "mode": "source",
+                "file": "docs/Academic/CS-2300(Fall2024)/Week 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
+                "file": "docs/Academic/CS-2300(Fall2024)/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
+                "file": "docs/Academic/CS-2300(Fall2024)/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md"
+                "file": "docs/Academic/CS-2300(Fall2024)/Week 1.md"
               }
             }
           }
@@ -153,14 +153,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44d87f44a4420e4d",
+  "active": "a87ef76d72f61d74",
   "lastOpenFiles": [
+    "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
     "docs/Academic/CS-2420(Summer)/Week 1.md",
     "docs/Academic/CS-2420(Summer)/Search Help.md",
-    "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
     "docs/Academic/CS-3450/Wrapping Up.md",
     "docs/Academic/CS-3450/Week 11.md",
     "docs/Hobbies/Game Dev/Unreal Engine/UE5 Bug Fixes.md",
