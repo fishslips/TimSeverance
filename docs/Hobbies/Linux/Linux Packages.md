@@ -8,7 +8,7 @@ spotify-tui - CLI spotify client
 spotifyd - daemon for spotify to be used by cli tools and stuff
 
 rofi - nice little launcher (good for i3)
-lxappearance - set themes and stuff
+lxappearance - set themes and stuffqqq
 
 cava - cli waveform
 glava - better desktop waveform

@@ -50,6 +50,7 @@ Parenthesis, Negate, AND, OR
 Entries in a truth table have 2^n rows. Each column has equal number of true and false entries. We can see alternating patterns of T and F. The main way to fill out a truth table is to fill the first column split in half, top half with T's, bottom half with F's.
 
 When evaluating compound propositions, we should evaluate individual expressions first. For instance NOT p AND (q OR r) can be broken down into an evaluation of NOT p as a unary expression, as well as the statement within parentheses as a binary expression. Not p has its own set of values, then the evaluation of q OR r yields its own set of values, and the results of those two distinct values can be evaluated as a final binary expression.
+
 ## Conditional Statements
 
 A compound proposition that uses a conditional operation is called a **conditional proposition**, also known as a conditional statement.
@@ -70,14 +71,43 @@ A compound proposition that uses a conditional operation is called a **condition
 	- If p is true, then the contract breaks when q is false.
 	- Doesn't have to be fair, only indicates a contract if p is fulfilled, then q HAS to be fulfilled. Says nothing about if p ISNT fulfilled.
 
-### Converse 
+Again, these kinds of statements or propositions describe the truth value of the overall statement. In a scenario where we're describing that if x is true, then y is true: if our x is true, but our y is false, then the overall statement is false because the statement posits that y must be true when x is true. y must be fulfilled when x is fulfilled. If x is false, but y is true or false, then no rule has been broken. 
+
+### Converse (Luigi)
 - if q then p
 
-### Contrapositive
+### Inverse (Wario)
+- if not p then not q
+
+### Contrapositive (Waluigi)
 - if not q then not p
 
-### Inverse
-- if not p then not q
+### Mario, Luigi, Wario, Waluiji
+
+From ChatGPT: 
+
+Given the playful nature of mapping these characters to logical concepts, here's how we might align Luigi, Wario, and Waluigi to the ideas of converse, inverse, and contrapositive:
+
+1. **Luigi as the Converse**:
+    
+    - **Converse** in logic: If "If A, then B" becomes "If B, then A."
+    - Luigi is often seen as the converse of Mario, being similar but not identical. He shares many of Mario's traits but is often portrayed as the more cautious or secondary character. If Mario is the protagonist, then Luigi, in many ways, could be seen as the character who would step into the same role if their situations were reversed.
+2. **Wario as the Inverse**:
+    
+    - **Inverse** in logic: If "If A, then B" becomes "If not A, then not B."
+    - Wario represents the opposite of Mario in many ways—greedy, selfish, and unruly. He’s the "not Mario" in terms of character and values, embodying what Mario is not. As such, Wario can be seen as the inverse of Mario.
+3. **Waluigi as the Contrapositive**:
+    
+    - **Contrapositive** in logic: If "If A, then B" becomes "If not B, then not A."
+    - Waluigi, as the contrapositive, is a more complex reflection. He’s not just a counterpart to Luigi; he’s a twisted version that contrasts with Luigi while also maintaining a similar dynamic to Mario and Luigi’s relationship. If Luigi is Mario's converse, then Waluigi, being the opposite of Luigi and reflecting Wario's relationship to Mario, aligns well with the concept of a contrapositive—taking the original relationship and flipping it in a more complex, mirrored way.
+
+So, in summary:
+
+- **Luigi**: Converse of Mario
+- **Wario**: Inverse of Mario
+- **Waluigi**: Contrapositive of Mario (and Luigi in some sense)
+
+This mapping keeps the characters' relationships and their oppositional nature in line with logical operations.
 
 ### If and Only If ( ↔ ) Biconditional Operation
 - What we might traditionally think of with conditional logic or contracts
@@ -123,28 +153,5 @@ Take This Fish/Orders of Ignorance
 	- see above
 Go Over Exercises
 
-### About me
-- I'm 30
-- Background, WV, SP-BR, BYU-I, UVU, etc.
-- I play guitar, enjoyer of death metal. Fallujah, rivers of nihil, ulcerate, aegaeon, cynic, death
-- I love sushi, but really any dishes with rice I usually go crazy for
-- Slight anime nerd. Eva, HxH, Trigun, .hack, Akira, Ghost in the Shell, CSM, JJK, etc
-- R6 Siege, Elden Ring
-- Reading, movies, hobby collection
-### Class Structure
-- We'll have a class-topics thread in discord. This is where you all will post questions that you have or material you want to especially talk about in class.
-- I don't really go over slides. We'll talk about relevant class material, and any side topics that you all want covered. 
-- We can go over a few of the assignment questions in class, and work through them together. In effect, one of the days each week will have something that's partially like a lab. We'll cover as much material as we need to, and work on some of the more challenging questions together.
+[Waluigi Copypasta](https://www.reddit.com/r/copypasta/comments/5qctnl/waluigi_represents_all_of_us/)
 
-### Warnings
-- I do not make the coursework. I am an adjunct, not a mentor. Let me repeat that, I don't make the coursework, or any of the material. I'm here to deliver it to you, help you understand it, and guide you through the work. Someone had the audacity to complain about the fact that I didn't create my own material when I explained that day 1 a few semesters ago. I'm also not in control of zybooks. If there are issues, it's an administrative issue that comes from zybooks or the department. All I can do to fix things is send emails and hope people respond quickly. So let it be written, that I don't make the material.
-- If attendance gets too low, I will enforce an attendance policy. I hate basing grades off attendance, but the overall class experience diminishes greatly if people aren't coming to class. Class is better with you there. 
-
-### Success
-- Get your sleep. Seriously, this is probably the most important thing. Staying awake burning the midnight oil might feel like what you're supposed to do, and with how fast things go, you might have to stay up a bit. But seriously, get your 8 hours, make sure you're rested. Take mental breaks. Come back to it if it's not clicking. If it comes down to you not sleeping so that you can get your project in on time, let me know, get your rest, and I'll flex the date by a day.
-- Read. The CS major is really a reading and writing major. While we generally write lots of programs in this major, more than anything, what you're doing is communication.
-- Get used to drawing/writing. Honestly, the easiest way to grasp material in this class is often to draw things out and walk through problem steps on paper, whiteboard, onenote, whatever.
-- Group up. We don't tolerate plagiarism. But we do love it when students get together, explain topics to each other, suggest strategies for approaching a problem, help each other succeed, and make friends. 
-- Have fun. Realize that although this course will be challenging, this is a real meat and potatoes course. This is one of the true CS classes that you'll take, with topics that'll be useful to you whether you're building compilers, working with assemblers, or writing DSL's. Look ahead to the future, and get pumped for the cool stuff you'll learn!
-- Get ahead of the work. Don't lose the basically free points that come from the reading. Get those in on time. Even if you need to skim ahead, get your PA points. It's the freest way to get points, which will potentially give you more wiggle room on the exams and projects. They can be the deciding factor between matriculation or not.
-- Engage during class-time. I know it's tough sometimes to speak up, and sometimes there might be someone who appears to know a lot, so you don't want to embarrass yourself. It's really fine though, we're all in different places, and chances are, a lot of other people are wondering the same thing you are, and big chances are, someone may not even realize they have a question (very dangerous). So pipe up, ask questions, and be engaged. We'll have a lot better of a time if everyone has fun and talks during class!

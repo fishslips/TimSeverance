@@ -7,6 +7,10 @@
 | Formula | 1 | 2 | 3 | 5 | 6 |
 | Interval | W | W | W+H | W | W+H |
 
+| **Lydian Pentatonic** |  |  |  |  |   |
+| --------------------- | --- | --- | --- | --- | ----- |
+| Formula               | 1   | 2   | #4  | 5   | 6     |
+| Interval              | W   | W+H | H   | W   | W + W |
 
 | Minor Pentatonic |     |        |     |     |        |
 | ---------------- | --- | ------ | --- | --- | ------ |

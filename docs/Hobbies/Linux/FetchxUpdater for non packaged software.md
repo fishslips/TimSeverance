@@ -7,9 +7,7 @@ I created this bash script for fetching and updating software, this example is f
 ########################
 
 DOWNLOAD_URL="https://code.visualstudio.com/sha/download?build=stable&os=linux-x64"
-
 TEMP_TAR="/tmp/vscode_latest.tar.gz"
-
 INSTALL_DIR="/opt/vscode/"
 
 ########################
@@ -39,3 +37,5 @@ You need to chmod it
 ```bash
 $ chmod +x "update.sh" 
 ```
+
+Also, #!/bin/bash  makes the script executable
