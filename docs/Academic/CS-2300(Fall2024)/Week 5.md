@@ -34,7 +34,7 @@ A = { 1 }
 nullset 
 P(A) = { nullset, {1} }
 
-Ideas about scoping exist here
+	Ideas about scoping exist here
 ### Power Set
 \
 With power sets, the key takeaway is that it only contains sets. Those sets are the combination of every item contained within the original set. Nullset is a part of the power set because the nullset is technically part of every set.
