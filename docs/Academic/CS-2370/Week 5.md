@@ -35,11 +35,11 @@ https://stackoverflow.com/questions/44102324/emulating-classes-in-c-using-struct
 
 ### Structs and Classes
 
-Structs and Classes are the exact same thing in C++ with the main difference being in default privacy/visibility of member data. Struct member data is public by default, while class member data is private by default.
+Structs and Classes are the exact same thing in C++ with the main difference being in default privacy/visibility of member data. Struct member data is public by default, while class member data is private by default. Keep in mind that C++ was originally just a transpiler to C code. Naturally, a lot of the features of C carried over, which can at times feel confusing to new C++ programmers. (Go back to the introduction where I talked about what makes C++ hard). When in doubt, use C++ idioms and features. Opt for C features when you have specific needs.
 
 8.2 Talks about returning a struct as opposed to using two reference parameters, sometimes called output parameters in c++. It can come across as confusing to see two parameters passed by reference when their only purpose to is to be modified, since functions insinuate consumption and especially if the function doesn't return anything, one might wonder what we do with the references. It's not wrong, but some could argue it's confusing.
 
 [Input and Output Parameters in C++](https://www.learncpp.com/cpp-tutorial/in-and-out-parameters/)
 
-
+8.3 and 8.4 Fall more in line with the C style of programming when back in the day, structs were not objects, and so they had no functionality (methods). So instead, you would create groups of functions that would be able to operate on structs. We could get into a whole thing about the evolution of the "dreaded" inheritance features in object orientation. The main idea here is that object orientation is about defining new types that are able to handle messages via methods. Adding new types is trivial in object orientation, and leveraging inheritance allows for code reuse. With greater abstractions, comes greater power, but as a side effect, more responsibility and potentially more confusion. This is where the fresh undergrads tend to swear off OO for the "simplicity" of functional programming and all of the safety that it promises.
 
