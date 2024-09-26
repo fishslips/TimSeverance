@@ -33,7 +33,7 @@ The empty set is a subset of every set.
 A = { 1 }
 nullset 
 P(A) = { nullset, {1} }
-
+	
 	Ideas about scoping exist here
 ### Power Set
 \
