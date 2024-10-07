@@ -103,7 +103,7 @@ In this section we can think about things almost geographically. The power of a 
 
 We're essentially saying, given a certain number of steps, what destinations can I get to? Thinking back to composition of functions, we can see the composition of a function with its inverse as a walk of 2. 
 
-If we have 4 vertices, then we can calculate up to 4 mappings. We describe all of these mappings as G^1, G^2, G^3, G^4 etc. These mappings are calculated by either visually determining which nodes you can get to given a number of walks indicated by the superscript of the graph G, or by composing the functions with each-other. Again, digraphs just represent visually the relationships between inputs and outputs of a function. 
+If we have 4 vertices, then we can calculate up to 4 mappings. We describe all of these mappings as G^1, G^2, G^3, G^4 etc. These mappings are calculated by either visually determining which nodes you can get to given a number of walks indicated by the superscript of the graph G, or by composing the functions with each-other. Again, digraphs just graphically represent the relationships between inputs and outputs of a function. 
 
 We can calculate this by doing G o G for Gen 2, then G o G2 for gen 3 and so on.
 R^k = R o R^(k-1). 
