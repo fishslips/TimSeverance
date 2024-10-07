@@ -48,7 +48,7 @@ Note: Even though this subset has mappings (1,2) and (2,1) which are symmetric b
 
 #### Anti-symmetric
 
-Can't be symmetric. Everything else is allowed.
+Can't be symmetric at any point. Everything else is allowed.
 
 #### Transitive
 
@@ -61,7 +61,7 @@ Note: This isn't saying that a graph must be transitive, just that it is transit
 is a pair of Vertices and their Edges (V,E). V is a set of vertices, E is a set of directed edges that is a subset of V x V. 
 
 #### Head / Tail
-In a directed graph, v -> u, v is the head, u is the tail.
+In a directed graph, u -> v, v is the head, u is the tail.
 
 #### In/Out Degree
 
