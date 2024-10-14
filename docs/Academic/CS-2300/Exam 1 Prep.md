@@ -39,15 +39,3 @@ One logic puzzle where you have to infer something. Keep in mind that the two ar
 One will ask you to prove that something is even. This question should be answered in the theorem format, not the symbolic format. Be familiar with the types of proofs from chapter 2.
 
 One question will ask you to establish the validity of an argument. Convert the statements into their symbolic form, then use rules of inference to show the conclusion. Remember that an argument is a conjunction of all hypotheses that yields a conclusion. Remember that we're not replacing anything in the argument. We introduce the hypotheses in our steps table, and then use rules of inference to draw new conclusions, and ultimately end at a conclusion.
-
-
-
-
-
-
-
-
-
-
-
-
