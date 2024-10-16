@@ -4,6 +4,15 @@
 6.1.1(a,d)
 6.1.3(c,d)
 
+### Terms
+
+#### Basic Terms
+
+Counting: The process of determining the number of elements in a finite set
+
+Combination: An unordered selection of elements in a finite set (salad or skittles or whatever)
+
+Permutation: An ordered selection of elements in a finite set (locks are actually permutation locks, not combination locks)
 #### Divides
 x divides y (not to be confused with x divided by y)
 
@@ -14,7 +23,7 @@ So if we're looking at 10/2, then we get 2 divides 10, which is true because 2 !
 
 So, 10 is a multiple of 2, and 2 is a factor or divisor of 10.
 #### Linear Combination
-
+A linear combination is a precisely what it says. It's a combination or unordered selection of elements that produces a linear selection of elements
 
 #### Division
 
@@ -31,6 +40,11 @@ Fraction Form : dividend / divisor
 
 ### Modular Arithmetic (6.2)
 
+This form of arithmetic concerns itself with "rings" of results. The results we get from performing the modulus operation maps to values within a limited range that are essentially {0:m-1} ie n mod m
+
+This section largely focuses on equalities that we can use. This chapter overall will focus on properties of integers and things we can do with them, and so the types of operations that we perform on different integers can take many forms. 
+
+(x % m + y % m) % m is equivalent to (x + y) mod m. These kinds of transformations are useful in coming sections.
 
 ### Prime Factorizations (6.3)
 
@@ -78,7 +92,8 @@ We know that gcd(x,y) = gcd(y mod x, x), because the book says so. We could prob
 
 To recap: 
 gcd(x,y) = gcd(y % x, x) = gcd(r, x)
-n = qd + r -> y = dx + r -> r = y - dx -> r = n - qd -> r = y - qx
+n = qd + r -> y = dx + r -> 
+r = y - dx -> r = n - qd -> r = y - qx
 
 
 In the example in zybooks, we use gcd(675, 210) = 15. 
@@ -92,7 +107,7 @@ gcd(0, 15).
 
 See 6.5.1 for further questions. Note: 45 for instance divides cleanly into 675, but not 210. So it's not the gcd. When we reach 15, that is the gcd, or the largest non-zero, positive number that cleanly divides 675 and 210. 
 
-When we get to the end of our euclids algorith, we have these forms we can manipulate. Remember that we can 
+When we get to the end of our euclids algorithm, we have these forms we can manipulate. Remember that we can 
 
 
 

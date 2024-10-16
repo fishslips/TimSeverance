@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-2300(Fall2024)/Week 1.md",
-                "mode": "preview",
+                "file": "docs/Academic/CS-2300/Exam 2 Prep.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Academic/CS-2300(Fall2024)/Week 1.md",
+                "file": "docs/Academic/CS-2300/Exam 2 Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Academic/CS-2300(Fall2024)/Week 1.md",
+                "file": "docs/Academic/CS-2300/Exam 2 Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Academic/CS-2300(Fall2024)/Week 1.md"
+                "file": "docs/Academic/CS-2300/Exam 2 Prep.md"
               }
             }
           }
@@ -159,6 +159,19 @@
   },
   "active": "a87ef76d72f61d74",
   "lastOpenFiles": [
+    "docs/Academic/CS-2300/Week 8.md",
+    "docs/Academic/CS-2300/Week 7.md",
+    "docs/Academic/CS-2300/Exam 2 Prep.md",
+    "docs/Academic/CS-2370/Week 2.md",
+    "docs/Academic/CS-2420(Summer)/Week 4 - Stacks, Queues, Postfix.md",
+    "docs/Academic/CS-2300(Fall2024)/Week 1.md",
+    "docs/Hobbies/Linux/Void Package Template resources for .NET 8.md",
+    "docs/Hobbies/Linux/Making Templates for void-packages.md",
+    "docs/Hobbies/Game Dev/Godot vs Unreal.md",
+    "docs/Academic/CS-2370/Introduction.md",
+    "docs/Academic/CS-2300(Fall2024)/Week 3.md",
+    "docs/Academic/CS-2300(Fall2024)/Week 2.md",
+    "docs/Academic/CS-2300(Fall2024)/Introduction.md",
     "docs/Academic/CS-2420(Summer)/Week 2 - Sorting.md",
     "docs/Academic/CS-2420(Summer)/Week 1.md",
     "docs/Academic/CS-2420(Summer)/Search Help.md",
@@ -173,21 +186,8 @@
     "docs/Hobbies/Music/Tim's Song Lists.md",
     "docs/Academic/CS-3370/P6 Bit Array.md",
     "docs/Academic/CS-3370/P4 Analyze; Data Reduction with C++ Algorithms.md",
-    "docs/Academic/CS-3370/P3 String and Stream Processing.md",
-    "docs/Hobbies/Game Dev/Unreal Engine/Character Movement Component.md",
-    "docs/Hobbies/Programming/Jake's Resume.md",
-    "docs/Academic/Teaching.md",
-    "docs/index.md",
-    "docs/Academic/CS-3370/Module 5.md",
-    "docs/Hobbies/Programming/MSYS 2.md",
-    "docs/Academic/CS-2300/Week 2.md",
-    "Excalidraw/Drawing 2024-03-18 18.30.02.excalidraw.md",
-    "docs/Hobbies/Game Dev/Excalidraw.md",
     "Excalidraw",
-    "docs/Hobbies/Hobbies.md",
-    "docs/Hobbies/Programming/Rust.md",
     "docs/Hobbies/Programming",
-    "docs/Academic/CS-3370/P4 Re-spec.md",
     "docs/Academic/CS-3370",
     "docs/Academic/Random Learning Stuff",
     "docs/Images/Pasted image 20230908211202.png",
