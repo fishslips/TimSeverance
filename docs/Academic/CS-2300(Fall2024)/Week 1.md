@@ -1,4 +1,3 @@
-
 ### What is Discrete Math?
 
 Discrete math is a branch of mathematics that employs unique tools and disciplines like logic, graph theory, and combinatorics to analyze objects with a finite nature. These tools have practical applications in computer science
@@ -67,6 +66,7 @@ A compound proposition that uses a conditional operation is called a **condition
   | T | F | T |
   | F | T | T |
   | F | F | T |
+  
 - Represents a contract. 
 	- If p is true, then the contract breaks when q is false.
 	- Doesn't have to be fair, only indicates a contract if p is fulfilled, then q HAS to be fulfilled. Says nothing about if p ISNT fulfilled.
