@@ -1,13 +1,6 @@
-### Chapter 6 Topics
+### Chapter 6 Topics (Integer Properties)
 
-.1
-.2
-.3
-.5
-.6
-.7
-
-Questions 1-6 from the Test 3 sample are very close to questions that will be on the test.
+Questions 1-7 from the Test 3 sample are very close to questions that will be on the test.
 
 Be aware of the Extended Euclid's Algorithm. You will be asked to find s and t.
 
@@ -16,7 +9,7 @@ Be aware of the Extended Euclid's Algorithm. You will be asked to find s and t.
 - Prime Factorization (gcd, lcd)
 - Decimal to Binary
 - Base conversions (octal, hex, etc.)
-- Modding LARGE values (remember the way exponents work to simplify the problem, and use 6.2.(2/4) for the equation for modular arithmetic)
+- Modding LARGE values (remember the way exponents work to simplify the problem (fast exponentiation), and use 6.2.(2/4) for the equation for modular arithmetic)
 
 ### Chapter 7 Topics (Induction and Recursion)
 
