@@ -40,6 +40,6 @@ Strong induction for proving a sum is equal to a closed form equation.
 
 Evaluate a Sum for some large number of iterations (7.3 has formulas for closed forms). 
 
-Euclids Algorithm to find GCD and s and t (Extended Algorith, remember, you're just working out the standard algorithm to completion, then backtracking by substituting numbers with expanded forms.  
+Euclids Algorithm to find GCD and s and t (Extended Algorithm), remember, you're just working out the standard algorithm to completion, then backtracking by substituting numbers with expanded forms.  
 
 One question similar to Test 3 Sample Question 25 about cards. 
