@@ -25,8 +25,8 @@ Virtual functions be made pure virtual by doing your declaration, and assigning 
 
 |  | |  | |
 | --- | --- | --- | --- |
-| Base | virtual | declaration | ( = 0) |
-| Sub | ... | declaration | override |
+| Base Class | virtual | declaration | ( = 0) |
+| Sub Class | ... | declaration | override |
 
 
 ### Abstract
