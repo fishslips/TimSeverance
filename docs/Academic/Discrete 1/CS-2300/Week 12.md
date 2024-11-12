@@ -98,3 +98,9 @@ Counting: Determining the quantity of elements in a set
 Permutation: An arrangement of elements in a set where order does matter. P(n, r) = n!/((n-r)!)
 
 Combination: A selection of items from a set where order doesn't matter. C(n, r) = n!(r!(n-r)!)
+
+### Extras Material
+
+[Intuition behind permutations and combinations](https://buildingvts.com/intuition-behind-permutations-and-combinations-db6ffa5272be)
+
+[Easy permutations and combinatiosn](https://betterexplained.com/articles/easy-permutations-and-combinations/)
