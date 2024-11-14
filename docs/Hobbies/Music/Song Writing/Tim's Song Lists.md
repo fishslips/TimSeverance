@@ -2,6 +2,8 @@
 ### B Standard (7 String)
 Fallujah
 - Sapphire
+- Alpha Incipient
+- The Dead Sea
 ### Drop A (7 String)
 Aegaeon
 - Demise
@@ -10,10 +12,15 @@ Aegaeon
 ### Drop G (7 String)
 Fit For an Autopsy
 -  Black Mammoth
+Born of Osiris
+- Ascension
 
 ### Standard
 Rodrigo y Gabriela
 - Stairway to Heaven
+Foo Fighters
+- Everlong
+
 ### Drop D
 Trivium - Pillar of Serpents
 Metallica - Disposable Heroes
@@ -56,6 +63,25 @@ Fallujah
 - Ritual of Godflesh
 - Abandon
 
+### D Standard (6 string)
+Emery
+
 ### Drop A (7 String)
 Aegaeon
 - Neural Union
+
+### G# Standard (7 String)
+Rivers of Nihil
+- A Home
+- The Silent Life
+
+### F Standard (8 string) 
+Meshuggah
+- Demiurge
+- Rational Gaze
+- Bleed
+
+### Double Drop E (8 String)
+Infant Annilhilator
+- Plague Bearer
+
