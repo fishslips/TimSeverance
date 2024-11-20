@@ -1,6 +1,3 @@
-### Intro rant
-
-
 ### Template Parameters
 https://learn.microsoft.com/en-us/cpp/cpp/templates-cpp?view=msvc-170#type_parameters
 
