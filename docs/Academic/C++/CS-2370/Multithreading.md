@@ -85,3 +85,7 @@ https://cplusplus.com/reference/condition_variable/condition_variable/
 ### Atomic
 
 Atomic types are types that geared specifically toward multithreading. They won't cause race conditions. Basically if you have a bool, use atomic_bool, etc. There are atomic versions of most types. If you need a data type to be shared, then make it atomic.
+
+### Videos and Extra Materials
+
+https://www.youtube.com/watch?v=7ENFeb-J75k&t=82s
