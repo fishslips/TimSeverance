@@ -1,27 +1,44 @@
 
 ### Multiple Choice Topics
 
-Lexicographic n-subset
-Lexicographic Order
-Combination Equality
-Solve A Sum with a Combination
+#### Chapter 10
+
+- Lexicographic n-subset
+
+- Lexicographic Order
+
+- Combination Equality
+
+- Solve A Sum with a Combination
 
 Proof by contradiction theorem
 
-Tree with x nodes of y degrees
-Edge Connectivity of Kx,y tree
-Vertex Connectivity
-What properties satisfy a set 11.3
-Depth first search on a spanning K tree
-BFS Spanning Tree
-Pre-order Traversal
-Prim's Algorithm
-Prefix Tree 11.2.3
-Graph Height (Tic-Tac-Toe) 11.2.1
-Graph Degree
-- K_ graph
-- C_ graph
-- Q_ graph
+#### Graphs and Trees
+
+- Tree with x nodes of y degrees
+
+- Edge Connectivity of Kx,y tree
+
+- Vertex Connectivity
+
+- What properties satisfy a set 11.3
+
+- Depth first search on a spanning K tree
+
+- BFS Spanning Tree
+
+- Pre-order Traversal
+
+- Prim's Algorithm
+
+- Prefix Tree 11.2.3
+
+- Graph Height (Tic-Tac-Toe) 11.2.1
+
+- Graph Degree
+1) K_ graph
+2) C_ graph
+3) Q_ graph
 
 ### Written Questions
 
