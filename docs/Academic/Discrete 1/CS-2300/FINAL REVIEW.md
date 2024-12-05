@@ -47,7 +47,7 @@ Proof by contradiction theorem
 
 There are 121.4 million people in the United States who earn an annual income that is at least $10,000 and less than $1,000,000. Annual income is rounded to the nearest dollar. Show that there are 123 people who earn the same annual income in dollars.
 
-What is the coefficient of x2y7 in (5x - y)9?
+Binomial Coefficient problem (9.2)
 
 Isomorphism function from G to G'
 
