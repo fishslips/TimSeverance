@@ -39,9 +39,9 @@ Proof by contradiction theorem
 
 	1) K_ graph
 
-	1) C_ graph
+	2) C_ graph
 
-	1) Q_ graph
+	3) Q_ graph
 
 ### Written Questions
 
