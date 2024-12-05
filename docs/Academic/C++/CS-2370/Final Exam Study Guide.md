@@ -1,13 +1,14 @@
 ### General Behavior
 
 Switch Cases
+
 Integer Division
 
-Pass by value
-Pass by reference
+Pass by value 
+Pass by reference 
 Pass by const reference
 
-What are arrays?
+What are arrays? 
 How are arrays treated when passed in functions
 
 Forward declaration
