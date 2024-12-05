@@ -36,9 +36,12 @@ Proof by contradiction theorem
 - Graph Height (Tic-Tac-Toe) 11.2.1
 
 - Graph Degree
-1) K_ graph
-2) C_ graph
-3) Q_ graph
+
+	1) K_ graph
+
+	1) C_ graph
+
+	1) Q_ graph
 
 ### Written Questions
 
