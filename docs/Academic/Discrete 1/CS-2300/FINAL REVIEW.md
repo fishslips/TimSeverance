@@ -49,6 +49,6 @@ There are 121.4 million people in the United States who earn an annual income th
 
 What is the coefficient of x2y7 in (5x - y)9?
 
-Given G and G' are isomorphic, find the isomorphism function from G to G'.
+Isomorphism function from G to G'
 
-Find the the adjacency list and the degree sequence for the graph below.  (For the adjacency list, please list them in alphabetical order.)
+Find the the adjacency list and the degree sequence for a graph.  (For the adjacency list, please list them in alphabetical order.)
