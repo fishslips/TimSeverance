@@ -27,7 +27,8 @@ While this is a CS class, it's more about where linguistics, literature, archite
 ### Take this fish and look at it
 
 ### Wheels
-	In school, our main goal is often to practice by reinventing the wheel. This allows us to gain exposure to solving problems and gaining the same insights that countless others before us have. However, in real life, patterns help us to avoid reinventing the wheel for every problem. 
+
+In school, our main goal is often to practice by reinventing the wheel. This allows us to gain exposure to solving problems and gaining the same insights that countless others before us have. However, in real life, patterns help us to avoid reinventing the wheel for every problem. 
 
 ## Alexander
 
