@@ -72,9 +72,9 @@ Patterns can be alive or dead, and a pattern language can be shared. Since langu
 ### Software that speaks to your humanity
 
 ### State Mandated Urban/Suburban Planning
-https://www.newgeography.com/content/004830-looking-back-the-ideal-communist-city
-http://architecture-history.org/schools/SOVIET%20ARCHITECTURE.html
-https://courses.lumenlearning.com/suny-ushistory2ay/chapter/the-rise-of-suburbs-2/#:~:text=As%20historian%20Lizabeth%20Cohen%20notes,growth%20occurring%20in%20suburban%20places.
+[Looking back to the ideal communist city](https://www.newgeography.com/content/004830-looking-back-the-ideal-communist-city)
+[Soviet Architecture](http://architecture-history.org/schools/SOVIET%20ARCHITECTURE.html)
+[Rise of the suburbs](https://courses.lumenlearning.com/suny-ushistory2ay/chapter/the-rise-of-suburbs-2/#:~:text=As%20historian%20Lizabeth%20Cohen%20notes,growth%20occurring%20in%20suburban%20places.)
 
 ### Loose thoughts
 Heat death is the hypothetical end of the universe where there will be no thermodynamic free energy. All energy will essentially be used up. All systems will be motionless. No more interactions will occur as all sources of work are finally distributed and entropy is at its max.
