@@ -2,7 +2,7 @@
 
 Principles and Patterns of Software Design. AKA, how to make your code not suck.
 
-This class is cultural. This class is more of a reading/writing, philosophy, linguistics, architecture, history, design class than it is a "coding" class. Obviously we do a great deal of coding, but that's the knife, not the meal. 
+This class is cultural. This class is more of a reading/writing, philosophy, linguistics, architecture, history, design class than it is a "coding" class. Obviously we do a great deal of coding, but that's the hammer, not the house. 
 
 It's meant to be experiential. Don't get me wrong, chatgpt is great for helping when it comes to implementation, don't get me wrong, but for the rest of the class, it's really about digging into the problems of software, experiencing them, getting a handle on it, and knowing when or when not to apply patterns.
 
@@ -17,12 +17,6 @@ Design Patterns
 What is OOP?
 
 What are patterns?
-
-### What is this class?
-
-Well, if we look at the number, it's a 3000 level class. So that can help us make some assumptions. Hopefully, at this point, you've covered a few programming languages. You've learned about computer architecture, some object oriented basics, maybe some C++ and python, and some general software development tools. 
-
-While this is a CS class, it's more about where linguistics, literature, architecture, and a bunch of other fields intersect with computers. 
 
 ### Take this fish and look at it
 
