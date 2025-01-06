@@ -1,8 +1,28 @@
-### Syllabus
+### Syllabus and what this class is
 
-### Lies in Academia 
+Principles and Patterns of Software Design. AKA, how to make your code not suck.
 
-### What is computer science
+This class is cultural. This class is more of a reading/writing, philosophy, linguistics, architecture, history, design class than it is a "coding" class. Obviously we do a great deal of coding, but that's the knife, not the meal. 
+
+It's meant to be experiential. Don't get me wrong, chatgpt is great for helping when it comes to implementation, don't get me wrong, but for the rest of the class, it's really about digging into the problems of software, experiencing them, getting a handle on it, and knowing when or when not to apply patterns.
+
+### Myths, Dogmas, and Misunderstandings
+
+[Don't be Dogmatic](https://yc.prosetech.com/dont-be-dogmatic-49029822d61d)
+
+OOP vs Functional
+
+Design Patterns
+
+What is OOP?
+
+What are patterns?
+
+### What is this class?
+
+Well, if we look at the number, it's a 3000 level class. So that can help us make some assumptions. Hopefully, at this point, you've covered a few programming languages. You've learned about computer architecture, some object oriented basics, maybe some C++ and python, and some general software development tools. 
+
+While this is a CS class, it's more about where linguistics, literature, architecture, and a bunch of other fields intersect with computers. 
 
 ### Take this fish and look at it
 
@@ -10,6 +30,20 @@
 	In school, our main goal is often to practice by reinventing the wheel. This allows us to gain exposure to solving problems and gaining the same insights that countless others before us have. However, in real life, patterns help us to avoid reinventing the wheel for every problem. 
 
 ## Alexander
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/98LdFA-_zfA?si=KSdd3Fxs_Mz0pu2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+TimeStamps
+
+5:52 - WW2 and modern environments
+
+12:40 - The root: A continuous moral preoccupation with under what circumstances is the environment good. 
+
+Does that moral component exist in our software? Patterns may make a program better, but it's not the same thing. Do we go far enough so that our program or the thing that's being created is morally profound? Actually has the capacity to play a more significant role in human life? Will it make human life better? Whether or not this is obtained is questionable, but it's the intent. This is what we should try to pursue.
+
+Does the pattern language produce a coherent environment?
+
+17:12 Patterns are a neat format, but can lack the other dimensions. The moral element, and the ability to create a coherent structure.
 
 ### The Alcove
 
@@ -28,16 +62,18 @@ A pattern language is a gate to the quality without a name
 10. People can shape buildings by using a pattern language. A pattern language can give each person the ability to create an infinite variety of new and unique buildings, in the same way regular language gives the power to create infinite and unique sentences
 11. The patterns aren't confined to village and farm society. All acts of building are governed by a  pattern language. 
 
-Everything is expressed through communication. Math is language to represent phenomena. Programming is language to instruct an automoton. Natural language is how we express ourselves and convey ideas. Language is our natural interface for communication. Everything emits, and part of what makes sentience, is the ability to receive what is emitted. Language ultimately has nothing to do with this agelessness, but instead just releases what is native to us. Language helps us learn the same lessons that nature speaks to us over and over again.
-
-Heat death is the hypothetical end of the universe where there will be no thermodynamic free energy. All energy will essentially be used up. All systems will be motionless. No more interactions will occur as all sources of work are finally distributed and entropy is at its max.
+Everything is expressed through communication. Math is language to represent phenomena. Programming is language to instruct a machine. Natural language is how we express ourselves and convey ideas. Language is our natural interface for communication. Everything emits, and part of what makes sentience, is the ability to receive what is emitted. Language ultimately has nothing to do with this agelessness, but instead just releases what is native to us. Language helps us learn the same lessons that nature speaks to us over and over again.
 
 Patterns can be alive or dead, and a pattern language can be shared. Since language expresses those patterns that are native to us, this means that not all patterns are good, but rather we can use the positive patterns to invite a timelessness. Alternatively, anti-patterns exist, which will ultimately result in the death of a thing. 
 
 ### Places that speak to your humanity
 
 ### Software that speaks to your humanity
+
 ### State Mandated Urban/Suburban Planning
 https://www.newgeography.com/content/004830-looking-back-the-ideal-communist-city
 http://architecture-history.org/schools/SOVIET%20ARCHITECTURE.html
 https://courses.lumenlearning.com/suny-ushistory2ay/chapter/the-rise-of-suburbs-2/#:~:text=As%20historian%20Lizabeth%20Cohen%20notes,growth%20occurring%20in%20suburban%20places.
+
+### Loose thoughts
+Heat death is the hypothetical end of the universe where there will be no thermodynamic free energy. All energy will essentially be used up. All systems will be motionless. No more interactions will occur as all sources of work are finally distributed and entropy is at its max.

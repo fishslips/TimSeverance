@@ -1,10 +1,11 @@
 ### Memes and Emperor's New Groover
 Show some memes
-Clip of pacha showing the village
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzDG6ukx9kA?si=AD9F2ILuuySItqx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Squeaking Doors and Shiny Objects
-Patterns give life
-Patterns give death
+Patterns that give life
+Patterns that give death
 
 Juice
 
