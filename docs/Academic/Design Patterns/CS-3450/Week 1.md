@@ -40,7 +40,13 @@ Does the pattern language produce a coherent environment?
 
 17:12 Patterns are a neat format, but can lack the other dimensions. The moral element, and the ability to create a coherent structure.
 
-### The Alcove
+### Patterns from A Pattern Language
+
+159 - Light on Two Sides of Every Room
+
+179 - Alcoves
+
+203 - Child Caves
 
 ### Quality without a name
 1.  It is the process that brings order out of nothing but ourselves. It can't be captured, only invited.
