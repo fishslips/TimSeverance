@@ -65,6 +65,10 @@ Patterns can be alive or dead, and a pattern language can be shared. Since langu
 
 ### Software that speaks to your humanity
 
+### Application of Feeling
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2V4QYC-PRIw?si=nHKOigv_fjgMskwG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### State Mandated Urban/Suburban Planning
 [Looking back to the ideal communist city](https://www.newgeography.com/content/004830-looking-back-the-ideal-communist-city)
 
