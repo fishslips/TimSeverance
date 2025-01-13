@@ -19,9 +19,6 @@ Game design
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gfEGk5rgdwc?si=2KONaxsqRXYznOSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- MW2 menus
-- Destiny menus
-
 Software design
 
 ### A word about OOP
