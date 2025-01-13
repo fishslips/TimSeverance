@@ -5,7 +5,7 @@ Architecture that has motives other than to give life to its inhabitants results
 [Peter Eisenman](https://en.wikipedia.org/wiki/Peter_Eisenman)
 
 ### Memes and Emperor's New Groove
-Show some memes
+![[project_planning.jpg]]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzDG6ukx9kA?si=AD9F2ILuuySItqx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
