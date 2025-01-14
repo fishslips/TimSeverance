@@ -24,7 +24,7 @@ Software design
 ### A word about OOP
 
 First: Like Alexander said, a pattern language is adapted to its particularities. 
-
+di
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lmAarC0Zhq4?si=uBA4e0F0PO3g5tY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Working out our own patterns
