@@ -27,9 +27,11 @@ First: Like Alexander said, a pattern language is adapted to its particularities
 di
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lmAarC0Zhq4?si=uBA4e0F0PO3g5tY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Working out our own patterns
+Message Passing
 
-Find something you've found a solution to, map it out
+Objects and Inheritance
+
+Encapsulation
 
 
 ### Modeling, Software Patterns, avoiding extra work
@@ -44,4 +46,8 @@ DRY principle. Don't Repeat Yourself.
 Identify the parts of your project that vary and separate them from what stays the same
 
 Program to an interface, not an implementation
+
+### Links
+
+[Alan Kay on the meaning of OOP](https://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
 
