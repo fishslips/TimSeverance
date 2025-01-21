@@ -18,4 +18,4 @@ The premise is simple though, we'll have a pointer to whatever our data type is,
 
 To make things easy, remember that we're just creating a mapping from our high level class (ie interface) to the underlying implementation. So, Queue has a method add, QImpl will also have an add method. Queue will call the add method of its QImpl pointer, which will in turn actually add the item to the data structure.
 
-![[Drawing 2025-01-21 03.08.10.excalidraw.png]]
+![[Drawing 2025-01-21 03.08.10.excalidraw 1.png]]
