@@ -19,3 +19,14 @@ The premise is simple though, we'll have a pointer to whatever our data type is,
 To make things easy, remember that we're just creating a mapping from our high level class (ie interface) to the underlying implementation. So, Queue has a method add, QImpl will also have an add method. Queue will call the add method of its QImpl pointer, which will in turn actually add the item to the data structure.
 
 ![[Drawing 2025-01-21 03.08.10.excalidraw 1.png]]
+
+### Strategy Pattern Applied
+Remember that we're encapsulating what varies, favoring composition over inheritance, avoiding repeating ourselves, and programming to an interface, not an implementation. These properties together yield a lot of different patterns, but in certain contexts, those principles take different forms.
+
+#### It can be used in complex systems
+
+[Quake Defrag Hangtime](https://www.youtube.com/watch?v=9lOlPq_Ys3U)
+
+[Counter Strike Surf](https://www.youtube.com/watch?v=3E9TOZrSYIA)
+
+[Titanfall Air Strafe](https://www.youtube.com/watch?v=iS6QKAdny8U)
