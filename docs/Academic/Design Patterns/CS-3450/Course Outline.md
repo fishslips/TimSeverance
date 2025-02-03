@@ -8,8 +8,8 @@
 | 2 Strat Puzzle |          |     | 1 Strat                 | 2    | Jan 19       |                                    |
 |                | 1 Strat  | 1   |                         | 3    | Jan 26       | MLK JR (Jan 20)          [Holiday] |
 | 3 Observer     |          | 2   | 2 Observer              | 4    | Feb 2        | Drop (Jan 27) W Grade (Jan 28)     |
-|                | 2 Obs    | 3   | 3 Decorate              | 5    | Feb 9        | Tuition (Feb 5)                    |
-|                | 3 Dec    |     |                         | 6    | Feb 16       |                                    |
+|                | 2 Obs    |     | 3 Decorate              | 5    | Feb 9        | Tuition (Feb 5)                    |
+|                | 3 Dec    | 3   |                         | 6    | Feb 16       |                                    |
 | 4 Fact&Sing    |          | 4   | 4 Factory & 5 Singleton | 7    | Feb 23       | Presidents Day (Feb 17)  [Holiday] |
 |                | 4 Comm   | 5   | 6 Command               | 8    | Mar 2        |                                    |
 | 5 Adpt/Faca    |          | 6   | 7 Adpt/Facade 8 Temp    | 9    | Mar 9        |                                    |
