@@ -12,7 +12,7 @@
 |                | 3 Dec    | 3   |                         | 6    | Feb 16       |                                    |
 | 4 Fact&Sing    |          | 4   | 4 Factory & 5 Singleton | 7    | Feb 23       | Presidents Day (Feb 17)  [Holiday] |
 |                | 4 Comm   | 5   | 6 Command               | 8    | Mar 2        |                                    |
-| 5 Adpt/Faca    |          | 6   | 7 Adpt/Facade 8 Temp    | 9    | Mar 9        |                                    |
+| 5 Adpt/Faca    |          | 6   | 7 Adpt/Facade 8 Temp    | 9    | Mar 9        | MIDTERM                            | 
 | ------------   | -------- |     | ------------------      | 10   | Mar 16       | Spring Break (Mar 10-15) [Holiday] |
 |                | 5 Iter   | 7   | 9 Iterator Composite    | 11   | Mar 23       | Last to Drop (Mar 17)              |
 |                |          | 8   |                         | 12   | Mar 30       |                                    |

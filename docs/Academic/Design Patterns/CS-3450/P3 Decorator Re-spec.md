@@ -1,14 +1,12 @@
 ### Decorators
+This re-spec is longer than the original, but I go into more detail on how the features can/should be implemented. Read the original specification first, and then read this for clarifications if needed.
 
-We went over decorators in class and I've shared the Dungeons&Patterns folder with you all that contains some light examples. The examples are light so that you can understand the core features of the decorator. If you want a recap go to [[Mind Palace/TimSeverance/docs/Academic/CS-3450/Week 7|Decorator]]
-
-This re-spec is longer than the original, but I go into more detail on how the features can/should be implemented.
 ### Project Spec
 
 You are given 4 files in the project. If you are using C++, you can use the .h files, if you're using Java, you can use the Output/StreamOutput.java. Everyone else will need to re-write these in their respective language. That shouldn't be daunting, they're very small classes.
 
 #### Output
-This is your decorate-able interface/abstract class.
+This is your common interface/abstract class that is shared between decorators and decoratables.
 Specifies the following methods:
 
 - Write(t : Any)
@@ -66,13 +64,13 @@ Invoke your object_to_decorate.write/writestring method and pass the modified t 
 
 **From Original Spec: writes to two streams at a time; the one it wraps, plus one it receives as a constructor argument**
 
-This one is mildly confusing but fear not. You'll just be passing your parameter t along to the object_to_decorate.write/writeline as normal.
+This one is mildly confusing, but fear not. You'll just be passing your parameter t along to the object_to_decorate.write/writeline as normal.
 
 For the extra stream, you'll want a member that is a reference to an ostream, call it tee_stream. You'll assign your paremter t to this tee_stream object as well.
 
 This tee_stream reference will be used to write to a file. 
 
-In short, your TeeOutput will have members object_to_decorate which is type Output which through method chaining will reach the ostream object "sink", and then it will have this other ostream object tee_stream which exists only in TeeOutput. 
+In short, your TeeOutput will have members object_to_decorate, which is type Output, which through method chaining will reach the ostream object "sink", and then it will have this other ostream object tee_stream which exists only in TeeOutput. 
 
 In main, you can pass an ostream to a file output as your constructor parameter for teestream.
 
@@ -80,7 +78,7 @@ In main, you can pass an ostream to a file output as your constructor parameter 
 
 **From Original Spec: writes only those objects that satisfy a certain condition (unary predicate), received as a constructor parameter.**
 
-This part can be the most confusing especially if the term predicate is new to you. I can promise you it's not though! Go see [[Mind Palace/TimSeverance/docs/Academic/CS-2300/Week 2|Day 2]] of my Week 2 Slide for CS-2300 to refresh on predicates. Unary predicates simply take a single argument, perform some boolean logic on it, and return true or false. These methods can be passed as arguments in languages where functions are first class citizens.
+This part can be the most confusing especially if the term predicate is new to you. I can promise you it's not though! Unary predicates simply take a single argument, perform some boolean logic on it, and return true or false. These methods can be passed as arguments in languages where functions are first class citizens.
 
 Filter output will take a predicate function reference in its constructor and save it to a member. That function can then be used in your write and writestring methods to determine if you should invoke object_to_decorate.write/writestring
 
