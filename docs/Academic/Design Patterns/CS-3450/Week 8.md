@@ -57,7 +57,7 @@ https://www.geeksforgeeks.org/singleton-method-python-design-patterns/
 
 Classic Python Singleton
 
-```
+```python
 
 class Singleton:
 
@@ -81,7 +81,7 @@ assert a is b # True
 
 Metaclass Singleton
 
-```
+```python
 class SingletonMeta(type):
 
 	_instances = {}
@@ -91,12 +91,8 @@ class SingletonMeta(type):
 			cls._instances[cls] = super().__call__(*args, **kwargs)
 		return cls._instances[cls]
 
-  
-
 class Singleton(metaclass=SingletonMeta):
 	pass
-
-  
 
 # Usage
 
