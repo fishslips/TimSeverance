@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/CS-2300(Fall2024)/Week 1.md",
+                "file": "Academic/Design Patterns/CS-3450/Week 8.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Week 8"
+            }
+          },
+          {
+            "id": "60bd863b5411d736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Design Patterns/CS-3450/Week 8.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Week 8"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/CS-2300(Fall2024)/Week 1.md",
+                "file": "Academic/Design Patterns/CS-3450/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Week 8"
             }
           },
           {
@@ -102,10 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/CS-2300(Fall2024)/Week 1.md",
+                "file": "Excalidraw/Drawing 2025-01-22 14.50.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2025-01-22 14.50.00.excalidraw"
             }
           },
           {
@@ -116,7 +144,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,15 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/CS-2300(Fall2024)/Week 1.md"
-              }
+                "file": "Excalidraw/Drawing 2025-01-22 14.50.00.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2025-01-22 14.50.00.excalidraw"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,11 +176,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec1ce8e143a67483",
+  "active": "60bd863b5411d736",
   "lastOpenFiles": [
+    "Academic/Design Patterns/CS-3450/Week 7.md",
+    "Academic/Design Patterns/CS-3450/Week 8.md",
+    "Academic/Design Patterns/CS-3450/Week 4.md",
+    "Academic/Design Patterns/CS-3450/Course Outline.md",
+    "Academic/Design Patterns/CS-3450/P3 Decorator Re-spec.md",
+    "Academic/Design Patterns/CS-3450/Week 3.md",
+    "Excalidraw/Drawing 2025-01-22 14.50.00.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-22 15.44.08.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-22 13.50.21.excalidraw.md",
+    "Excalidraw",
     "Academic/CS-2300(Fall2024)/Introduction.md",
     "Academic/CS-2300(Fall2024)/Week 1.md",
     "Academic/CS-2370/Introduction.md",
@@ -166,15 +209,6 @@
     "Hobbies/Linux/Linux Packages.md",
     "Hobbies/Game Dev/Godot vs Unreal.md",
     "Hobbies/Linux/Setting dpi for i3.md",
-    "Hobbies/Linux/Gnome Settings Daemon.md",
-    "Hobbies/Linux/Linux pain.md",
-    "Academic/CS-2420(Summer)/Mid Term Study Guide.md",
-    "Academic/CS-2420(Summer)/Search Help.md",
-    "Academic/CS-2420(Summer)/Week 4 - Stacks, Queues, Postfix.md",
-    "Academic/CS-2420/Week 7.md",
-    "Academic/CS-2420/Week 6.md",
-    "Academic/CS-2420/Week 5.md",
-    "Hobbies/Music/Demise - Aegaeon.md",
     "Untitled.canvas",
     "Hobbies/Linux"
   ]

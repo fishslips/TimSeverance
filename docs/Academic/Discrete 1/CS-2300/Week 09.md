@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=XHyeLKZYb2w&t=234s
 
 Sequences are special functions that take sequential integers, indices, as the domain or input.
 
-Geometric sequence maps those indices to a series of ratios
+Geometric sequence takes a previous number and multiplies it by a common ratio. 
 
 Arithmetic sequence involves a common difference.
 
@@ -14,6 +14,9 @@ m = initial index
 n = final index
 a_m = initial term
 a_n = final term
+
+In short, sequences are just some type of repeating pattern (arithmetic, geometric, quadratic, etc.), and we can represent those patterns in a few ways.
+
 ### Recurrence Relations
 
 Recurrence relation is when a term is defined as a function of previous terms. 

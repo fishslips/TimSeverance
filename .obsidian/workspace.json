@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Academic/CS-2300/Exam 2 Prep.md",
+                "file": "docs/Academic/Random Learning Stuff/Universal Expansion, Fractals, etc.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Universal Expansion, Fractals, etc"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Exam 2 Prep"
             }
           },
           {
@@ -113,7 +125,9 @@
                 "file": "docs/Academic/CS-2300/Exam 2 Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Exam 2 Prep"
             }
           },
           {
@@ -124,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,7 +150,9 @@
               "type": "outline",
               "state": {
                 "file": "docs/Academic/CS-2300/Exam 2 Prep.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Exam 2 Prep"
             }
           }
         ]
@@ -159,9 +177,14 @@
   },
   "active": "a87ef76d72f61d74",
   "lastOpenFiles": [
+    "docs/Academic/CS-2300/Week 9.md",
+    "docs/Hobbies/Programming/UV for Python venv's.md",
+    "docs/Hobbies/Programming/MSYS 2.md",
+    "docs/Hobbies/Programming/Jake's Resume.md",
+    "docs/Hobbies/Programming/CLI TUI App Projects.md",
+    "docs/Academic/CS-2300/Exam 2 Prep.md",
     "docs/Academic/CS-2300/Week 8.md",
     "docs/Academic/CS-2300/Week 7.md",
-    "docs/Academic/CS-2300/Exam 2 Prep.md",
     "docs/Academic/CS-2370/Week 2.md",
     "docs/Academic/CS-2420(Summer)/Week 4 - Stacks, Queues, Postfix.md",
     "docs/Academic/CS-2300(Fall2024)/Week 1.md",
@@ -180,12 +203,7 @@
     "docs/Hobbies/Game Dev/Unreal Engine/UE5 Bug Fixes.md",
     "docs/Hobbies/Game Dev/Unreal Engine/Blueprint Properties.md",
     "docs/Academic/CS-3370/P7 Pipeline.md",
-    "docs/Academic/CS-3450/Visitor Pattern.md",
-    "docs/Academic/Inner Kernal/Meeting 1.md",
     "docs/Academic/Inner Kernal",
-    "docs/Hobbies/Music/Tim's Song Lists.md",
-    "docs/Academic/CS-3370/P6 Bit Array.md",
-    "docs/Academic/CS-3370/P4 Analyze; Data Reduction with C++ Algorithms.md",
     "Excalidraw",
     "docs/Hobbies/Programming",
     "docs/Academic/CS-3370",
