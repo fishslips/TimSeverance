@@ -61,28 +61,19 @@ Classic Python Singleton
 
 class Singleton:
 
-_instance = None
+	_instance = None
 
-  
-
-def __new__(cls, *args, **kwargs):
-
-if cls._instance is None:
-
-cls._instance = super().__new__(cls)
-
-return cls._instance
-
-  
+	def __new__(cls, *args, **kwargs):
+		if cls._instance is None:
+			cls._instance = super().__new__(cls)
+			return cls._instance
 
 # Usage
 
 a = Singleton()
-
 b = Singleton()
 
 assert a is b # True
-
 
 ```
 
@@ -91,38 +82,28 @@ assert a is b # True
 Metaclass Singleton
 
 ```
-
 class SingletonMeta(type):
 
-_instances = {}
-
-  
-
-def __call__(cls, *args, **kwargs):
-
-if cls not in cls._instances:
-
-cls._instances[cls] = super().__call__(*args, **kwargs)
-
-return cls._instances[cls]
+	_instances = {}
+	
+	def __call__(cls, *args, **kwargs):
+		if cls not in cls._instances:
+			cls._instances[cls] = super().__call__(*args, **kwargs)
+		return cls._instances[cls]
 
   
 
 class Singleton(metaclass=SingletonMeta):
-
-pass
+	pass
 
   
 
 # Usage
 
 a = Singleton()
-
 b = Singleton()
 
 assert a is b # True
-
-  
 
 ```
 
