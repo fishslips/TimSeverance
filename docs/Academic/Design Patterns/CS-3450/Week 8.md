@@ -33,8 +33,6 @@ The factories don't have to always make the same "brands" either. You could pote
 #### What the singleton is
 Singleton pattern allows us to create only one instance of an object. The common approach is the add conditional logic to a constructor or initializer, or to create a private constructor that is invoked through a helper method.
 
-  
-
 For languages like C++, Java, C#, your go-to strategy will be to
 
 - make a private static member variable (pointers work best in C++) to an instance of the class
@@ -82,6 +80,7 @@ assert a is b # True
 Metaclass Singleton
 
 ```python
+
 class SingletonMeta(type):
 
 	_instances = {}
