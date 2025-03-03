@@ -42,6 +42,8 @@ This one is a pretty small principle, but the general idea is that we don't want
 
 ### Decorator
 
+Not covered in the midterm, but I'll add more to this just in case.
+
 ### Factories
 
 **How do we make factories?**
