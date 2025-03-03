@@ -11,12 +11,12 @@
 |                | 2 Obs    |     | 3 Decorate              | 5    | Feb 9        | Tuition (Feb 5)                    |
 |                | 3 Dec    | 3   |                         | 6    | Feb 16       |                                    |
 | 4 Fact&Sing    |          | 4   | 4 Factory & 5 Singleton | 7    | Feb 23       | Presidents Day (Feb 17)  [Holiday] |
-|                | 4 Comm   |    | 6 Command               | 8    | Mar 2        |                                    |
-| 5 Adpt/Faca    |          | 5   | 7 Adpt/Facade 8 Temp    | 9    | Mar 9        | MIDTERM                            | 
+|                | 4 Comm   |     | 6 Command               | 8    | Mar 2        |                                    |
+| 5 Adpt/Faca    |          | 5   | 7 Adpt/Facade 8 Temp    | 9    | Mar 9        | MIDTERM                            |
 | ------------   | -------- |     | ------------------      | 10   | Mar 16       | Spring Break (Mar 10-15) [Holiday] |
 |                | 5 Iter   | 6   | 9 Iterator Composite    | 11   | Mar 23       | Last to Drop (Mar 17)              |
 |                |          | 7   |                         | 12   | Mar 30       |                                    |
-|                | 6 Compos | 8    | 12 Compound/MVC         | 13   | Apr 6        |                                    |
+|                | 6 Compos | 8   | 12 Compound/MVC         | 13   | Apr 6        |                                    |
 | 6 Visitor      |          | 9   |                         | 14   | Apr 13       |                                    |
 |                | 8 Des    |     | 13 Conclusion           | 15   | Apr 20       |                                    |
 |                |          |     |                         | 16   | Apr 27       | End (Apr 22) / Final (Apr 24-30)   |
