@@ -66,7 +66,10 @@ GetInstance acts like our constructor and is responsible for either returning th
 
 **Benefits / Stuff we get for free**
 
+Lazy instantiation. We're able to defer object creation until later. This can save resources like time and space. It also saves us in instances where we sometimes create an object but don't actually need it. 
+
 **Problems**
+
 Multithreading:
 
 Why is multithreading a problem with this pattern?
