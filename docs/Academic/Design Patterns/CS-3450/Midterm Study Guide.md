@@ -42,8 +42,42 @@ This one is a pretty small principle, but the general idea is that we don't want
 
 ### Decorator
 
-Not covered in the midterm, but I'll add more to this just in case.
+I was wrong, decorator is in the exam, but the question was really vague until I thought about it. That's been corrected.
 
+Just remember that your decorator takes the form of
+
+Interface/Common Type. (Output)
+```python
+class Output(ABC):
+	def write(self, s):
+		...
+```
+
+Subclass that does something. (StreamOutput)
+```python
+class StreamOutput(Output)
+...
+	def write(self, s):
+		self.sync.write(s)
+```
+
+Decorator that implements the interface, and has a member for wrapping other objects of that interface type. (BracketDecorator)
+
+```python
+class BracketDecorator(Output):
+	def __init__(self, o : Output):
+		self.wrappee = o
+		
+	def write(self, s):
+		self.wrappee.write("[" + s + "]\n")
+```
+
+
+```python
+def main():
+	s = StreamOutput(sys.stdout)
+	s = BracketDecorator(s)
+```
 ### Factories
 
 **How do we make factories?**
@@ -93,4 +127,13 @@ Encapsulation
 
 Polymorphism
 
-Inheritance
+**Inheritance**
+
+There will be a question about Inheritance and overriding, and the problems that can occur with expected output. I've provided some files to play with in the Canvas Announcement.
+
+[Object Slicing in C++](https://www.geeksforgeeks.org/object-slicing-in-c/)
+
+[Why Slicing doesn't Happen in other language](https://www.geeksforgeeks.org/what-is-object-slicing-and-why-it-does-not-happen-in-c-sharp/)
+
+[Method Hiding](https://www.geeksforgeeks.org/method-hiding-in-c-sharp/)
+
