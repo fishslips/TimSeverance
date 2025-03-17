@@ -18,6 +18,20 @@ https://learn.microsoft.com/en-us/dotnet/csharp/iterators
 
 https://cplusplus.com/reference/iterator/
 
+#### Implementation
+
+Looking at the python wiki about iterator, we see in their example iterator how the iter method returns self, while the iterator returns whatever value needs to be returned. Their random iterator is sort of silly, but we can see the structure. 
+
+The idea is that in order for something to be iterable, it must return an iterator. 
+
+To be an iterator, a class must implement the next method which returns some value, ideally from a collection.
+
+In the simplest case, the class itself is also an iterator. But why would this be a bad idea? What kinds of things can go wrong here?
+
+Why is it better to encapsulate the iterator?
+
+What about iter? Is there a way we can make our classes a bit more robust when it comes to iteration?
+
 #### Generators
 
 Some languages support generators. All generators are an iterator. They make use of the yield keyword, and through language implementation, the state of the function is held in memory. Generators are wildly useful, but are a bit less of a pattern, and more of an idiom of a language that implements it. Still good to know them.
@@ -29,4 +43,5 @@ A class should have only one reason to change.
 Remember one of our previous principles, open to extension, closed to modification. Remember that our principles are strong foundational guidelines, but they aren't laws. And scenarios like this are where we can bend the open/close principle. 
 
 Why do we allow the pattern to change in this context though? What are some ways we can handle an iterator better? 
+
 ### Composite Pattern
