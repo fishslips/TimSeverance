@@ -1,4 +1,4 @@
-The Visitor Pattern is fraught with varying implementations and philosophies depending on your language features and paradigm. At times, and in some ways, the way people think about the pattern and implement it, can turn it into something of an anti-pattern.
+The Visitor Pattern is fraught with varying implementations and philosophies depending on your language. In some ways, the way people think about the pattern and implement it, can turn it into something of an anti-pattern.
 
 Let's see what the core purpose of the Visitor Pattern is and then we can dive into issues, and implementations.
 
@@ -12,7 +12,7 @@ The Visitor Pattern's core idea is to add behavior to elements of an object stru
 
 There are some core issues with the pattern however, and the common solutions to those issues end up often being mistaken as the solution that the pattern provides.
 
-The visit pattern is usually implemented with an Accept method in the elements, which takes a visitor, and then inside invokes the visit method of the visitor, and passes self to the visit() method.
+The visior pattern is usually implemented with an Accept method in the elements, which takes a visitor, and then inside invokes the visit method of the visitor, and passes self to the visit() method.
 
 class SomeObject
 	accept(visitor)
@@ -36,13 +36,13 @@ class Visitor
 	visitAnotherObject(object)
 		//do something else
 		
-This approach avoid function overloading, and instead defines a set of functions with different names, so that we don't have to worry about which method the dispatcher chooses. 
+This approach avoids function overloading, and instead defines a set of functions with different names, so that we don't have to worry about which method the dispatcher chooses. 
 
-The all elements of the composite structure implement the accept interface, or what I would call being a "visitable" as an object might be an "iterable"
+Then, all elements of the composite structure implement the accept interface, or what I would call being a "visitable" as an object might be an "iterable"
 
 However, in this solution, we face an inherent issue. We're now disobeying the open/close principle, even if only slightly. 
 
-If we decide to use visitor from the get-go it might not be a problem, but if we decide we want to add behavior to our objects later, we now have to go implement the accept method for every single class. This is time-consuming, and arduous, especially if you have a very large or heterogeneous composite structure. So now we're modifying our original structure.
+If we decide to use visitor from the get-go it might not be a problem, but if we decide we want to add behavior to our objects later, we now have to go implement the accept method for every single class. This is time-consuming, and arduous, especially if you have a very large heterogeneous composite structure. So now we're modifying our original structure.
 
 For single-dispatch classes, we more or less have to concede to slightly breaking open/close principle even though that's what we were initially striving to maintain from the beginning.
 
@@ -115,9 +115,13 @@ In either scenario, we should be avoiding adding traversal behavior to either th
 
 Iterators are in charge of iteration, and then we can perform logic on that Iterable via other means.
 
+### Circular Includes / Forward Declaration
+
+
+
 ### Solutions
 
-I posit that for single dispatch scenarios, we must concede to following the accept/visit paradigm. It isn't an ideal scenario, however, we end up getting better behavior out of our classes by following open/close as best we can. It's not perfect, but neither is single dispatch.
+For single dispatch scenarios, we have to concede to following the accept/visit paradigm. It isn't an ideal scenario, however, we end up getting better behavior out of our classes by following open/close as best we can. It's not perfect, but neither is single dispatch.
 
 However, for multiple dispatch scenarios, there really is no reason why we should be using the accept/visit paradigm. The terms accept/visit don't even really lend themselves to what we're trying to do with the class in question. 
 
