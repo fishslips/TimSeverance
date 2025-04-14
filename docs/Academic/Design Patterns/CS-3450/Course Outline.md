@@ -18,8 +18,8 @@
 |                |          | 7   |                         | 12   | Mar 30       |                                    |
 |                | 6 Compos |     | 12 Compound/MVC         | 13   | Apr 6        |                                    |
 | 6 Visitor      |          | 8   |                         | 14   | Apr 13       |                                    |
-|                | 8 Des    | 9   | 13 Conclusion           | 15   | Apr 20       |                                    |
-|                |          |     |                         | 16   | Apr 27       | End (Apr 22) / Final (Apr 24-30)   |
+|                |          |     | 13 Conclusion           | 15   | Apr 20       |                                    |
+|                | 8 Design |     |                         | 16   | Apr 27       | End (Apr 22) / Final (Apr 24-30)   |
 |                |          |     |                         |      |              |                                    |
 
 
