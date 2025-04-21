@@ -1,16 +1,14 @@
-### MVC
+### What did Alexander want to do?
 
 ### Human Design
 
-https://www.snexplores.org/article/color-perception-brain-vision-attentional-bias
+[color perception](https://www.snexplores.org/article/color-perception-brain-vision-attentional-bias)
 
-Even the differences between these two websites
-https://www.parentcenterhub.org/web-reading/#:~:text=As%20reported%20in%202006%2C%20readers,capture%20this%20dominant%20reading%20pattern.
+[Even the differences between these two websites](https://www.parentcenterhub.org/web-reading/#:~:text=As%20reported%20in%202006%2C%20readers,capture%20this%20dominant%20reading%20pattern)
 
-https://cxl.com/blog/10-useful-findings-about-how-people-view-websites/
+[order of viewing an application](https://cxl.com/blog/10-useful-findings-about-how-people-view-websites/)
 
-Traffic light optical illusion
-https://nerdist.com/article/optical-illusion-makes-you-see-red-stoplight-but-its-actually-grey/
+[Traffic light optical illusion](https://nerdist.com/article/optical-illusion-makes-you-see-red-stoplight-but-its-actually-grey/)
 
 my.uvu.edu and its terrible new layout
 ### Orders of Ignorance, Knowledge and Emotion
@@ -28,7 +26,7 @@ https://www.youtube.com/watch?v=uAwSVOlOgH8&t=1s
 
 https://www.google.com/search?client=opera&sca_esv=ffa6a5b912f672b6&sca_upv=1&sxsrf=ACQVn0-V6rdCoBYD40JuVT5Qlpozhe1gcA:1713814447029&q=jim+mccarthy+dynamics+of+software+development&tbm=vid&source=lnms&prmd=sivnbmtz&sa=X&ved=2ahUKEwiCxc2qyNaFAxWmEkQIHX6LC1IQ0pQJegQICxAB&biw=1595&bih=795&dpr=1.56#fpstate=ive&vld=cid:00726d49,vid:U9TJbOJ-r0A,st:0
 
-Jim McCarthy Quotes
+Jim McCarthy (Author of Dynamics of Software Development) Quotes
 
 **Vision**
 “In my opinion, a leader’s empathetic perception of the psychological state of his or team is the beginning of what we call vision. If the leader can then resonate with the team’s complex emotional state—identify with it, articulate it, and give the whole constellation of feeling and thought a visible, concrete reality in his or her own personal voice or gesture—the boundaries among the individual team members and between the team members and the leader will collapse. A wave of unity will wash over the entire community.”
