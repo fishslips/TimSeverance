@@ -78,3 +78,5 @@ Reality mostly matters less than how people perceive it. People are emotional. P
 Creators of any field can ignore the humanity of others, but at the end of the day, when we're creating something meant to be used and consumed by others, we need to relinquish control of that thing, and consider the emotions, reality, and humanity of the people interacting with it.
 
 This all goes without saying in my opinion, but a lot of people really do miss out on this, or they get so narrowed in they forget. Nothing about what Alexander set out to accomplish is exactly profound, but more of a reminder of things that we each already know. You know this stuff, you just have to remember it.
+
+At the end of the day, all of these software patterns you learned, and all of these principles are just an extension of that knowledge, applied to writing object oriented code. The pattern won't make your code good, but good application of a pattern might.
