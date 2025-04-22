@@ -1,4 +1,32 @@
+### What was the point of all of this?
+
+Well, you learned design patterns for object oriented programming languages. But what does that really do for us? It can definitely help us write neater, better encapsulated, and easily extendible code, but the lessons should extend beyond just your OOP skills.
+
 ### What did Alexander want to do?
+
+Christopher Alexander wanted to create patterns that could beget other patterns, so that you could craft a specific pattern language for a specific job.  So, he set out to create a language that would allow architects to speak in a language that would naturally and recursively lead to the creation of a space that gives its inhabitants "life." 
+
+He argued that determining if something was good or not (i.e. it gives life) was something that was objective and precise (contrary to modern beliefs), but all but impossible to capture.
+
+His work was a testament to this belief, and captured the attention of software develops who believed that this philosophy would benefit the software space. At the end of the day, patterns in a software sense don't really fulfill Alexander's philosophy. Most patterns don't beget other patterns, and subsequently, pattern languages in programming don't fully exist. But it's the idea of patterns that's the basis for writing better software, even if the analogy gets a bit stretched out.
+
+The reality is this, humans are inherently good at recognizing patterns, and we can try to use these patterns to create tools of all kinds. So, we can recognize patterns, and the principles of good design across multiple spaces, and up and down the scope of abstraction. It's all about scope and resolution. Both in the creative space, and in the high level meta space. What are we trying to achieve, and how do we cater those tools to work within that scope?
+
+A non-exhaustive list of things to consider when designing something, (software, team management, a painting, a story, whatever)
+
+- Pattern recognition is just one cognitive tool in the human toolbelt. 
+
+- Humans are emotional creatures. 
+
+- Human perception is less about reality, and more about culture, senses, memory, and emotion, among many other things. Very little of what we experience is "real." Yet, how we experience things is at a high level very "real." 
+
+### Orders of Ignorance, Knowledge and Emotion
+
+[Scientific Process](https://www.amnh.org/explore/videos/the-scientific-process)
+
+[Emotional Processing and Memory](https://www.nature.com/articles/nrn1825)
+
+[Emotional Processing and Memory 2](https://www.sciencedirect.com/topics/neuroscience/emotional-memory)
 
 ### Human Design
 
@@ -12,15 +40,7 @@
 
 my.uvu.edu and its terrible new layout
 
-### Orders of Ignorance, Knowledge and Emotion
-
-https://www.amnh.org/explore/videos/the-scientific-process
-
-https://voices.berkeley.edu/instructors/what-learning
-
-https://www.nature.com/articles/nrn1825
-
-https://www.sciencedirect.com/topics/neuroscience/emotional-memory
+"Experience is critical, for it determines how fondly people remember their interactions. Was the overall experience positive, or was it frustrating and confusing? When our home technology behaves in an uninterpretable fashion we can become confused, frustrated, and even angry—all strong negative emotions. When there is understanding it can lead to a feeling of control, of mastery, and of satisfaction or even pride—all strong positive emotions. Cognition and emotion are tightly intertwined, which means that the designers must design with both in mind." - Don Norman, The Design of Everyday Things
 
 ### Leadership
 
@@ -50,3 +70,11 @@ Jim McCarthy (Author of Dynamics of Software Development) Quotes
 
 **Burn-out**
 “The basic issue in developer burn-out is that the individual’s passion, essential to producing great software, has been consumed or has become misdirected or is otherwise unavailable. The role of passion in software development can’t be overstated... When the passion burns out, the compulsive interest in pouring oneself into an invisible yet coherent and dynamic stream of bits goes with it.”
+
+### Conclusion of some kind?
+
+Reality mostly matters less than how people perceive it. People are emotional. People are largely irrational. But these things aren't necessarily negative things. These are real facets to humanity. Engineers who balk at these facets of life are missing the big picture. 
+
+Creators of any field can ignore the humanity of others, but at the end of the day, when we're creating something meant to be used and consumed by others, we need to relinquish control of that thing, and consider the emotions, reality, and humanity of the people interacting with it.
+
+This all goes without saying in my opinion, but a lot of people really do miss out on this, or they get so narrowed in they forget. Nothing about what Alexander set out to accomplish is exactly profound, but more of a reminder of things that we each already know. You know this stuff, you just have to remember it.
