@@ -1,6 +1,8 @@
 https://forum.endeavouros.com/t/how-to-make-executables-appear-in-rofi/36393
 
-Go to ~/.local/share/applications
+Go to ~/.local/share/applications for local
+
+Normal desktop files can be found at /usr/share/applications
 
 Create a file called \<name\>.desktop
 
