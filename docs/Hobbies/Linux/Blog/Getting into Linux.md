@@ -6,6 +6,6 @@ I started digging into the differences between all the distros and came to the c
 
 Void uses runit for initialization, and xbps as its package manager. Both have raving reviews online and everyone who uses them loves them. Between apt, dnf, pacman, nix, and a few others, xbps really seemed to stand out. It's really fast, lightweight, has very sensible commands. Void is also very lightweight, and isn't a fork of any distros. It's a standalone distro and ships with a very minimal installation.
 
-I was weight a few other distros, mainly debian, fedora, and arch. Gentoo was on the table but it's a bit too much for me right now. I also considered the BSDs but that's also too much. I gave NixOS a shot, but their documentation is mostly evangelizing functional programming and teaching you how it works so that you can learn how to configure your system. Compared to the Arch docs, it was not a very good time. Maybe I'll tackle it again later. 
+I was looking at a few other distros, mainly debian, fedora, and arch. Gentoo was on the table but it's a bit too much for me right now. I also considered the BSDs but that's also too much. I gave NixOS a shot, but their documentation is mostly evangelizing functional programming and teaching you how it works so that you can learn how to configure your system. Compared to the Arch docs, it was not a very good time. Maybe I'll tackle it again later. 
 
 Anyway, I settled on Void and installed it pretty painlessly. The set up was straight forward, and they have a nice little TUI for the install. 
