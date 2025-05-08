@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Week 8"
             }
+          },
+          {
+            "id": "eb4438fde838a78d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60bd863b5411d736",
+  "active": "eb4438fde838a78d",
   "lastOpenFiles": [
     "Academic/Design Patterns/CS-3450/Week 7.md",
     "Academic/Design Patterns/CS-3450/Week 8.md",

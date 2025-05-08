@@ -1,3 +1,5 @@
+Update: I'm on void linux and this method sucks. Just use xbps-src templates
+
 I created this bash script for fetching and updating software, this example is for vscode
 ```bash
 #!/bin/bash
